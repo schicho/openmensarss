@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mensa UNI Passau</title>
+    <link>https://github.com/schicho/openmensarss</link>
+    <description>Automated RSS feed using OpenMensa</description>
+    <managingEditor> (OpenMensa RSS Generator)</managingEditor>
+    <pubDate>Wed, 02 Jul 2025 15:07:07 +0200</pubDate>
+    <item>
+      <title>Chinasuppe</title>
+      <link></link>
+      <description>mit Antioxidationsmittel, geschwefelt, enthält Sulfite, Soja, Geflügel, Suppe</description>
+    </item>
+    <item>
+      <title>Scharfes Linsenragout auf Bio-Penne</title>
+      <link></link>
+      <description>mit Antioxidationsmittel, Weizen, Sellerie, vegan, ZTPHD, Hauptgerichte</description>
+    </item>
+    <item>
+      <title>Fleischpflanzerl mit Rahmsauce und Kartoffelpüree</title>
+      <link></link>
+      <description>mit Farbstoff, mit Antioxidationsmittel, enthält Sulfite, Weizen, Eier, Milch und Milchprodukte, Sellerie, Senf, Schweinefleisch, Rindfleisch, Hauptgerichte</description>
+    </item>
+    <item>
+      <title>Veganer Cornflakes Chicken Burger mit Ziggy fries</title>
+      <link></link>
+      <description>Weizen, Gerste, Senf, vegan, Hauptgerichte</description>
+    </item>
+    <item>
+      <title>Scholle natur auf Pfannengemüse, Currysauce und Bio-Reis</title>
+      <link></link>
+      <description>mit Farbstoff, mit Antioxidationsmittel, Weizen, Fisch, Sellerie, Hauptgerichte</description>
+    </item>
+    <item>
+      <title>Rahmspinat</title>
+      <link></link>
+      <description>mit Farbstoff, mit Antioxidationsmittel, Weizen, Milch und Milchprodukte, Sellerie, vegetarisch, Beilagen</description>
+    </item>
+    <item>
+      <title>Kartoffelpüree</title>
+      <link></link>
+      <description>mit Farbstoff, mit Antioxidationsmittel, enthält Sulfite, Milch und Milchprodukte, vegetarisch, Beilagen</description>
+    </item>
+    <item>
+      <title>Salatmixesar Dressing und Essig-Öl Dressing mediteranG und Karottensalat mit SonnenblumenkernenG und PusztasalatG und TomatensalatG</title>
+      <link></link>
+      <description>Milch und Milchprodukte, Sellerie, Senf, mit Antioxidationsmittel, geschwefelt, enthält Sulfite, mit Süssungsmittel Saccharin, ZTVC, vegetarisch, vegan, Beilagen</description>
+    </item>
+    <item>
+      <title>Ziggy Fries</title>
+      <link></link>
+      <description>vegan, Beilagen</description>
+    </item>
+    <item>
+      <title>Salat Buffet</title>
+      <link></link>
+      <description>mit Farbstoff, mit Konservierungsstoff, mit Antioxidationsmittel, geschwefelt, geschwärzt, mit Süssungsmittel Saccharin, Eier, Milch und Milchprodukte, Senf, Schwefeldioxid und Sulfite, vegetarisch, Beilagen</description>
+    </item>
+    <item>
+      <title>Eierlikör Pudding</title>
+      <link></link>
+      <description>Eier, Milch und Milchprodukte, vegetarisch, Alkohol, Nachspeisen</description>
+    </item>
+    <item>
+      <title>Amaretto Creme</title>
+      <link></link>
+      <description>Milch und Milchprodukte, Schalenfrüchte, Mandel, vegetarisch, Nachspeisen</description>
+    </item>
+  </channel>
+</rss>

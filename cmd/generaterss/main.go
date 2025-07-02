@@ -27,7 +27,7 @@ func main() {
 				return
 			}
 
-			file, err := os.Create(strconv.Itoa(canteenId) + ".xml")
+			file, err := os.Create("rss/" + strconv.Itoa(canteenId) + ".xml")
 			if err != nil {
 				fmt.Printf("err: %v\n", err)
 				return

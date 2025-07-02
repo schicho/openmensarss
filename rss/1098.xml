@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <link>https://github.com/schicho/openmensarss</link>
+    <description>Automated RSS feed using OpenMensa</description>
+    <managingEditor> (OpenMensa RSS Generator)</managingEditor>
+    <pubDate>Wed, 02 Jul 2025 15:07:07 +0200</pubDate>
+    <item>
+      <title>Geröstete Knödel mit Ei</title>
+      <link></link>
+      <description>A, C, F, G, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+    </item>
+    <item>
+      <title>Gyros vom Schwein mit Tomatenreis und Knoblauchdip</title>
+      <link></link>
+      <description>A, F, G, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+    </item>
+    <item>
+      <title>Burger Chicken Teriyaki mit Seakhouse Pommes</title>
+      <link></link>
+      <description>A, F, G, N, O, Tagesgerichte</description>
+    </item>
+    <item>
+      <title>Haloumi Burger mit Steakhouse Pommes</title>
+      <link></link>
+      <description>A, C, G, M, N, O, Tagesgerichte</description>
+    </item>
+  </channel>
+</rss>
