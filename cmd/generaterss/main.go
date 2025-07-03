@@ -21,16 +21,17 @@ func main() {
 	for _, canteenId := range Canteens {
 		wg.Add(1)
 		go func() {
+			fmt.Printf("converting canteend ID %v to RSS.\n", canteenId)
 			defer wg.Done()
 			feed, err := openmensarss.FeedForCanteenID(canteenId, time.Now())
 			if err != nil {
-				fmt.Printf("err: %v\n", err)
+				fmt.Printf("err: canteen ID: %v: %v\n", canteenId, err)
 				return
 			}
 
 			file, err := os.Create("rss/" + strconv.Itoa(canteenId) + ".xml")
 			if err != nil {
-				fmt.Printf("err: %v\n", err)
+				fmt.Printf("err: canteen ID: %v: %v\n", canteenId, err)
 				return
 			}
 
@@ -40,7 +41,7 @@ func main() {
 
 			err = feeds.WriteXML(rss, file)
 			if err != nil {
-				fmt.Printf("err: %v\n", err)
+				fmt.Printf("err: canteen ID: %v: %v\n", canteenId, err)
 				return
 			}
 		}()
