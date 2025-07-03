@@ -4,7 +4,13 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho+openmensarss@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 03 Jul 2025 09:29:29 +0000</pubDate>
+    <pubDate>Thu, 03 Jul 2025 16:18:37 +0000</pubDate>
+    <generator>OpenMensa RSS Generator</generator>
+    <image>
+      <url>https://schicho.github.io/openmensarss/omrss.gif</url>
+      <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+    </image>
     <item>
       <title>Broccoli Karfiol Auflauf mit Beilagensalat &amp; Kresse-Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
