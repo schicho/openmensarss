@@ -4,26 +4,26 @@
     <link>https://github.com/schicho/openmensarss</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor> (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 02 Jul 2025 13:27:13 +0000</pubDate>
+    <pubDate>Thu, 03 Jul 2025 04:42:08 +0000</pubDate>
     <item>
-      <title>Geröstete Knödel mit Ei</title>
+      <title>Broccoli Karfiol Auflauf mit Beilagensalat &amp; Kresse-Dip</title>
       <link></link>
-      <description>A, C, F, G, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, C, G, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Gyros vom Schwein mit Tomatenreis und Knoblauchdip</title>
+      <title>Sauce Bolognese vom Rind auf Tagliatelle mit frischem Parmesan</title>
       <link></link>
-      <description>A, F, G, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, C, G, L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Burger Chicken Teriyaki mit Seakhouse Pommes</title>
+      <title>Mohnnudeln mit Apfelmus und Staubzucker</title>
       <link></link>
-      <description>A, F, G, N, O, Tagesgerichte</description>
+      <description>A, C, G, Tagesgerichte</description>
     </item>
     <item>
-      <title>Haloumi Burger mit Steakhouse Pommes</title>
+      <title>Wildlachs Zitronen Oberssauce auf Linguini mit Parmesan &amp; Rucola</title>
       <link></link>
-      <description>A, C, G, M, N, O, Tagesgerichte</description>
+      <description>A, C, F, G, O, Tagesgerichte</description>
     </item>
   </channel>
 </rss>
