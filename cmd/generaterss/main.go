@@ -7,6 +7,7 @@ import (
 	"sync"
 	"time"
 
+	"github.com/gorilla/feeds"
 	"github.com/schicho/openmensarss"
 )
 
@@ -33,7 +34,11 @@ func main() {
 				return
 			}
 
-			err = feed.WriteRss(file)
+			// manually convert to RssFeed struct, so we can set the Generator field.
+			rss := (&feeds.Rss{Feed: feed}).RssFeed()
+			rss.Generator = openmensarss.OpenMensaRSSGenerator
+
+			err = feeds.WriteXML(rss, file)
 			if err != nil {
 				fmt.Printf("err: %v\n", err)
 				return
