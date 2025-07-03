@@ -36,6 +36,7 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 		Link:        &githubIoLink,
 		Description: "Automated RSS feed using OpenMensa",
 		Author:      &feeds.Author{Name: OpenMensaRSSGenerator, Email: "johann.schicho+openmensarss@tuwien.ac.at"},
+		Image:       &feeds.Image{Url: "https://schicho.github.io/openmensarss/omrss.gif", Title: canteen.Name, Link: githubIoLink.Href},
 		Created:     time.Now(),
 	}
 
