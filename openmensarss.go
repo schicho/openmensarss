@@ -8,6 +8,8 @@ import (
 	"github.com/j0hax/go-openmensa"
 )
 
+var githubIoLink feeds.Link = feeds.Link{Href: "https://schicho.github.io/openmensarss/"}
+
 func FeedForCanteenID(id int, date time.Time) (*feeds.Feed, error) {
 	canteen, err := openmensa.GetCanteen(id)
 	if err != nil {
@@ -29,16 +31,16 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 
 	feed := &feeds.Feed{
 		Title:       canteen.Name,
-		Link:        &feeds.Link{Href: "https://github.com/schicho/openmensarss"},
+		Link:        &githubIoLink,
 		Description: "Automated RSS feed using OpenMensa",
-		Author:      &feeds.Author{Name: "OpenMensa RSS Generator"},
+		Author:      &feeds.Author{Name: "OpenMensa RSS Generator", Email: "johann.schicho+openmensarss@tuwien.ac.at"},
 		Created:     time.Now(),
 	}
 
 	feed.Items = make([]*feeds.Item, 0, 10)
 
 	for _, meal := range menu.Meals {
-		feed.Items = append(feed.Items, createFeedItem(meal))
+		feed.Add(createFeedItem(meal))
 	}
 
 	return feed, nil
@@ -50,5 +52,6 @@ func createFeedItem(meal openmensa.Meal) *feeds.Item {
 	return &feeds.Item{
 		Title:       meal.Name,
 		Description: desc,
+		Link:        &githubIoLink,
 	}
 }
