@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
-    <link>https://github.com/schicho/openmensarss</link>
+    <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
-    <managingEditor> (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 03 Jul 2025 04:42:08 +0000</pubDate>
+    <managingEditor>johann.schicho+openmensarss@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
+    <pubDate>Thu, 03 Jul 2025 09:29:29 +0000</pubDate>
     <item>
       <title>Broccoli Karfiol Auflauf mit Beilagensalat &amp; Kresse-Dip</title>
-      <link></link>
+      <link>https://schicho.github.io/openmensarss/</link>
       <description>A, C, G, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
       <title>Sauce Bolognese vom Rind auf Tagliatelle mit frischem Parmesan</title>
-      <link></link>
+      <link>https://schicho.github.io/openmensarss/</link>
       <description>A, C, G, L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
       <title>Mohnnudeln mit Apfelmus und Staubzucker</title>
-      <link></link>
+      <link>https://schicho.github.io/openmensarss/</link>
       <description>A, C, G, Tagesgerichte</description>
     </item>
     <item>
       <title>Wildlachs Zitronen Oberssauce auf Linguini mit Parmesan &amp; Rucola</title>
-      <link></link>
+      <link>https://schicho.github.io/openmensarss/</link>
       <description>A, C, F, G, O, Tagesgerichte</description>
     </item>
   </channel>
