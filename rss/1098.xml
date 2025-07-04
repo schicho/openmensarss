@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho+openmensarss@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 03 Jul 2025 16:18:37 +0000</pubDate>
+    <pubDate>Fri, 04 Jul 2025 03:00:55 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Broccoli Karfiol Auflauf mit Beilagensalat &amp; Kresse-Dip</title>
+      <title>Ratatouille Gemüse mit Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Sauce Bolognese vom Rind auf Tagliatelle mit frischem Parmesan</title>
+      <title>Hühnerfleisch 8 Schätze dazu gebratenem Eierreis und Gemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, C, E, F, G, N, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Mohnnudeln mit Apfelmus und Staubzucker</title>
+      <title>Tagliatelle Pesto rosso mit Parmesan und Rucola</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, Tagesgerichte</description>
+      <description>A, C, G, O, Tagesgerichte</description>
     </item>
     <item>
-      <title>Wildlachs Zitronen Oberssauce auf Linguini mit Parmesan &amp; Rucola</title>
+      <title>Alaska Seelachsfilet im Sesammantel mit Erdäpfelsalat, &amp; Sauce Tartare</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, F, G, O, Tagesgerichte</description>
+      <description>A, C, D, G, M, N, O, Tagesgerichte</description>
     </item>
   </channel>
 </rss>
