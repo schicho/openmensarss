@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho+openmensarss@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Fri, 04 Jul 2025 03:00:55 +0000</pubDate>
+    <pubDate>Mon, 07 Jul 2025 03:09:28 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Ratatouille Gemüse mit Cous Cous</title>
+      <title>Artischockensauce mit Salbei auf Tagliatelle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, F, L, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Hühnerfleisch 8 Schätze dazu gebratenem Eierreis und Gemüse</title>
+      <title>Putengeschnetzeltes mit Sauerrahmsauce neben gebratene Schupfnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, E, F, G, N, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, C, G, L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Tagliatelle Pesto rosso mit Parmesan und Rucola</title>
+      <title>Surschnitzel gebacken mit Erdäpfelsalat und Zitrone</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, O, Tagesgerichte</description>
+      <description>A, C, M, O, Tagesgerichte</description>
     </item>
     <item>
-      <title>Alaska Seelachsfilet im Sesammantel mit Erdäpfelsalat, &amp; Sauce Tartare</title>
+      <title>Champs &amp; Chips</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, D, G, M, N, O, Tagesgerichte</description>
+      <description>A, M, Tagesgerichte</description>
     </item>
   </channel>
 </rss>

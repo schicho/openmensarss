@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho+openmensarss@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Fri, 04 Jul 2025 03:00:55 +0000</pubDate>
+    <pubDate>Mon, 07 Jul 2025 03:09:28 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,64 +12,69 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Spargelcremesuppe</title>
+      <title>Erbsensuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>mit Farbstoff, mit Antioxidationsmittel, Milch und Milchprodukte, Sellerie, vegetarisch, Suppe</description>
+      <description>mit Antioxidationsmittel, Milch und Milchprodukte, Sellerie, vegetarisch, Suppe</description>
     </item>
     <item>
-      <title>Reibekuchen mit Apfelmus</title>
+      <title>Vollkornröstling mit Karotten-Spinatgemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>mit Antioxidationsmittel, Weizen, Eier, vegetarisch, Hauptgerichte</description>
+      <description>mit Farbstoff, mit Antioxidationsmittel, Weizen, Eier, Milch und Milchprodukte, Sellerie, vegetarisch, ZTPHD, Hauptgerichte</description>
     </item>
     <item>
-      <title>Wrap mit roter Bete Falafel vegan</title>
+      <title>Veganer Nudel-Gemüseauflauf mit Tomatensoße</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Weizen, Hafer, Soja, vegan, Hauptgerichte</description>
+      <description>mit Antioxidationsmittel, Weizen, Hafer, Sellerie, vegan, Hauptgerichte</description>
     </item>
     <item>
-      <title>Fischpflanzerl gebacken mit Kartoffelsalat</title>
+      <title>Schupfnudel-Gemüsepfanne mit Putenbruststreifen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>mit Süssungsmittel Saccharin, Weizen, Eier, Fisch, Milch und Milchprodukte, Senf, Hauptgerichte</description>
+      <description>mit Farbstoff, Weizen, Eier, Sellerie, Geflügel, Hauptgerichte</description>
     </item>
     <item>
-      <title>Truthahnsteak Gärtnerin mit Reis</title>
+      <title>Schweine Hütten Cordon Bleu mit Kartoffelsalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>mit Farbstoff, enthält Sulfite, Milch und Milchprodukte, Geflügel, Alkohol, Hauptgerichte</description>
+      <description>mit Konservierungsstoff, mit Antioxidationsmittel, Weizen, Eier, Milch und Milchprodukte, Senf, Schweinefleisch, Hauptgerichte</description>
     </item>
     <item>
-      <title>Bio-Reis mit Gemüsewürfeln</title>
+      <title>Kaisergemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>mit Antioxidationsmittel, Sellerie, vegan, Beilagen</description>
+      <description>mit Farbstoff, mit Antioxidationsmittel, Sellerie, vegan, Beilagen</description>
     </item>
     <item>
-      <title>Petersilienkartoffeln</title>
+      <title>Bio-Nudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>mit Farbstoff, mit Antioxidationsmittel, vegan, Beilagen</description>
+      <description>Weizen, DE-ÖKO-006 mit ausschließlich biologisch erzeugten Rohstoffen, vegan, Beilagen</description>
     </item>
     <item>
-      <title>Bohnengemüse italienische Art</title>
+      <title>Salatmixssig-Öl Dressing mediteran und Creme Fraiche Kräuterdressing und Tomatensalat und Gurkencocktail und Sellerie Karottenrohkost</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>mit Antioxidationsmittel, Weizen, Sellerie, vegan, Beilagen</description>
+      <description>mit Antioxidationsmittel, geschwefelt, enthält Sulfite, Sellerie, Milch und Milchprodukte, Haselnuss, ZTVE, vegan, vegetarisch, Beilagen</description>
     </item>
     <item>
-      <title>Salatmixssig-Öl Dressing mediteran und Sesam Dressing und Salat Rustika und Kohlrabirohkost und Rote Rübensalat</title>
+      <title>Bunter Kartoffelsalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>mit Antioxidationsmittel, geschwefelt, enthält Sulfite, Sellerie, mit Süssungsmittel Saccharin, Eier, Soja, Milch und Milchprodukte, Senf, Sesamsamen, Schwefeldioxid und Sulfite, Haselnuss, ZTVE, vegan, vegetarisch, Beilagen</description>
+      <description>mit Farbstoff, Senf, vegan, Beilagen</description>
     </item>
     <item>
-      <title>Kroketten</title>
+      <title>Country Kartoffeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Weizen, vegan, Beilagen</description>
     </item>
     <item>
-      <title>Vanillequark</title>
+      <title>Salat Buffet</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Milch und Milchprodukte, vegetarisch, Nachspeisen</description>
+      <description>mit Farbstoff, mit Konservierungsstoff, mit Antioxidationsmittel, geschwefelt, geschwärzt, mit Süssungsmittel Saccharin, Eier, Milch und Milchprodukte, Senf, Schwefeldioxid und Sulfite, vegetarisch, Beilagen</description>
     </item>
     <item>
-      <title>Chia Kokos Schokopudding mit Kirschen</title>
+      <title>Mandelpudding mit Mango</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>mit Farbstoff, Pistazie, vegan, Nachspeisen</description>
+      <description>Milch und Milchprodukte, Schalenfrüchte, vegetarisch, Nachspeisen</description>
+    </item>
+    <item>
+      <title>Chocolat de Coco</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Milch und Milchprodukte, vegetarisch, Nachspeisen</description>
     </item>
   </channel>
 </rss>
