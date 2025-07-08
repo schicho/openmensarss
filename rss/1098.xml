@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho+openmensarss@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 07 Jul 2025 03:09:28 +0000</pubDate>
+    <pubDate>Tue, 08 Jul 2025 03:03:41 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Artischockensauce mit Salbei auf Tagliatelle</title>
+      <title>Cremige Käsespätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, F, L, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, C, F, G, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Putengeschnetzeltes mit Sauerrahmsauce neben gebratene Schupfnudeln</title>
+      <title>Paella vom Huhn</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Surschnitzel gebacken mit Erdäpfelsalat und Zitrone</title>
+      <title>Bratwurst gebraten mit Natursauce, Erbsen und Erdäpfelpurée</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, M, O, Tagesgerichte</description>
+      <description>G, L, M, O, Tagesgerichte</description>
     </item>
     <item>
-      <title>Champs &amp; Chips</title>
+      <title>Wrap Asia mit Avocado Dip und frischen Rucola Salat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, M, Tagesgerichte</description>
+      <description>A, F, G, M, N, O, Tagesgerichte</description>
     </item>
   </channel>
 </rss>
