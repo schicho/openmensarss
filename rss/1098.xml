@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho+openmensarss@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 08 Jul 2025 03:03:41 +0000</pubDate>
+    <pubDate>Wed, 09 Jul 2025 03:06:57 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Cremige Käsespätzle</title>
+      <title>Gemüse Lasagne mit Tomatenragout</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, F, G, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, G, L, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Paella vom Huhn</title>
+      <title>Chicken Koi Soi würziges Curry-Huhn auf Glasnudel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, F, N, O, R, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Bratwurst gebraten mit Natursauce, Erbsen und Erdäpfelpurée</title>
+      <title>Burger Pulled Pork mit Steakhouse Pommes</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>G, L, M, O, Tagesgerichte</description>
+      <description>A, C, G, M, N, O, Tagesgerichte</description>
     </item>
     <item>
-      <title>Wrap Asia mit Avocado Dip und frischen Rucola Salat</title>
+      <title>Veganer Burger Mensa Style mit Steakhouse Pommes</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, F, G, M, N, O, Tagesgerichte</description>
+      <description>A, C, F, G, H, L, M, N, O, Tagesgerichte</description>
     </item>
   </channel>
 </rss>
