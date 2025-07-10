@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho+openmensarss@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 09 Jul 2025 03:06:57 +0000</pubDate>
+    <pubDate>Thu, 10 Jul 2025 03:06:57 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gemüse Lasagne mit Tomatenragout</title>
+      <title>Aromatisches Süßkartoffel-Gemüse-Curry mit BIO-Tofu und Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, G, L, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, F, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Chicken Koi Soi würziges Curry-Huhn auf Glasnudel</title>
+      <title>Hascheehörnchen vom Rind</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, F, N, O, R, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, C, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Burger Pulled Pork mit Steakhouse Pommes</title>
+      <title>Teriyaki Chicken mit frischem Wok Gemüse und Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, M, N, O, Tagesgerichte</description>
+      <description>A, F, N, O, Tagesgerichte</description>
     </item>
     <item>
-      <title>Veganer Burger Mensa Style mit Steakhouse Pommes</title>
+      <title>Curryragout mit Zucchini, Karotten dazu Eiernudeln &amp; Sojasprossen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, F, G, H, L, M, N, O, Tagesgerichte</description>
+      <description>A, C, F, N, Tagesgerichte</description>
     </item>
   </channel>
 </rss>
