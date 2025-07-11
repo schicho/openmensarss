@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho+openmensarss@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 10 Jul 2025 03:06:57 +0000</pubDate>
+    <pubDate>Fri, 11 Jul 2025 03:11:23 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Aromatisches Süßkartoffel-Gemüse-Curry mit BIO-Tofu und Cous Cous</title>
+      <title>Gemüseragout auf mediterrane Art dazu knusprige Rösti</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, F, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Hascheehörnchen vom Rind</title>
+      <title>Grammelknödel mit warmen Krautsalat und Natursauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, C, L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Teriyaki Chicken mit frischem Wok Gemüse und Jasminreis</title>
+      <title>Hausgemachter Kaiserschmarren mit Zwetschkenröster</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, F, N, O, Tagesgerichte</description>
+      <description>A, C, G, Tagesgerichte</description>
     </item>
     <item>
-      <title>Curryragout mit Zucchini, Karotten dazu Eiernudeln &amp; Sojasprossen</title>
+      <title>Zanderfilet gebacken auf Butterreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, F, N, Tagesgerichte</description>
+      <description>A, C, G, Tagesgerichte</description>
     </item>
   </channel>
 </rss>
