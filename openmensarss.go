@@ -31,13 +31,20 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 		return nil, err
 	}
 
+	t := time.Now()
+
+	b := strings.Builder{}
+	b.WriteString(t.Format("2006-01-02"))
+	b.WriteString(", ")
+	b.WriteString(canteen.Name)
+
 	feed := &feeds.Feed{
-		Title:       canteen.Name,
+		Title:       b.String(),
 		Link:        &githubIoLink,
 		Description: "Automated RSS feed using OpenMensa",
 		Author:      &feeds.Author{Name: OpenMensaRSSGenerator, Email: "johann.schicho+openmensarss@tuwien.ac.at"},
 		Image:       &feeds.Image{Url: "https://schicho.github.io/openmensarss/omrss.gif", Title: canteen.Name, Link: githubIoLink.Href},
-		Created:     time.Now(),
+		Created:     t,
 	}
 
 	feed.Items = make([]*feeds.Item, 0, 10)
