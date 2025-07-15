@@ -10,7 +10,19 @@ import (
 
 const OpenMensaRSSGenerator string = "OpenMensa RSS Generator"
 
-var githubIoLink feeds.Link = feeds.Link{Href: "https://schicho.github.io/openmensarss/"}
+var RSSMetadata = struct {
+	Description   string
+	GeneratorName string
+	Author        *feeds.Author
+	Link          *feeds.Link
+	Image         *feeds.Image
+}{
+	Description:   "Automated RSS feed using OpenMensa",
+	GeneratorName: OpenMensaRSSGenerator,
+	Author:        &feeds.Author{Name: OpenMensaRSSGenerator, Email: "johann.schicho@tuwien.ac.at"},
+	Link:          &feeds.Link{Href: "https://schicho.github.io/openmensarss/"},
+	Image:         &feeds.Image{Url: "https://schicho.github.io/openmensarss/omrss.gif", Title: OpenMensaRSSGenerator, Link: "https://schicho.github.io/openmensarss/"},
+}
 
 func FeedForCanteenID(id int, date time.Time) (*feeds.Feed, error) {
 	canteen, err := openmensa.GetCanteen(id)
@@ -40,10 +52,10 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 
 	feed := &feeds.Feed{
 		Title:       b.String(),
-		Link:        &githubIoLink,
-		Description: "Automated RSS feed using OpenMensa",
-		Author:      &feeds.Author{Name: OpenMensaRSSGenerator, Email: "johann.schicho+openmensarss@tuwien.ac.at"},
-		Image:       &feeds.Image{Url: "https://schicho.github.io/openmensarss/omrss.gif", Title: canteen.Name, Link: githubIoLink.Href},
+		Link:        RSSMetadata.Link,
+		Description: RSSMetadata.Description,
+		Author:      RSSMetadata.Author,
+		Image:       RSSMetadata.Image,
 		Created:     t,
 	}
 
@@ -62,6 +74,6 @@ func createFeedItem(meal openmensa.Meal) *feeds.Item {
 	return &feeds.Item{
 		Title:       meal.Name,
 		Description: desc,
-		Link:        &githubIoLink,
+		Link:        RSSMetadata.Link,
 	}
 }
