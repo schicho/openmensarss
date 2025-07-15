@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho+openmensarss@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 14 Jul 2025 03:15:42 +0000</pubDate>
+    <pubDate>Tue, 15 Jul 2025 03:13:53 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gnocchi mit Cafe de Paris Sauce und frischer Parmesan</title>
+      <title>Paprika-Lauch Ragout mit Penne</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, F, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Griechisches Pastizio mit Petersilsauce</title>
+      <title>Zitronen-Koriander Huhn mit Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, F, G, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Wiener Schnitzel von der Pute Butterreis Ketchup Zitrone</title>
+      <title>Pulled Beef mit Bratkartoffeln und Avocado-Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, Tagesgerichte</description>
+      <description>O, Tagesgerichte</description>
     </item>
     <item>
-      <title>Hausgemacht Gebackener Camembert mit Petersilerdäpfel und Sauce Tartare</title>
+      <title>Topfen-Hirse Laibchen Kräuter-Baguette Bunte Blattsalate der Saison mit Joghurt Dressing</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, M, Tagesgerichte</description>
+      <description>A, C, F, G, O, Tagesgerichte</description>
     </item>
   </channel>
 </rss>
