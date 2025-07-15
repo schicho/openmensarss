@@ -29,6 +29,10 @@ func main() {
 				return
 			}
 
+			// overwrite image with custom 88x31 image per feed
+			img := &feeds.Image{Url: fmt.Sprintf("https://schicho.github.io/openmensarss/%v.gif", canteenId), Title: openmensarss.OpenMensaRSSGenerator, Link: "https://schicho.github.io/openmensarss/"}
+			feed.Image = img
+
 			file, err := os.Create("rss/" + strconv.Itoa(canteenId) + ".xml")
 			if err != nil {
 				fmt.Printf("err: canteen ID: %v: %v\n", canteenId, err)
