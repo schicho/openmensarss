@@ -21,7 +21,7 @@ func main() {
 	for _, canteenId := range Canteens {
 		wg.Add(1)
 		go func() {
-			fmt.Printf("converting canteend ID %v to RSS.\n", canteenId)
+			fmt.Printf("Generating RSS for canteen ID %v\n", canteenId)
 			defer wg.Done()
 			feed, err := openmensarss.FeedForCanteenID(canteenId, time.Now())
 			if err != nil {
