@@ -46,7 +46,7 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 	t := time.Now()
 
 	b := strings.Builder{}
-	b.WriteString(t.Format("2006-01-02"))
+	b.WriteString(t.Format("Mon, 02 Jan 2006"))
 	b.WriteString(", ")
 	b.WriteString(canteen.Name)
 

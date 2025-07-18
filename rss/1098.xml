@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>2025-07-18, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Fri, 18 Jul 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Fri, 18 Jul 2025 03:13:35 +0000</pubDate>
+    <pubDate>Fri, 18 Jul 2025 18:03:28 +0200</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
-      <url>https://schicho.github.io/openmensarss/1098.gif</url>
+      <url>https://schicho.github.io/openmensarss/omrss.gif</url>
       <title>OpenMensa RSS Generator</title>
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
