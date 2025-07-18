@@ -59,7 +59,7 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 		Created:     t,
 	}
 
-	feed.Items = make([]*feeds.Item, 0, 10)
+	feed.Items = make([]*feeds.Item, 0, len(menu.Meals))
 
 	for _, meal := range menu.Meals {
 		feed.Add(createFeedItem(meal))
