@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mon, 21 Jul 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Tue, 22 Jul 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 21 Jul 2025 03:19:15 +0000</pubDate>
+    <pubDate>Tue, 22 Jul 2025 03:13:07 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Spinatlasagne mit Fetakäse dazu Cafe de Paris Sauce</title>
+      <title>Texanischer Bohnen-Eintopf mit Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, F, G, M, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Chicken Rogan Josh an Jasminreis</title>
+      <title>Spaghetti Bolognese von der Pute mit frischem Parmesan</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>G, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, C, G, L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Gebackenes Hühnerschnitzel dazu Petersilerdäpfel und Zitrone</title>
+      <title>Buntes Wokgemüse in Süß Saurer Sauce auf Eiernudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, Tagesgerichte</description>
+      <description>A, C, F, N, O, Tagesgerichte</description>
     </item>
     <item>
-      <title>Gebackene Champignons mit Sauce Tartare</title>
+      <title>Chicken Wings mit Steakhouse Pommes und Chili-Ketchup-Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, M, Tagesgerichte</description>
+      <description>A, F, M, N, O, Tagesgerichte</description>
     </item>
   </channel>
 </rss>
