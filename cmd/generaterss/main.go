@@ -13,8 +13,9 @@ import (
 
 const TU_WIEN int = 1098
 const UNI_PASSAU int = 196
+const AKBILD_WIEN int = 1957
 
-var Canteens []int = []int{TU_WIEN, UNI_PASSAU}
+var Canteens []int = []int{TU_WIEN, UNI_PASSAU, AKBILD_WIEN}
 
 func main() {
 	wg := &sync.WaitGroup{}
