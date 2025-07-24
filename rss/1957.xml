@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thu, 24 Jul 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Thu, 24 Jul 2025, Akademie der bildenden Künste Wien</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
@@ -12,24 +12,14 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gemüse Chili mit Fladenbrot</title>
+      <title>Cremespinat mit Rösti und Spiegelei</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, L, N, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>vegan</description>
     </item>
     <item>
-      <title>Polpetti in Tomatensauce mit Bratkartoffeln</title>
+      <title>Honig Karreebraten mit Reis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, F, G, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
-    </item>
-    <item>
-      <title>Linguini mit rotem Pesto (Pesto rosso) dazu Parmesan und Rucola</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, O, Tagesgerichte</description>
-    </item>
-    <item>
-      <title>Hausgemachte Pizza mit Salami</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, G, Tagesgerichte</description>
+      <description>nicht vegetarisch</description>
     </item>
   </channel>
 </rss>
