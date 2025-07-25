@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thu, 24 Jul 2025, Akademie der bildenden Künste Wien</title>
+    <title>Fri, 25 Jul 2025, Akademie der bildenden Künste Wien</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 24 Jul 2025 03:13:21 +0000</pubDate>
+    <pubDate>Fri, 25 Jul 2025 03:13:08 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,12 +12,12 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Cremespinat mit Rösti und Spiegelei</title>
+      <title>Zucchini griechische Art</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>vegan</description>
+      <description>vegetarisch</description>
     </item>
     <item>
-      <title>Honig Karreebraten mit Reis</title>
+      <title>Hühnerschnitzel mit Risi Bisi</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>nicht vegetarisch</description>
     </item>
