@@ -1,10 +1,8 @@
 # OpenMensaRSS
 
-![OpenMensaRSS Logo](rss/omrss.gif)
+[![OpenMensaRSS Logo](rss/omrss.gif)](https://schicho.github.io/openmensarss/)
 
 OpenMensa RSS library and feed generation in Go.
-
-https://schicho.github.io/openmensarss/
 
 ## Libary Usage
 
