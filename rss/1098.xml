@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Fri, 25 Jul 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Mon, 28 Jul 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Fri, 25 Jul 2025 03:13:08 +0000</pubDate>
+    <pubDate>Mon, 28 Jul 2025 03:20:13 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Hirsepfanne mit BIO-Tofu und Spinat</title>
+      <title>Erdäpfelgulasch mit einer Semmel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>F, G, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, G, L, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Pikantes Kichererbsen-Putencurry mit Gemüse und Bulgur</title>
+      <title>Schweinsbraten vom Karree mit hausgemachte Serviettenknödel und Natursauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, G, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>A, C, G, L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
     </item>
     <item>
-      <title>Grießschmarren mit Staubzucker und Marillenröster</title>
+      <title>Schweinsschnitzel in der Kürbispanade mit Petersilerdäpfel und Zitrone</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, G, O, Tagesgerichte</description>
+      <description>A, C, G, Tagesgerichte</description>
     </item>
     <item>
-      <title>Schollenfilet MSC natur gebraten mit Laucherdäpfel</title>
+      <title>Gebackener Emmentaler mit Petersilerdäpfel und Sauce Remoulade</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>G, Tagesgerichte</description>
+      <description>A, C, G, M, Tagesgerichte</description>
     </item>
   </channel>
 </rss>
