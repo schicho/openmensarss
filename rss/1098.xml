@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 28 Jul 2025 03:20:13 +0000</pubDate>
+    <pubDate>Mon, 28 Jul 2025 15:09:28 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,22 @@
     <item>
       <title>Erdäpfelgulasch mit einer Semmel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, G, L, O, Menü Veggie (inkl. Suppe oder Beilagensalat)</description>
+      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, G, L, O</description>
     </item>
     <item>
       <title>Schweinsbraten vom Karree mit hausgemachte Serviettenknödel und Natursauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, L, O, Menü Herzhaft (inkl. Suppe oder Beilagensalat)</description>
+      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, C, G, L, O</description>
     </item>
     <item>
       <title>Schweinsschnitzel in der Kürbispanade mit Petersilerdäpfel und Zitrone</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, Tagesgerichte</description>
+      <description>Others: 8.90, Tagesgerichte, A, C, G</description>
     </item>
     <item>
       <title>Gebackener Emmentaler mit Petersilerdäpfel und Sauce Remoulade</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>A, C, G, M, Tagesgerichte</description>
+      <description>Others: 9.30, Tagesgerichte, A, C, G, M</description>
     </item>
   </channel>
 </rss>
