@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wed, 30 Jul 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Thu, 31 Jul 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 30 Jul 2025 03:17:52 +0000</pubDate>
+    <pubDate>Thu, 31 Jul 2025 03:16:20 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Ratatouille Gemüse auf Rösti mit Kren- Kräutern Dip</title>
+      <title>Goudasauce mit Schnittlauch auf Tagliatelle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), F, O</description>
+      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, F, G, O</description>
     </item>
     <item>
-      <title>Mexikanischer Wrap mit Pute dazu Knoblauch Paprika Dip</title>
+      <title>Paprika Hendl und Spätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, G, O</description>
+      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, C, F, G, O</description>
     </item>
     <item>
-      <title>Little Italy Burger mit BIO Rindfleisch dazu Potato Wedges</title>
+      <title>Kichererbsen Süßkartoffel Tajine auf Orientalischer Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 11.90, Tagesgerichte, A, C, G, O</description>
+      <description>Others: 8.60, Tagesgerichte, A, O</description>
     </item>
     <item>
-      <title>Veganer Burger Mensa Style dazu Potato Wedges</title>
+      <title>Quiche mit Räucherlachs ASC &amp; Broccoli und Schnittlauchdip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 9.90, Tagesgerichte, A, C, F, G, H, L, M, N, O</description>
+      <description>Others: 10.50, Tagesgerichte, A, C, D, G</description>
     </item>
   </channel>
 </rss>
