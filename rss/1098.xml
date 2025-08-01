@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thu, 31 Jul 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Fri, 01 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 31 Jul 2025 03:16:20 +0000</pubDate>
+    <pubDate>Fri, 01 Aug 2025 03:28:05 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Goudasauce mit Schnittlauch auf Tagliatelle</title>
+      <title>Indisches Chana Masala dazu Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, F, G, O</description>
+      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, O</description>
     </item>
     <item>
-      <title>Paprika Hendl und Spätzle</title>
+      <title>Hühner Tajine mit Kichererbsen &amp; Harissa und Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, C, F, G, O</description>
+      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, O</description>
     </item>
     <item>
-      <title>Kichererbsen Süßkartoffel Tajine auf Orientalischer Cous Cous</title>
+      <title>Zanderfilet gebacken mit Erdäpfel-Gurkensalat und Zitrone</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 8.60, Tagesgerichte, A, O</description>
+      <description>Others: 10.90, Tagesgerichte, A, C, M, O</description>
     </item>
     <item>
-      <title>Quiche mit Räucherlachs ASC &amp; Broccoli und Schnittlauchdip</title>
+      <title>Vanillesauce mit Topfenstrudel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 10.50, Tagesgerichte, A, C, D, G</description>
+      <description>Others: 6.50, Tagesgerichte, A, C, G</description>
     </item>
   </channel>
 </rss>
