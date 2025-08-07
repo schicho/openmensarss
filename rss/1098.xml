@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wed, 06 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Thu, 07 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 06 Aug 2025 03:18:17 +0000</pubDate>
+    <pubDate>Thu, 07 Aug 2025 03:18:26 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Indische Dal Linsen mit Curryreis</title>
+      <title>Hausgemachte Spinatknödel mit Gemüse-Kräuterrahmsauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), O</description>
+      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, C, F, G, L, O</description>
     </item>
     <item>
-      <title>Ofenerdäpfel mit Speck Lauch Fülle und Knoblauch Paprika Dip</title>
+      <title>Massaman Beef Curry mit Cous Cous und Koriander</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), G, O</description>
+      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, E, F, R</description>
     </item>
     <item>
-      <title>Cheese Burger mit BIO Rindfleisch und Potato Wedges</title>
+      <title>Käsespätzle mit Röstzwiebel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 11.90, Tagesgerichte, A, C, G, H, M, N, O</description>
+      <description>Others: 7.90, Tagesgerichte, A, C, F, G</description>
     </item>
     <item>
-      <title>Rösti Burger mit Potato Wedges</title>
+      <title>Asiatisches Rosmarin-Zitronen Huhn mit Jasminreis und Koriander</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 9.90, Tagesgerichte, A, C, G, M, N, O</description>
+      <description>Others: 10.50, Tagesgerichte, A, F, O</description>
     </item>
   </channel>
 </rss>
