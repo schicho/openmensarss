@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thu, 07 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Fri, 08 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 07 Aug 2025 03:18:26 +0000</pubDate>
+    <pubDate>Fri, 08 Aug 2025 03:18:04 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Hausgemachte Spinatknödel mit Gemüse-Kräuterrahmsauce</title>
+      <title>Mediterraner Gemüse Wrap dazu Tzatziki</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, C, F, G, L, O</description>
+      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, F, L, O</description>
     </item>
     <item>
-      <title>Massaman Beef Curry mit Cous Cous und Koriander</title>
+      <title>Eintopf mit Hühnerfleisch und Karotten und Bio Fusilli</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, E, F, R</description>
+      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, F, L, O</description>
     </item>
     <item>
-      <title>Käsespätzle mit Röstzwiebel</title>
+      <title>Gebackener Süßer Reisauflauf mit Vanillesauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 7.90, Tagesgerichte, A, C, F, G</description>
+      <description>Others: 6.90, Tagesgerichte, C, G, O</description>
     </item>
     <item>
-      <title>Asiatisches Rosmarin-Zitronen Huhn mit Jasminreis und Koriander</title>
+      <title>Alaska Seelachsfilet MSC in Kartoffelpanade dazu Erdäpfel mit Schnittlauch, Zitrone und Sauce Remoulade</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 10.50, Tagesgerichte, A, F, O</description>
+      <description>Others: 9.90, Tagesgerichte, A, C, D, G, M</description>
     </item>
   </channel>
 </rss>
