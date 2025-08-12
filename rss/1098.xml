@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mon, 11 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Tue, 12 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 11 Aug 2025 03:17:27 +0000</pubDate>
+    <pubDate>Tue, 12 Aug 2025 02:58:33 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gnocchi auf Tomatenragout mit Melanzani, Basilikum und Parmesan</title>
+      <title>Mediterrane Ebly-Gemüsepfanne dazu Rucola</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, C, G, O</description>
+      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, O</description>
     </item>
     <item>
-      <title>Chili con Carne (Rind) mit einer Semmel</title>
+      <title>Griechischer Geflügel-Gemüsewrap mit Feta an Soja-Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, G, O</description>
+      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, F, G, L, O</description>
     </item>
     <item>
-      <title>Putenschnitzel in Cornflakespanade mit Erdäpfelsalat</title>
+      <title>Basilikumrisotto mit geschmorte Cherrytomaten, frischem Parmesan und Rucola</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 10.50, Tagesgerichte, A, C, M, O</description>
+      <description>Others: 7.90, Tagesgerichte, C, G, O</description>
     </item>
     <item>
-      <title>Gebackener Gouda mit Petersilerdäpfel &amp; Sauce Tartare</title>
+      <title>Hühnerfilet mit Birne &amp; Chili dazu Kräuter-Baguette und Blattsalat mit Joghurt Dressing</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 9.30, Tagesgerichte, A, C, G, M</description>
+      <description>Others: 9.90, Tagesgerichte, A, F, G, O</description>
     </item>
   </channel>
 </rss>
