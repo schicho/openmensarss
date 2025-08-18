@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thu, 14 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Mon, 18 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 14 Aug 2025 03:04:35 +0000</pubDate>
+    <pubDate>Mon, 18 Aug 2025 03:13:19 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Broccoli Karfiol Auflauf mit Beilagensalat</title>
+      <title>Artischockensauce mit Salbei auf Tagliatelle mit Kräutern</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, C, G, O</description>
+      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, F, L, O</description>
     </item>
     <item>
-      <title>Sauce Bolognese vom Rind auf Tagliatelle dazu frischer Parmesan</title>
+      <title>Putengeschnetzeltes mit Sauerrahmsauce und gebratene Schupfnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, C, G, L, O</description>
     </item>
     <item>
-      <title>Scheiterhaufen mit Äpfel und Vanillesauce</title>
+      <title>Gebackenes Schweinsschnitzel Erdäpfel mit Schnittlauch Zitrone</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 6.50, Tagesgerichte, A, C, G</description>
+      <description>Others: 8.90, Tagesgerichte, A, C, G</description>
     </item>
     <item>
-      <title>Wildlachs MSC in Zitronen Oberssauce mit Gnocchi, Parmesan &amp; on top Rucola</title>
+      <title>Gebackener Karfiol dazu Erdäpfel mit Schnittlauch und Kräuterjoghurt Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 8.60, Tagesgerichte, A, C, F, G, O</description>
+      <description>Others: 6.50, Tagesgerichte, A, C, G</description>
     </item>
   </channel>
 </rss>
