@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mon, 18 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Tue, 19 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 18 Aug 2025 03:13:19 +0000</pubDate>
+    <pubDate>Tue, 19 Aug 2025 02:52:28 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Artischockensauce mit Salbei auf Tagliatelle mit Kräutern</title>
+      <title>Käsespätzle mit Röstzwiebel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, F, L, O</description>
+      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, C, F, G</description>
     </item>
     <item>
-      <title>Putengeschnetzeltes mit Sauerrahmsauce und gebratene Schupfnudeln</title>
+      <title>Paella mit Huhn</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, C, G, L, O</description>
+      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), L, O</description>
     </item>
     <item>
-      <title>Gebackenes Schweinsschnitzel Erdäpfel mit Schnittlauch Zitrone</title>
+      <title>Bratwurst gebraten mit Erdäpfelpurée, Natursauce und Erbsen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 8.90, Tagesgerichte, A, C, G</description>
+      <description>Others: 10.90, Tagesgerichte, G, L, M, O</description>
     </item>
     <item>
-      <title>Gebackener Karfiol dazu Erdäpfel mit Schnittlauch und Kräuterjoghurt Dip</title>
+      <title>Hausgemachte Bärlauchknödel in Goudasauce mit Schnittlauch und frischer Parmesan</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 6.50, Tagesgerichte, A, C, G</description>
+      <description>Others: 6.50, Tagesgerichte, A, C, F, G, O</description>
     </item>
   </channel>
 </rss>
