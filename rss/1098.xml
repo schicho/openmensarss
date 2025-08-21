@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wed, 20 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Thu, 21 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 20 Aug 2025 02:50:30 +0000</pubDate>
+    <pubDate>Thu, 21 Aug 2025 02:50:03 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gemüse Lasagne mit Tomatenragout und Kräuter</title>
+      <title>Süßkartoffel-Gemüsecurry mit BIO-Tofu mit Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, G, L, O</description>
+      <description>Others: 6.50, Menü Veggie (inkl. Suppe oder Beilagensalat), A, F, O</description>
     </item>
     <item>
-      <title>Chicken Koi Soi mit Jasminreis</title>
+      <title>Hascheehörnchen vom Rind</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, F, O, R</description>
+      <description>Others: 7.60, Menü Herzhaft (inkl. Suppe oder Beilagensalat), A, C, O</description>
     </item>
     <item>
-      <title>Clubsandwich mit Avocado und BBQ-Dip und Steakhouse Pommes</title>
+      <title>Teriyaki Chicken mit frische Wokgemüse und Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 11.90, Tagesgerichte, A, F, G, H, M, O</description>
+      <description>Others: 10.90, Tagesgerichte, A, F, N, O</description>
     </item>
     <item>
-      <title>Veganer Cheese Burger mit Green Mountain Patty, veganem Mozzarella, Gurkerl, Zwiebel, Tomaten dazu Steakhouse Pommes</title>
+      <title>Broccoli Kartoffelstrudel mit Feta dazu Knoblauch Paprika Dip und Vogerlsalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Others: 9.90, Tagesgerichte, A, F, H, M, O</description>
+      <description>Others: 6.50, Tagesgerichte, A, C, G, O</description>
     </item>
   </channel>
 </rss>
