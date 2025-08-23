@@ -15,14 +15,14 @@ const OpenMensaRSSGenerator string = "OpenMensa RSS Generator"
 // All fields can be modified here before generation, or of course after generation on a per feed basis.
 var RSSMetadata = struct {
 	Description string
-	Author      feeds.Author
-	Link        feeds.Link
-	Image       feeds.Image
+	Author      *feeds.Author
+	Link        *feeds.Link
+	Image       *feeds.Image
 }{
 	Description: "Automated RSS feed using OpenMensa",
-	Author:      feeds.Author{Name: OpenMensaRSSGenerator, Email: "johann.schicho@tuwien.ac.at"},
-	Link:        feeds.Link{Href: "https://schicho.github.io/openmensarss/"},
-	Image:       feeds.Image{Url: "https://schicho.github.io/openmensarss/omrss.gif", Title: OpenMensaRSSGenerator, Link: "https://schicho.github.io/openmensarss/"},
+	Author:      &feeds.Author{Name: OpenMensaRSSGenerator, Email: "johann.schicho@tuwien.ac.at"},
+	Link:        &feeds.Link{Href: "https://schicho.github.io/openmensarss/"},
+	Image:       &feeds.Image{Url: "https://schicho.github.io/openmensarss/omrss.gif", Title: OpenMensaRSSGenerator, Link: "https://schicho.github.io/openmensarss/"},
 }
 
 // FeedForCanteenID creates a feed of the canteen menu on a certain day.
@@ -63,10 +63,10 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 
 	feed := &feeds.Feed{
 		Title:       b.String(),
-		Link:        &RSSMetadata.Link,
+		Link:        RSSMetadata.Link,
 		Description: RSSMetadata.Description,
-		Author:      &RSSMetadata.Author,
-		Image:       &RSSMetadata.Image,
+		Author:      RSSMetadata.Author,
+		Image:       RSSMetadata.Image,
 		Created:     t,
 	}
 
@@ -97,6 +97,6 @@ func createFeedItem(meal openmensa.Meal) *feeds.Item {
 	return &feeds.Item{
 		Title:       meal.Name,
 		Description: strings.Join(description, ", "),
-		Link:        &RSSMetadata.Link,
+		Link:        RSSMetadata.Link,
 	}
 }
