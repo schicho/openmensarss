@@ -82,15 +82,16 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 func createFeedItem(meal openmensa.Meal) *feeds.Item {
 	description := []string{}
 
+	description = append(description, meal.Category)
+
 	for k, v := range meal.Prices {
 		// null values of the OpenMensa API are unmarshalled into 0.0
 		if v == 0.0 {
 			continue
 		}
-		description = append(description, fmt.Sprintf("%v: %.2f", strings.Title(k), v))
+		description = append(description, fmt.Sprintf("<i>%v: %.2f</i>", strings.Title(k), v))
 	}
 
-	description = append(description, meal.Category)
 	description = append(description, meal.Notes...)
 
 	return &feeds.Item{
