@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tue, 26 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Wed, 27 Aug 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 26 Aug 2025 02:16:13 +0000</pubDate>
+    <pubDate>Wed, 27 Aug 2025 02:11:43 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,14 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gnocchi mit Paprika-Lauch Ragout und Rucola</title>
+      <title>Penne mit Tomatenragout, Fenchel und Ingwer</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat), &lt;i&gt;Others: 6.50&lt;/i&gt;, A, C, F, O</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat), &lt;i&gt;Others: 6.50&lt;/i&gt;, A, O</description>
     </item>
     <item>
-      <title>Griechisches Pastizio mit Petersilsauce</title>
+      <title>Schopfbraten Esterhazyrahmsauce hausgemachte Serviettenknödel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat), &lt;i&gt;Others: 7.60&lt;/i&gt;, A, C, F, G, O</description>
-    </item>
-    <item>
-      <title>Pulled Pork mit Bratkartoffeln und Avocado Mayonnaise</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte, &lt;i&gt;Others: 10.90&lt;/i&gt;, A, M, O</description>
-    </item>
-    <item>
-      <title>Hausgemachte Spinatknödel mit Käsesauce undTomatenwürfel</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte, &lt;i&gt;Others: 6.50&lt;/i&gt;, A, C, F, G, O</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat), &lt;i&gt;Others: 7.60&lt;/i&gt;, A, C, F, G, L, M, O</description>
     </item>
   </channel>
 </rss>
