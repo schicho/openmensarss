@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mon, 01 Sep 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
+    <title>Tue, 02 Sep 2025, Wien, TU Mensa Markt &amp; M-Cafe Freihaus</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 01 Sep 2025 02:28:53 +0000</pubDate>
+    <pubDate>Tue, 02 Sep 2025 02:13:40 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,14 +12,14 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Tagliatelle mit Basilikum Pesto, Parmesan und Geschmorte Cherrytomaten</title>
+      <title>Gemüse-Tomaten Enchilada VEGAN Salatmischung Rucola</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat), &lt;i&gt;Others: 6.50&lt;/i&gt;, A, C, G, H</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat), &lt;i&gt;Others: 6.80&lt;/i&gt;, A, G, L, O</description>
     </item>
     <item>
-      <title>Asiatisches Rosmarin-Zitronen Huhn mit Reis Petersilie gehackt 2g</title>
+      <title>Faschierter Braten Natursauce Erdäpfelpurée Röstzwiebel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat), &lt;i&gt;Others: 7.60&lt;/i&gt;, A, F, O</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat), &lt;i&gt;Others: 7.90&lt;/i&gt;, A, C, G, L, M, O</description>
     </item>
   </channel>
 </rss>
