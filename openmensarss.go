@@ -90,7 +90,7 @@ func createFeedItem(meal openmensa.Meal) *feeds.Item {
 
 	return &feeds.Item{
 		Title:       meal.Name,
-		Description: fmt.Sprintf("%v <p>%v %v</p>", meal.Category, priceInfo, allergenInfo),
+		Description: fmt.Sprintf("%v<br />%v %v", meal.Category, priceInfo, allergenInfo),
 		Link:        RSSMetadata.Link,
 	}
 }
