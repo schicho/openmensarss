@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Fri, 05 Sep 2025 10:25:22 +0000</pubDate>
+    <pubDate>Fri, 05 Sep 2025 10:30:10 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,12 +14,12 @@
     <item>
       <title>Cherrytomaten Sauce mit Oliven VEGAN gebratene Schupfnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) &lt;p&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, O)&lt;/p&gt;</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, O)</description>
     </item>
     <item>
       <title>Alaska Seelachsfilet MSC im Sesammantel Gemüsereis Sauce Tartare Zitrone</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) &lt;p&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, D, G, L, M, N)&lt;/p&gt;</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, D, G, L, M, N)</description>
     </item>
   </channel>
 </rss>

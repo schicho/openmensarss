@@ -4,7 +4,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Fri, 05 Sep 2025 10:25:22 +0000</pubDate>
+    <pubDate>Fri, 05 Sep 2025 10:30:10 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,12 +14,12 @@
     <item>
       <title>Pasta mit Tomaten und Pesto</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>vegan &lt;p&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A)&lt;/p&gt;</description>
+      <description>vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A)</description>
     </item>
     <item>
       <title>Hühnerbrust überbacken mit Reis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>nicht vegetarisch &lt;p&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (G)&lt;/p&gt;</description>
+      <description>nicht vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (G)</description>
     </item>
   </channel>
 </rss>
