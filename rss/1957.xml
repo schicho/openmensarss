@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Thu, 04 Sep 2025, Akademie der bildenden Künste Wien</title>
+    <title>Fri, 05 Sep 2025, Akademie der bildenden Künste Wien</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 04 Sep 2025 02:00:02 +0000</pubDate>
+    <pubDate>Fri, 05 Sep 2025 02:08:24 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,14 +12,14 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Linsen Salbei Gnocchi</title>
+      <title>Pasta mit Tomaten und Pesto</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>vegan, &lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt;, A, F</description>
+      <description>vegan, &lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt;, A</description>
     </item>
     <item>
-      <title>Zucchini Griechische Art</title>
+      <title>Hühnerbrust überbacken mit Reis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>vegetarisch, &lt;i&gt;Others: 6.00&lt;/i&gt;, &lt;i&gt;Students: 4.00&lt;/i&gt;, G</description>
+      <description>nicht vegetarisch, &lt;i&gt;Others: 7.00&lt;/i&gt;, &lt;i&gt;Students: 5.00&lt;/i&gt;, G</description>
     </item>
   </channel>
 </rss>
