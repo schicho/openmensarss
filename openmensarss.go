@@ -56,13 +56,8 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 
 	t := time.Now()
 
-	b := strings.Builder{}
-	b.WriteString(t.Format("Mon, 02 Jan 2006"))
-	b.WriteString(", ")
-	b.WriteString(canteen.Name)
-
 	feed := &feeds.Feed{
-		Title:       b.String(),
+		Title:       canteen.Name + " " + t.Format("(Mon, 02 Jan 2006)"),
 		Link:        RSSMetadata.Link,
 		Description: RSSMetadata.Description,
 		Author:      RSSMetadata.Author,
@@ -80,23 +75,22 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 }
 
 func createFeedItem(meal openmensa.Meal) *feeds.Item {
-	description := []string{}
-
-	description = append(description, meal.Category)
+	prices := []string{}
 
 	for k, v := range meal.Prices {
 		// null values of the OpenMensa API are unmarshalled into 0.0
 		if v == 0.0 {
 			continue
 		}
-		description = append(description, fmt.Sprintf("<i>%v: %.2f</i>", strings.Title(k), v))
+		prices = append(prices, fmt.Sprintf("<i>%v: %.2f</i>", strings.Title(k), v))
 	}
 
-	description = append(description, meal.Notes...)
+	priceInfo := strings.Join(prices, ", ")
+	allergenInfo := fmt.Sprintf("(%v)", strings.Join(meal.Notes, ", "))
 
 	return &feeds.Item{
 		Title:       meal.Name,
-		Description: strings.Join(description, ", "),
+		Description: fmt.Sprintf("%v <p>%v %v</p>", meal.Category, priceInfo, allergenInfo),
 		Link:        RSSMetadata.Link,
 	}
 }
