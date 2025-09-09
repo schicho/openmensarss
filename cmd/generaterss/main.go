@@ -26,13 +26,13 @@ func main() {
 			defer wg.Done()
 			feed, err := openmensarss.FeedForCanteenID(canteenId, time.Now())
 			if err != nil {
-				fmt.Printf("err: failed generation of feed for canteen ID %v: %v\n", canteenId, err)
+				fmt.Printf("error: %v\n", err)
 				return
 			}
 
 			file, err := os.Create("rss/" + strconv.Itoa(canteenId) + ".xml")
 			if err != nil {
-				fmt.Printf("err: failed creating file for feed for canteen ID %v: %v\n", canteenId, err)
+				fmt.Printf("error: %v\n", err)
 				return
 			}
 
@@ -42,7 +42,7 @@ func main() {
 
 			err = feeds.WriteXML(rss, file)
 			if err != nil {
-				fmt.Printf("err: failed writing feed for canteen ID %v: %v\n", canteenId, err)
+				fmt.Printf("error: %v\n", err)
 				return
 			}
 		}()
