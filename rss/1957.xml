@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Wed, 10 Sep 2025)</title>
+    <title>Akademie der bildenden Künste Wien (Thu, 11 Sep 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 10 Sep 2025 02:00:45 +0000</pubDate>
+    <pubDate>Thu, 11 Sep 2025 02:09:18 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,14 +12,14 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Melanzani überbacken mit Bulgur</title>
+      <title>Knödel mit Ei</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, G)</description>
+      <description>Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, C, G)</description>
     </item>
     <item>
-      <title>Pasta Bolognese vom Rind</title>
+      <title>Würstelgulasch</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Others: 7.00&lt;/i&gt;, &lt;i&gt;Students: 5.00&lt;/i&gt; (A, L)</description>
+      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Others: 7.00&lt;/i&gt;, &lt;i&gt;Students: 5.00&lt;/i&gt; (L)</description>
     </item>
   </channel>
 </rss>
