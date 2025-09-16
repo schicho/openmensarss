@@ -16,16 +16,22 @@
                 src="valid-rss-rogers.png" width="88" height="31" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
     </header>
     <main>
-        <p>The OpenMensa RSS files are served in this directory.</p>
+        <p>This directory hosts RSS feeds generated from OpenMensa canteen data.</p>
         <p>
-            They are named according to the canteen IDs of the OpenMensa API.
-            For instance, the TU Wien canteen has ID 1098 and is served at <a
+            Each feed is named after its corresponding OpenMensa canteen ID.
+            For example, the TU Wien canteen uses ID 1098 and its feed is available at
+            <a
                 href="https://schicho.github.io/openmensarss/1098.xml">https://schicho.github.io/openmensarss/1098.xml</a>.
         </p>
         <p>
-            To save on bandwidth, not all canteens available on OpenMensa are converted to RSS by default.
-            In case you want to add another canteen, you can add its respective canteen ID to the code at
+            To save on bandwidth, only selected canteens are converted to RSS by default.
+            If you wish to add another canteen, please include its canteen ID in the code at
             <a href="https://github.com/schicho/openmensarss">https://github.com/schicho/openmensarss</a>.
+        </p>
+        <p>
+            If the RSS feeds are not up to date, check the
+            <a href="https://github.com/schicho/openmensarss/actions">GitHub Actions page</a>
+            for any issues with recent updates.
         </p>
         <hr />
 
@@ -42,17 +48,20 @@
                 const ghResp = await fetch('https://api.github.com/repos/schicho/openmensarss/contents/rss');
                 const ghData = await ghResp.json();
                 const OM_BASE_URL = "https://openmensa.org/api/v2/canteens/";
-                const omReqs = ghData.filter(file => file.name.endsWith('.xml')).map(file => file.name.split(".", 1)[0]).map((id) => { return fetch(OM_BASE_URL + id) });
-                const omResps = await Promise.all(omReqs)
+                const omReqs = ghData.filter(file => file.name.endsWith('.xml')).map(file => file.name.split(".", 1)[0]).map((id) => { return fetch(`${OM_BASE_URL}${id}`) });
+                const omResps = await Promise.all(omReqs);
 
-                let htmlString = '<ul>';
+                const ul = document.createElement('ul');
+                document.getElementById('filelist').innerHTML = '';
+                document.getElementById('filelist').appendChild(ul);
+
                 for (let resp of omResps) {
                     const data = await resp.json();
                     const filename = `${data.id}.xml`;
-                    htmlString += `<li><p><a href="${filename}">${filename}</a> ${data.name}</p></li>`;
+                    const li = document.createElement('li');
+                    li.innerHTML = `<p><a href="${filename}">${filename}</a> ${data.name} (View on <a href="https://openmensa.org/c/${data.id}" target="_blank">openmensa.org</a>)</p>`;
+                    ul.appendChild(li);
                 }
-                htmlString += '</ul>';
-                document.getElementById('filelist').innerHTML = htmlString;
             })()
         </script>
     </main>
