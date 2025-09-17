@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 16 Sep 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 17 Sep 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 16 Sep 2025 19:37:31 +0000</pubDate>
+    <pubDate>Wed, 17 Sep 2025 02:00:18 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gnocchi mit Cafe de Paris Sauce</title>
+      <title>Gemüsestrudel auf Saisonalem Gemüse und veganer Kräuterrahmsauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, M, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, O)</description>
     </item>
     <item>
-      <title>Kokos-Chickenragout mit Kichererbsen und Jasminreis</title>
+      <title>Cremige Schinkenfleckerl</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (E, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, O)</description>
     </item>
     <item>
-      <title>Erdäpfel-Gemüse-Gröstl mit Kresse-Sauerrahm Dip</title>
+      <title>Burger Mexiko Style mit BIO Rindfleisch (scharf) und Steakhouse Pommes</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.20&lt;/i&gt; (G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, G, N, O)</description>
     </item>
     <item>
-      <title>Hühnerwok mit Gemüse, Cous Cous &amp; Koriander</title>
+      <title>Gebackene Champignons mit Sauce Tartare und bunten Blattsalaten mit Joghurt Dressing</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.50&lt;/i&gt; (A, F, G, N, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, C, G, M, O)</description>
     </item>
   </channel>
 </rss>
