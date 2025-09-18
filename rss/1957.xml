@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Wed, 17 Sep 2025)</title>
+    <title>Akademie der bildenden Künste Wien (Thu, 18 Sep 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 17 Sep 2025 02:00:18 +0000</pubDate>
+    <pubDate>Thu, 18 Sep 2025 02:01:12 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,14 +12,14 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Kürbis Pasta</title>
+      <title>Cremespinat mit Rösti und Spiegelei (vegan/vegetarisch)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, F)</description>
+      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Others: 7.00&lt;/i&gt;, &lt;i&gt;Students: 5.00&lt;/i&gt; (C, F)</description>
     </item>
     <item>
-      <title>Paprikahendl mit Reis</title>
+      <title>Falafel mit Kraut und Hummus</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (F)</description>
+      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A)</description>
     </item>
   </channel>
 </rss>
