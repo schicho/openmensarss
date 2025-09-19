@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Thu, 18 Sep 2025)</title>
+    <title>Akademie der bildenden Künste Wien (Fri, 19 Sep 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 18 Sep 2025 02:01:12 +0000</pubDate>
+    <pubDate>Fri, 19 Sep 2025 02:09:49 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,14 +12,14 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Cremespinat mit Rösti und Spiegelei (vegan/vegetarisch)</title>
+      <title>Gnocchi Zucchini Mascarpone</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Others: 7.00&lt;/i&gt;, &lt;i&gt;Students: 5.00&lt;/i&gt; (C, F)</description>
+      <description>Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, G)</description>
     </item>
     <item>
-      <title>Falafel mit Kraut und Hummus</title>
+      <title>Hühnerschnitzel mit Petersilienkartoffeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A)</description>
+      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (A, C)</description>
     </item>
   </channel>
 </rss>
