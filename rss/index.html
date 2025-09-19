@@ -5,6 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OpenMensa RSS</title>
+    <style>
+        :root {
+            font-family: Helvetica, Arial, sans-serif;
+        }
+    </style>
 </head>
 
 <body>
@@ -52,6 +57,8 @@
                 const omResps = await Promise.all(omReqs);
 
                 const ul = document.createElement('ul');
+                ul.style.listStyleType = "none";
+                ul.style.padding = 0;
                 document.getElementById('filelist').innerHTML = '';
                 document.getElementById('filelist').appendChild(ul);
 
