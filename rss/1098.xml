@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 23 Sep 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 24 Sep 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 23 Sep 2025 02:03:23 +0000</pubDate>
+    <pubDate>Wed, 24 Sep 2025 02:07:53 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Farfalle mit Paprikarahmsauce</title>
+      <title>Zucchini-Karotten-Curry mit Ananas auf Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, N, O)</description>
     </item>
     <item>
-      <title>Rindsgulasch mit Spätzle</title>
+      <title>Faschierte Laibchen von der Pute mit Kräuter Jus, Erdäpfelpüree und Röstzwiebel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, L, M, O)</description>
     </item>
     <item>
-      <title>Erdäpfel-Gemüse-Gröstl mit Feta und Rucola</title>
+      <title>Little Italy Burger mit BIO Rindfleisch und Steakhouse Pommes</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 5.90&lt;/i&gt; (G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, G, O)</description>
     </item>
     <item>
-      <title>Huhn süß sauer Thailändische Art mit Jasminreis</title>
+      <title>Veganer Cheese Burger mit Green Mountain Patty, veganem Mozzarella, Gurkerl, Zwiebel, Tomaten und Pommes frites</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, N, O, R)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.40&lt;/i&gt; (A, F, H, M, O)</description>
     </item>
   </channel>
 </rss>
