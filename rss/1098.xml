@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 26 Sep 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 29 Sep 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Fri, 26 Sep 2025 02:08:44 +0000</pubDate>
+    <pubDate>Mon, 29 Sep 2025 02:11:36 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Käsespätzle mit Röstzwiebel</title>
+      <title>Rauchiger Bohneneintopf mit Bio-Tofu und kleinen Beilagensalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (F, L, O)</description>
     </item>
     <item>
-      <title>Penne Piccolini mit Thunfisch Tomatenragout</title>
+      <title>Rindergeschnetzeltes Stroganoff mit Spätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, D, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, H, L, M, O)</description>
     </item>
     <item>
-      <title>Kürbisgulasch mit Semmel</title>
+      <title>Gebackenes Hühnerschnitzel mit Pommes frites und Ketchup</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 5.90&lt;/i&gt; (A, G, L, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, C)</description>
     </item>
     <item>
-      <title>Alaska Seelachsfilet MSC im Sesammantel mit Karotten Erbsengemüse, Kräuterreis und Sauce Tartare</title>
+      <title>Penne mit scharfer Tomaten-Mozzarellasauce und Parmesan</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, C, D, G, M, N)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.30&lt;/i&gt; (A, C, G, O)</description>
     </item>
   </channel>
 </rss>
