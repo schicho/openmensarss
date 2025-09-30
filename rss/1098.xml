@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 29 Sep 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 30 Sep 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 29 Sep 2025 09:39:37 +0000</pubDate>
+    <pubDate>Tue, 30 Sep 2025 02:01:42 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Rauchiger Bohneneintopf mit Bio-Tofu und kleinen Beilagensalat</title>
+      <title>Gemüsestrudel aus Saisonalem Gemüse mit Cherrytomatensauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (F, L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, O)</description>
     </item>
     <item>
-      <title>Rindergeschnetzeltes Stroganoff mit Spätzle</title>
+      <title>Tagliattelle mit Putenschinkenrahmsauce und Kräutern</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, H, L, M, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, G, O)</description>
     </item>
     <item>
-      <title>Gebackenes Hühnerschnitzel mit Pommes frites und Ketchup</title>
+      <title>Linsen mit Putenschinken, hausgemachten Serviettenknödeln und Kräuterjoghurt Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, C)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, C, F, G, L, M, O)</description>
     </item>
     <item>
-      <title>Penne mit scharfer Tomaten-Mozzarellasauce und Parmesan</title>
+      <title>Pad Thai Salat mit BIO-Tofu</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.30&lt;/i&gt; (A, C, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.60&lt;/i&gt; (A, F, N, O)</description>
     </item>
   </channel>
 </rss>
