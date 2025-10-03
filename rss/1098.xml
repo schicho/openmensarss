@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 02 Oct 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 03 Oct 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 02 Oct 2025 02:03:07 +0000</pubDate>
+    <pubDate>Fri, 03 Oct 2025 02:01:23 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,14 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Erdäpfelgulasch mit Semmel</title>
+      <title>Gemüse-Tomaten Enchilada und Rucolasalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, L, O)</description>
     </item>
     <item>
-      <title>Champignons á la Creme mit hausgemachten Tiroler Knödeln</title>
+      <title>Hühnerragout mit frischen Kräutern und Basmatireis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (F, G, O)</description>
+    </item>
+    <item>
+      <title>Gebratenes Zanderfilet mit mediteranem Grillgemüse und Kräuterbutter</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 11.90&lt;/i&gt; (A, G, O)</description>
+    </item>
+    <item>
+      <title>Ragout vom Kürbis mit Gnocchi und Rucola</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.90&lt;/i&gt; (A, C, F, G, O)</description>
     </item>
   </channel>
 </rss>
