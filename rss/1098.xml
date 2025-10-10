@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 09 Oct 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 10 Oct 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 09 Oct 2025 02:08:02 +0000</pubDate>
+    <pubDate>Fri, 10 Oct 2025 02:08:35 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gnocchi auf Tomatenragout mit Fenchel und Ingwer</title>
+      <title>Kaspressknödel mit Natur Jus und Sauerkraut</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, L, O)</description>
     </item>
     <item>
-      <title>Puten Chili con Carne mit Semmel</title>
+      <title>Eintopf mit Hühnerfleisch und Karotten dazu kleine Salzerdäpfel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (F, L, O)</description>
     </item>
     <item>
-      <title>Mac and Cheese, Röstzwiebel und Beilagensalat</title>
+      <title>Gratinierte Polenta-Gemüseschnitte mit Tomatensauce und Kräutern</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 5.90&lt;/i&gt; (A, C, F, G, M, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 5.90&lt;/i&gt; (C, G, H, L, N, O)</description>
     </item>
     <item>
-      <title>Putengeschnetzeltes Züricher Art mit Farfalle</title>
+      <title>Alaska Seelachsfilet MSC klassifiziert in Kartoffelpanade und Erdäpfel-Gurkensalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, F, L, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, D, M, O)</description>
     </item>
   </channel>
 </rss>
