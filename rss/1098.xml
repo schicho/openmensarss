@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 15 Oct 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 16 Oct 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 15 Oct 2025 02:12:20 +0000</pubDate>
+    <pubDate>Thu, 16 Oct 2025 02:10:44 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganes Linsen-Gemüsecurry mit BIO-Tofu und Basmatireis</title>
+      <title>Erdäpfelauflauf mit Karotten &amp; Gelben Rüben mit Kräuter Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (F, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (C, F, G, O)</description>
     </item>
     <item>
-      <title>Putenstreifen in Tomaten-Artischockensauce mit Fusilli und Parmesan</title>
+      <title>Marokkanisches &#34;Ras el Hanout&#34; Hühnchen mit Cous Cous und Knoblauchdip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, G, L, O)</description>
     </item>
     <item>
-      <title>Cheese Burger mit BIO Rindfleisch, Steakhouse Pommes und BBQ Sauce</title>
+      <title>Beerenröster hausgemacht mit Semmelschmarrn</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, F, G, H, M, N, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 5.90&lt;/i&gt; (A, C, G, H)</description>
     </item>
     <item>
-      <title>Pad Thai Salat mit BIO-Tofu</title>
+      <title>Schwein mit Sweet Chili und gebratenen Eiernudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.60&lt;/i&gt; (A, F, N, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.60&lt;/i&gt; (A, C, F, N, O)</description>
     </item>
   </channel>
 </rss>
