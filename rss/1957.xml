@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Thu, 16 Oct 2025)</title>
+    <title>Akademie der bildenden Künste Wien (Fri, 17 Oct 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 16 Oct 2025 02:10:44 +0000</pubDate>
+    <pubDate>Fri, 17 Oct 2025 02:09:34 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,19 +12,19 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Orientalische Bauernsuppe</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, F)</description>
-    </item>
-    <item>
-      <title>Gemüseeintopf</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (L)</description>
-    </item>
-    <item>
-      <title>Kürbisknödel mit Käsesauce</title>
+      <title>Frittatensuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, C, G)</description>
+    </item>
+    <item>
+      <title>Shakshuka mit Joghurt Dip (vegan/vegetarisch)</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (G, L)</description>
+    </item>
+    <item>
+      <title>Hühnerkeule überbacken mit Bulgur</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Others: 7.00&lt;/i&gt;, &lt;i&gt;Students: 5.00&lt;/i&gt; (A, G)</description>
     </item>
   </channel>
 </rss>
