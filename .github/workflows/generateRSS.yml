@@ -2,8 +2,8 @@ name: Generate OpenMensa RSS feeds
 
 on:
   schedule:
-    - cron: "30 0 * * *"
-    - cron: "01 7 * * 1"
+    - cron: "30 0 * * 0,2-6"
+    - cron: "01 8 * * 1"
   workflow_dispatch:
 
 permissions:
