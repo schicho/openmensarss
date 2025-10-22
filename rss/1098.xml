@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 21 Oct 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 22 Oct 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 21 Oct 2025 02:13:27 +0000</pubDate>
+    <pubDate>Wed, 22 Oct 2025 02:16:57 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganer Süßkartoffel-Paprika Wrap mit Tomatensauce &amp; Salatbouquet</title>
+      <title>Vegane Paella nach spanischer Art</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, G, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (O)</description>
     </item>
     <item>
-      <title>Linseneintopf mit Geselchtem und Gemüse</title>
+      <title>Rindergeschnetzeltes Esterhazy mit Fusilli</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, G, L, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, L, O)</description>
     </item>
     <item>
-      <title>Mediterranes Gemüserisotto mit geschmorten Cherrytomaten und Parmesan</title>
+      <title>Burger mit Schafskäse, gegrillter Hühnerbrust, Steakhouse Pommes und Tzatziki</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (C, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, F, G, N, O)</description>
     </item>
     <item>
-      <title>Koriander -Zitronen Huhn mit Karotten Zucchini Gemüse und Bulgur</title>
+      <title>Veganes Karfiol-Erdäpfelcurry mit Hirse und Kräutern</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.50&lt;/i&gt; (A, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.20&lt;/i&gt; (G, O)</description>
     </item>
   </channel>
 </rss>
