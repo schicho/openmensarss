@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 24 Oct 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 27 Oct 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Fri, 24 Oct 2025 02:07:43 +0000</pubDate>
+    <pubDate>Mon, 27 Oct 2025 08:30:59 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Zucchini Topfenlaibchen mit Joghurt Dressing &amp; Salat</title>
+      <title>Broccoli Karfiol Auflauf mit Lauchcremesauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G, O)</description>
     </item>
     <item>
-      <title>Penne mit Wildlachs -Zitronen- Oberssauce und geriebenen Parmesan</title>
+      <title>Spaghetti Bolognese vom Rind</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, L, O)</description>
     </item>
     <item>
-      <title>Forelle &#34;Müllerin&#34; mit Petersilerdäpfel und Kräuterbutter</title>
+      <title>Schweine Schnitzel Wiener Art mit Gemüsereis &amp; Preiselbeeren</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 11.90&lt;/i&gt; (A, D, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, C, G, L)</description>
     </item>
     <item>
-      <title>Asiatischer Reissalat mit Sweet Chilli Sauce &amp; Koriander</title>
+      <title>Kartoffel-Pilzstrudel auf Weißweinsauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, F, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 5.60&lt;/i&gt; (A, F, O)</description>
     </item>
   </channel>
 </rss>
