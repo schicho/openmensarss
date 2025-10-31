@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 30 Oct 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 31 Oct 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 30 Oct 2025 02:18:36 +0000</pubDate>
+    <pubDate>Fri, 31 Oct 2025 02:15:59 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -12,24 +12,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Hausgemachter Spinatstrudel mit Schafkäse und Kräuterrahmsauce</title>
+      <title>Hausgemachte Sonnenblumenlaibchen mit Kresse-Sauerrahm Dip und Salatbouquet</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, L, O)</description>
     </item>
     <item>
-      <title>Mexikanischer Wrap von der Pute und Chili Mayo</title>
+      <title>Puten- Süßkartoffel Curry mit Basmatireis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, M, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, O)</description>
     </item>
     <item>
-      <title>Topfenschmarren mit Marillenröster</title>
+      <title>Vollkorn Pasta mit Cherrytomaten-Oliven-Sauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 5.90&lt;/i&gt; (A, C, G, O)</description>
     </item>
     <item>
-      <title>Indisches Chicken Tikka Masala mit Basmatireis</title>
+      <title>Alaska Seelachsfilet MSCklassifiziert in der Knusperpanade mit Dill-Erdäpfel und Sauce Remoulade</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 11.60&lt;/i&gt; (F, G, H, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, C, D, M, O)</description>
     </item>
   </channel>
 </rss>
