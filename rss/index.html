@@ -1,90 +1,131 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="omrss.gif" type="image/x-icon">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="omrss.gif" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="feed.css" />
     <title>OpenMensa RSS</title>
     <style>
-        :root {
-            font-family: Helvetica, Arial, sans-serif;
-        }
+      :root {
+        font-family: Helvetica, Arial, sans-serif;
+      }
     </style>
-</head>
+  </head>
 
-<body>
-    <header>
+  <body>
+    <div class="container">
+      <header>
         <h1>OpenMensa RSS Overview</h1>
 
         <img src="omrss.gif" alt="OpenMensaRSS Logo" width="88" height="31" />
-        <a href="http://validator.w3.org/feed/check.cgi?url=https%3A//schicho.github.io/openmensarss/1098.xml"><img
-                src="valid-rss-rogers.png" width="88" height="31" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
-    </header>
-    <main>
-        <p>This directory hosts RSS feeds generated from OpenMensa canteen data.</p>
-        <p>
-            Each feed is named after its corresponding OpenMensa canteen ID.
-            For example, the TU Wien canteen uses ID 1098 and its feed is available at
-            <a
-                href="https://schicho.github.io/openmensarss/1098.xml">https://schicho.github.io/openmensarss/1098.xml</a>.
-        </p>
-        <p>
-            To save on bandwidth, only selected canteens are converted to RSS by default.
-            If you wish to add another canteen, please include its canteen ID in the code at
-            <a href="https://github.com/schicho/openmensarss">https://github.com/schicho/openmensarss</a>.
-        </p>
-        <p>
-            If the RSS feeds are not up to date, check the
-            <a href="https://github.com/schicho/openmensarss/actions">GitHub Actions page</a>
-            for any issues with recent updates.
-        </p>
+        <a
+          href="http://validator.w3.org/feed/check.cgi?url=https%3A//schicho.github.io/openmensarss/1098.xml"
+          ><img
+            src="valid-rss-rogers.png"
+            width="88"
+            height="31"
+            alt="[Valid RSS]"
+            title="Validate my RSS feed"
+        /></a>
+      </header>
 
-        <h2>How to Use the RSS Feeds</h2>
-        <p>
-            You can subscribe to any canteen's RSS feed using Tuwel (TU Wien's Moodle platform) or your preferred RSS
-            reader. Just copy the feed URL and add it to your dashboard or reader to receive menu updates directly from
-            OpenMensa.
-        </p>
-        <p>
-            On Tuwel, enable edit mode (top right), add a new RSS block, and paste the feed URL. Enable item
-            descriptions to see prices and allergen details.
-        </p>
+      <main>
+        <div class="content">
+          <div class="menu-items">
+            <div class="menu-item">
+              <p>
+                This directory hosts RSS feeds generated from OpenMensa canteen
+                data.
+              </p>
+              <p>
+                Each feed is named after its corresponding OpenMensa canteen ID.
+                For example, the TU Wien canteen uses ID 1098 and its feed is
+                available at
+                <a href="https://schicho.github.io/openmensarss/1098.xml"
+                  >https://schicho.github.io/openmensarss/1098.xml</a
+                >.
+              </p>
+              <p>
+                To save on bandwidth, only selected canteens are converted to
+                RSS by default. If you wish to add another canteen, please
+                include its canteen ID in the code at
+                <a href="https://github.com/schicho/openmensarss"
+                  >https://github.com/schicho/openmensarss</a
+                >.
+              </p>
+              <p>
+                If the RSS feeds are not up to date, check the
+                <a href="https://github.com/schicho/openmensarss/actions"
+                  >GitHub Actions page</a
+                >
+                for any issues with recent updates.
+              </p>
+            </div>
 
-        <hr />
+            <div class="menu-item">
+              <h2>How to Use the RSS Feeds</h2>
+              <p>
+                You can subscribe to any canteen's RSS feed using Tuwel (TU
+                Wien's Moodle platform) or your preferred RSS reader. Just copy
+                the feed URL and add it to your dashboard or reader to receive
+                menu updates directly from OpenMensa.
+              </p>
+              <p>
+                On Tuwel, enable edit mode (top right), add a new RSS block, and
+                paste the feed URL. Enable item descriptions to see prices and
+                allergen details.
+              </p>
+            </div>
 
-        <h2>Available RSS Feeds</h2>
+            <hr />
 
-        <noscript>
-            <p>(the listing requires JavaScript)</p>
-        </noscript>
-        <div id="filelist">
-            <p>loading...</p>
-        </div>
-        <script>
-            (async () => {
-                const ghResp = await fetch('https://api.github.com/repos/schicho/openmensarss/contents/rss');
-                const ghData = await ghResp.json();
-                const OM_BASE_URL = "https://openmensa.org/api/v2/canteens/";
-                const omReqs = ghData.filter(file => file.name.endsWith('.xml')).map(file => file.name.split(".", 1)[0]).map((id) => { return fetch(`${OM_BASE_URL}${id}`) });
-                const omResps = await Promise.all(omReqs);
+            <div class="menu-item">
+              <h2>Available RSS Feeds</h2>
 
-                const ul = document.createElement('ul');
-                ul.style.listStyleType = "none";
-                ul.style.padding = 0;
-                document.getElementById('filelist').innerHTML = '';
-                document.getElementById('filelist').appendChild(ul);
+              <noscript>
+                <p>(the listing requires JavaScript)</p>
+              </noscript>
+              <div id="filelist">
+                <p>loading...</p>
+              </div>
+              <script>
+                (async () => {
+                  const ghResp = await fetch(
+                    "https://api.github.com/repos/schicho/openmensarss/contents/rss"
+                  );
+                  const ghData = await ghResp.json();
+                  const OM_BASE_URL = "https://openmensa.org/api/v2/canteens/";
+                  const omReqs = ghData
+                    .filter((file) => file.name.endsWith(".xml"))
+                    .map((file) => file.name.split(".", 1)[0])
+                    .map((id) => {
+                      return fetch(`${OM_BASE_URL}${id}`);
+                    });
+                  const omResps = await Promise.all(omReqs);
 
-                for (let resp of omResps) {
+                  const ul = document.createElement("ul");
+                  ul.style.listStyleType = "none";
+                  ul.style.padding = 0;
+                  document.getElementById("filelist").innerHTML = "";
+                  document.getElementById("filelist").appendChild(ul);
+
+                  for (let resp of omResps) {
                     const data = await resp.json();
                     const filename = `${data.id}.xml`;
-                    const li = document.createElement('li');
+                    const li = document.createElement("li");
                     li.innerHTML = `<p><a href="${filename}">${filename}</a> ${data.name} (View on <a href="https://openmensa.org/c/${data.id}" target="_blank">openmensa.org</a>)</p>`;
                     ul.appendChild(li);
-                }
-            })()
-        </script>
-    </main>
-</body>
-
+                  }
+                })();
+              </script>
+            </div>
+          </div>
+        </div>
+      </main>
+      <footer>
+        <p>OpenMensa RSS Generator</p>
+      </footer>
+    </div>
+  </body>
 </html>
