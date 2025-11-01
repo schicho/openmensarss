@@ -211,6 +211,9 @@
                 <div class="menu-item">
                   <h3><xsl:value-of select="title"/></h3>
                   <div class="description">
+                    <!-- disable-output-escaping is safe here because the RSS feed is generated
+                         by our own code which properly escapes HTML entities (e.g., &lt;br /&gt;).
+                         We need to unescape them to render the HTML formatting. -->
                     <xsl:value-of select="description" disable-output-escaping="yes"/>
                   </div>
                 </div>

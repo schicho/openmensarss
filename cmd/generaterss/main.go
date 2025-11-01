@@ -21,8 +21,6 @@ var Canteens []int = []int{TU_WIEN, UNI_PASSAU, AKBILD_WIEN}
 
 // writeRSSWithStylesheet writes the RSS feed to a file with an XSL stylesheet processing instruction
 func writeRSSWithStylesheet(rss *feeds.RssFeed, file *os.File) error {
-	defer file.Close()
-	
 	// Wrap the RssFeed in RssFeedXml to get the <rss> root element
 	rssFeedXml := &feeds.RssFeedXml{
 		Version:          "2.0",
@@ -74,6 +72,7 @@ func main() {
 				fmt.Printf("error: %v\n", err)
 				return
 			}
+			defer file.Close()
 
 			// manually convert to RssFeed struct, so we can set the Generator field.
 			rss := (&feeds.Rss{Feed: feed}).RssFeed()
