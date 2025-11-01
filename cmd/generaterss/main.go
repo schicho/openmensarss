@@ -1,9 +1,9 @@
 package main
 
 import (
-	"bytes"
 	"encoding/xml"
 	"fmt"
+	"io"
 	"os"
 	"strconv"
 	"sync"
@@ -19,39 +19,20 @@ const AKBILD_WIEN int = 1957
 
 var Canteens []int = []int{TU_WIEN, UNI_PASSAU, AKBILD_WIEN}
 
-// writeRSSWithStylesheet writes the RSS feed to a file with an XSL stylesheet processing instruction
-func writeRSSWithStylesheet(rss *feeds.RssFeed, file *os.File) error {
-	// Wrap the RssFeed in RssFeedXml to get the <rss> root element
-	rssFeedXml := &feeds.RssFeedXml{
-		Version:          "2.0",
-		ContentNamespace: "http://purl.org/rss/1.0/modules/content/",
-		Channel:          rss,
-	}
-	
-	// Write XML declaration
-	_, err := file.WriteString(xml.Header)
-	if err != nil {
+func writeRSSWithStylesheet(feed feeds.XmlFeed, w io.Writer) error {
+	x := feed.FeedXml()
+
+	if _, err := w.Write([]byte(xml.Header)); err != nil {
 		return err
 	}
-	
-	// Write XSL stylesheet processing instruction
-	_, err = file.WriteString(`<?xml-stylesheet type="text/xsl" href="feed.xsl"?>` + "\n")
-	if err != nil {
+
+	if _, err := w.Write([]byte(`<?xml-stylesheet type="text/xsl" href="feed.xsl"?>` + "\n")); err != nil {
 		return err
 	}
-	
-	// Marshal the RSS feed to XML
-	var buf bytes.Buffer
-	encoder := xml.NewEncoder(&buf)
-	encoder.Indent("", "  ")
-	err = encoder.Encode(rssFeedXml)
-	if err != nil {
-		return err
-	}
-	
-	// Write the RSS content
-	_, err = file.Write(buf.Bytes())
-	return err
+
+	e := xml.NewEncoder(w)
+	e.Indent("", "  ")
+	return e.Encode(x)
 }
 
 func main() {
@@ -78,7 +59,6 @@ func main() {
 			rss := (&feeds.Rss{Feed: feed}).RssFeed()
 			rss.Generator = openmensarss.OpenMensaRSSGenerator
 
-			// Write XML with XSL stylesheet processing instruction
 			err = writeRSSWithStylesheet(rss, file)
 			if err != nil {
 				fmt.Printf("error: %v\n", err)
