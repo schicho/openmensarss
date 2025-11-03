@@ -6,13 +6,7 @@
     <link rel="icon" href="omrss.gif" type="image/x-icon" />
     <link rel="stylesheet" type="text/css" href="feed.css" />
     <title>OpenMensa RSS</title>
-    <style>
-      :root {
-        font-family: Helvetica, Arial, sans-serif;
-      }
-    </style>
   </head>
-
   <body>
     <div class="container">
       <header>
@@ -29,7 +23,6 @@
             title="Validate my RSS feed"
         /></a>
       </header>
-
       <main>
         <div class="content">
           <div class="menu-items">
@@ -62,7 +55,6 @@
                 for any issues with recent updates.
               </p>
             </div>
-
             <div class="menu-item">
               <h3>How to Use the RSS Feeds</h3>
               <p>
@@ -77,12 +69,9 @@
                 allergen details.
               </p>
             </div>
-
             <hr />
-
             <div class="menu-item">
               <h3>Available RSS Feeds</h3>
-
               <noscript>
                 <p>(the listing requires JavaScript)</p>
               </noscript>
@@ -90,34 +79,7 @@
                 <p>loading...</p>
               </div>
               <script>
-                (async () => {
-                  const ghResp = await fetch(
-                    "https://api.github.com/repos/schicho/openmensarss/contents/rss"
-                  );
-                  const ghData = await ghResp.json();
-                  const OM_BASE_URL = "https://openmensa.org/api/v2/canteens/";
-                  const omReqs = ghData
-                    .filter((file) => file.name.endsWith(".xml"))
-                    .map((file) => file.name.split(".", 1)[0])
-                    .map((id) => {
-                      return fetch(`${OM_BASE_URL}${id}`);
-                    });
-                  const omResps = await Promise.all(omReqs);
-
-                  const ul = document.createElement("ul");
-                  ul.style.listStyleType = "none";
-                  ul.style.padding = 0;
-                  document.getElementById("filelist").innerHTML = "";
-                  document.getElementById("filelist").appendChild(ul);
-
-                  for (let resp of omResps) {
-                    const data = await resp.json();
-                    const filename = `${data.id}.xml`;
-                    const li = document.createElement("li");
-                    li.innerHTML = `<p><a href="${filename}">${filename}</a> ${data.name} (View on <a href="https://openmensa.org/c/${data.id}" target="_blank">openmensa.org</a>)</p>`;
-                    ul.appendChild(li);
-                  }
-                })();
+                (async()=>{const ghResp=await fetch("https://api.github.com/repos/schicho/openmensarss/contents/rss");const ghData=await ghResp.json();const OM_BASE_URL="https://openmensa.org/api/v2/canteens/";const omReqs=ghData.filter((file)=>file.name.endsWith(".xml")).map((file)=>file.name.split(".",1)[0]).map((id)=>{return fetch(`${ OM_BASE_URL }${ id }`)});const omResps=await Promise.all(omReqs);const ul=document.createElement("ul");ul.style.listStyleType="none";ul.style.padding=0;document.getElementById("filelist").innerHTML="";document.getElementById("filelist").appendChild(ul);for(let resp of omResps){const data=await resp.json();const filename=`${data.id }.xml`;const li=document.createElement("li");li.innerHTML=`<p><a href="${ filename }">${ filename }</a> ${data.name } (View on <a href="https://openmensa.org/c/${data.id }" target="_blank">openmensa.org</a>)</p>`;ul.appendChild(li)}})();
               </script>
             </div>
           </div>
