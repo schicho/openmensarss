@@ -36,7 +36,7 @@ header p {
 }
 
 .content {
-  padding: 20px 40px;
+  padding: 10px 40px;
 }
 
 .menu-items {
@@ -45,7 +45,7 @@ header p {
 }
 
 .menu-item {
-  padding: 16px;
+  padding: 8px 16px;
 }
 
 .menu-item h3 {
@@ -57,19 +57,17 @@ header p {
 }
 
 .menu-item p {
-  padding: 5px 0px;
+  color: #333;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .menu-item .description {
   color: #333;
   font-size: 0.95rem;
   line-height: 1.5;
-}
-
-.menu-item .description i {
-  font-style: normal;
-  color: #2196f3;
-  font-weight: 500;
 }
 
 footer {
@@ -102,11 +100,11 @@ footer a:hover {
   }
 
   .content {
-    padding: 20px;
+    padding: 10px 20px;
   }
 
   .menu-item {
-    padding: 10px 20px;
+    padding: 8px 20px;
   }
 
   .menu-item h3 {
@@ -124,7 +122,7 @@ footer a:hover {
   }
 
   .menu-item {
-    padding: 16px;
+    padding: 8px 16px;
   }
 
   .menu-item h3 {
