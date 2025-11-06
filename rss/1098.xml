@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 05 Nov 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 06 Nov 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 05 Nov 2025 02:18:01 +0000</pubDate>
+    <pubDate>Thu, 06 Nov 2025 02:18:26 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganes Zucchini-Karotten-Curry mit Ananas und Jasminreis</title>
+      <title>Paprika gefüllt mit Cous Cous und Tomatenragout</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, N, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, O)</description>
     </item>
     <item>
-      <title>Gyros vom Schwein mit Salzerdäpfel</title>
+      <title>Wrap Mexiko mit BIO Rind und Beilagensalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, G, O)</description>
     </item>
     <item>
-      <title>Burger mit BIO Rindfleisch und Steakhouse Pommes</title>
+      <title>Gebratenes Hühnerfilet mit Rosmarinjus, Mischgemüse und cremiger Polenta</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, G, H, M, N, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (C, F, G, H, L, N, O)</description>
     </item>
     <item>
-      <title>Portobello Mushroom Burger mit Steakhouse Pommes</title>
+      <title>Topfenknödel mit Butterbrösel und Marillenröster</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.40&lt;/i&gt; (A, C, G, N, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.30&lt;/i&gt; (A, C, G)</description>
     </item>
   </channel>
 </rss>
