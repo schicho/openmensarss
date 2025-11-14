@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 13 Nov 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 14 Nov 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 13 Nov 2025 02:19:36 +0000</pubDate>
+    <pubDate>Fri, 14 Nov 2025 02:17:54 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganes Erdäpfelgulasch mit Gebäck</title>
+      <title>Veganer Gemüse-Tomaten Enchilada mit Rucolasalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, G, L, O)</description>
     </item>
     <item>
-      <title>Selchfleischknödel mit Champignons á la Creme</title>
+      <title>Hühnerragout mit frischen Kräutern und Basmatireis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (F, G, O)</description>
     </item>
     <item>
-      <title>Geröstete Knödel mit Ei und Beilagensalat</title>
+      <title>Kürbis Gnocchi mit Ragout vom Kürbis und Basilikumpesto</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 13.90&lt;/i&gt; (A, C, F, O)</description>
     </item>
     <item>
-      <title>Riesenbratwurst vom Grill mit Zwiebelsenf und warmen Krautsalat</title>
+      <title>MSC Seelachsfilet im Backteig mit Sauce Tyrolienne und Erdäpfel-Gurkensalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (M, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 14.90&lt;/i&gt; (A, C, D, G, M, O)</description>
     </item>
   </channel>
 </rss>
