@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 18 Nov 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 19 Nov 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 18 Nov 2025 02:17:25 +0000</pubDate>
+    <pubDate>Wed, 19 Nov 2025 02:17:07 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganes Indisches Gemüsecurry mit Tomaten &amp; Bulgur</title>
+      <title>Broccoli Karfiol Auflauf mit Kräuterrahmsauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G, O)</description>
     </item>
     <item>
-      <title>Paella mit Huhn und gehackter Petersilie</title>
+      <title>Gebratenes Karreesteak mit Brechbohnen, Bratkartoffeln und Kräuterbutter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (L, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, G, O)</description>
     </item>
     <item>
-      <title>Gratinierte Polenta-Gemüseschnitte mit Tomaten- Kräutersauce</title>
+      <title>Wildburger vom Reh mit Rosmarin Erdäpfel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.20&lt;/i&gt; (C, G, H, L, N, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, G, L, M, N, O)</description>
     </item>
     <item>
-      <title>Hühnercurry mit Kürbis und Kichererbsen auf Basmatireis</title>
+      <title>Veganer Libanesischer Bohneneintopf (Fasolia) mit Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.20&lt;/i&gt; (A, L, O)</description>
     </item>
   </channel>
 </rss>
