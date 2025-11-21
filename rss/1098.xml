@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 20 Nov 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 21 Nov 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 20 Nov 2025 02:15:33 +0000</pubDate>
+    <pubDate>Fri, 21 Nov 2025 02:16:10 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gnocchi auf Tomatenragout mit Fenchel und Ingwer</title>
+      <title>Kaspressknödel mit Natur Jus und Sauerkraut</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, L, O)</description>
     </item>
     <item>
-      <title>Puten Chili con Carne und Kaisersemmel</title>
+      <title>Eintopf mit Hühnerfleisch und Karotten dazu kleine Salzerdäpfel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (F, L, O)</description>
     </item>
     <item>
-      <title>Mac and Cheese mit Röstzwiebel &amp; Beilagensalat</title>
+      <title>Vegetarisches Moussaka mit Schafkäse, Zitronen-Olivenöl Dressing und Salatbouquet</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, C, F, G, M, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, G, O)</description>
     </item>
     <item>
-      <title>Züricher Geschnetzeltes vom Schwein mit Reis</title>
+      <title>Alaska Seelachsfilet MSC in Kartoffelpanade und Erdäpfel-Gurkensalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (F, L, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, D, M, O)</description>
     </item>
   </channel>
 </rss>
