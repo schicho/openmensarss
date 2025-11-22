@@ -54,15 +54,13 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 		return nil, err
 	}
 
-	t := time.Now()
-
 	feed := &feeds.Feed{
-		Title:       canteen.Name + " " + t.Format("(Mon, 02 Jan 2006)"),
+		Title:       canteen.Name + " " + date.Format("(Mon, 02 Jan 2006)"),
 		Link:        RSSMetadata.Link,
 		Description: RSSMetadata.Description,
 		Author:      RSSMetadata.Author,
 		Image:       RSSMetadata.Image,
-		Created:     t,
+		Created:     time.Now(),
 	}
 
 	feed.Items = make([]*feeds.Item, 0, len(menu.Meals))

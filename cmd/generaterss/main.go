@@ -35,14 +35,17 @@ func writeRSSWithStylesheet(feed feeds.XmlFeed, w io.Writer) error {
 	return e.Encode(x)
 }
 
+// main starts the process to generate all requested canteen RSS feeds for tomorrow.
+// tomorrow is calculated based on the current local time + 24 hours.
 func main() {
+	tomorrow := time.Now().Add(24 * time.Hour)
 	wg := &sync.WaitGroup{}
 	for _, canteenId := range Canteens {
 		wg.Add(1)
 		go func() {
 			fmt.Printf("Generating RSS for canteen ID %v\n", canteenId)
 			defer wg.Done()
-			feed, err := openmensarss.FeedForCanteenID(canteenId, time.Now())
+			feed, err := openmensarss.FeedForCanteenID(canteenId, tomorrow)
 			if err != nil {
 				fmt.Printf("error: %v\n", err)
 				return
