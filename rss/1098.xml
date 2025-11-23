@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 21 Nov 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 24 Nov 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Fri, 21 Nov 2025 02:16:10 +0000</pubDate>
+    <pubDate>Sun, 23 Nov 2025 14:07:56 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Kaspressknödel mit Natur Jus und Sauerkraut</title>
+      <title>Gnocchi mit Cafe de Paris Sauce &amp; Geschmorten Cherrytomaten</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, M, O)</description>
     </item>
     <item>
-      <title>Eintopf mit Hühnerfleisch und Karotten dazu kleine Salzerdäpfel</title>
+      <title>Asiatisches Rosmarin-Zitronen Huhn mit Glasnudel &amp; Petersilie</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (F, L, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, N, O)</description>
     </item>
     <item>
-      <title>Vegetarisches Moussaka mit Schafkäse, Zitronen-Olivenöl Dressing und Salatbouquet</title>
+      <title>Schweine Schnitzel Wiener Art mit Erdäpfel-Vogerlsalat &amp; Kernöl</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, C, M, O)</description>
     </item>
     <item>
-      <title>Alaska Seelachsfilet MSC in Kartoffelpanade und Erdäpfel-Gurkensalat</title>
+      <title>Gebackener Süßkartoffel gefüllt mit Letscho</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, D, M, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (O)</description>
     </item>
   </channel>
 </rss>
