@@ -37,15 +37,24 @@ func writeRSSWithStylesheet(feed feeds.XmlFeed, w io.Writer) error {
 
 // main starts the process to generate all requested canteen RSS feeds for tomorrow.
 // tomorrow is calculated based on the current local time + 24 hours.
+// Unless it's before monday noon, then monday's menu is fetched.
 func main() {
-	tomorrow := time.Now().Add(24 * time.Hour)
+	now := time.Now()
+	fetchTime := now
+
+	// if it's before monday noon, we want to fetch monday's menu.
+	// that's because monday menus are often not available on sunday evening.
+	if !(now.Weekday() == time.Monday && now.Hour() < 12) {
+		fetchTime = now.Add(24 * time.Hour)
+	}
+
 	wg := &sync.WaitGroup{}
 	for _, canteenId := range Canteens {
 		wg.Add(1)
 		go func() {
 			fmt.Printf("Generating RSS for canteen ID %v\n", canteenId)
 			defer wg.Done()
-			feed, err := openmensarss.FeedForCanteenID(canteenId, tomorrow)
+			feed, err := openmensarss.FeedForCanteenID(canteenId, fetchTime)
 			if err != nil {
 				fmt.Printf("error: %v\n", err)
 				return
