@@ -14,9 +14,9 @@ The returned feed structs can subsequently be modified and exported as RSS or At
 
 This repository also implements automatic RSS feed generation.
 The feeds are generated daily and subsequently published on GitHub pages.
-The RSS feed can then be used, embedded or read on any website or reader.
 
-The published RSS feeds use the same IDs as OpenMensa, e.g. the TU Wien canteen is served at https://schicho.github.io/openmensarss/1098.xml.  
+The published RSS feeds use the same IDs as OpenMensa, e.g. the TU Wien canteen is served at https://schicho.github.io/openmensarss/1098.xml.
+
 More feeds can be found at https://schicho.github.io/openmensarss/.
 
 ##  How to Use the RSS Feeds
