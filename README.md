@@ -16,8 +16,12 @@ This repository also implements automatic RSS feed generation.
 The feeds are generated daily and subsequently published on GitHub pages.
 The RSS feed can then be used, embedded or read on any website or reader.
 
-For instance, you can add an RSS feed to your Tuwel frontpage.
-
-The published RSS feeds use the same IDs as OpenMensa, e.g. the TU Wien canteen is served at https://schicho.github.io/openmensarss/1098.xml.
-
+The published RSS feeds use the same IDs as OpenMensa, e.g. the TU Wien canteen is served at https://schicho.github.io/openmensarss/1098.xml.  
 More feeds can be found at https://schicho.github.io/openmensarss/.
+
+##  How to Use the RSS Feeds
+
+You can subscribe to any canteen's RSS feed using Tuwel (TU Wien's Moodle platform) or your preferred RSS reader. Just copy the feed URL and add it to your dashboard or reader to receive menu updates directly from OpenMensa.
+
+On Tuwel, enable edit mode (top right), add a new RSS block, and paste the feed URL. Enable item descriptions to see prices and allergen details.
+
