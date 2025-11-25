@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 25 Nov 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 26 Nov 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 25 Nov 2025 12:29:04 +0100</pubDate>
+    <pubDate>Tue, 25 Nov 2025 14:18:00 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gemüse-Tomaten Enchilada mit Rucolasalat</title>
+      <title>Linsen-Gemüsecurry mit BIO-Tofu und Kartoffel Gemüsegratin</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, G, L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G, O)</description>
     </item>
     <item>
-      <title>Faschierter Braten mit Naturjus, Erdäpfelpurée und Röstzwiebel</title>
+      <title>Putenstreifen in Tomaten-Artischockensauce mit Fusilli &amp; Parmesan</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, L, M, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
     </item>
     <item>
-      <title>Chicken Rogan Josh mit Bulgur und gehackter Petersilie</title>
+      <title>Cheese Burger mit BIO Rindfleisch, Steakhouse Pommes &amp; BBQ Sauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.90&lt;/i&gt; (A, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, F, G, H, M, N, O)</description>
     </item>
     <item>
-      <title>Kärntner Kasnudeln mit brauner Butter &amp; Salat</title>
+      <title>Pad Thai Salat mit BIO-Tofu</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.50&lt;/i&gt; (A, F, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.60&lt;/i&gt; (A, F, N, O)</description>
     </item>
   </channel>
 </rss>
