@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 01 Dec 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 02 Dec 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 01 Dec 2025 08:35:17 +0000</pubDate>
+    <pubDate>Mon, 01 Dec 2025 14:19:38 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gemüse Lasagne mit Sauce &#34;all´arrabiatta&#34;</title>
+      <title>Süßkartoffel-Paprika Wrap mit Safransauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, G, L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, G, O)</description>
     </item>
     <item>
-      <title>Rindergeschnetzeltes in Walnuss-Mascarponesauce und Butterspätzle</title>
+      <title>Koriander -Zitronen Huhn mit Karotten Zucchini Gemüse und Reis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, H, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, O)</description>
     </item>
     <item>
-      <title>Picatta Milanese vom Schwein mit Spaghetti &amp; Tomatensauce</title>
+      <title>Putengeschnetzeltes Züricher Art mit Butterspätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 11.90&lt;/i&gt; (A, C, F, G, L, O)</description>
     </item>
     <item>
-      <title>Halloumi Linsen Makhani mit Jasminreis &amp; frischen Kräutern</title>
+      <title>Gefüllter Ofenerdäpfel &#34;Gärtnerinen Art&#34; und kleinem Beilagensalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 5.90&lt;/i&gt; (F, G, H, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, G, O)</description>
     </item>
   </channel>
 </rss>
