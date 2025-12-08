@@ -1,4 +1,4 @@
-module github.com/schicho/openmensarss
+module github.com/schicho/openmensarss/v2
 
 go 1.24.4
 

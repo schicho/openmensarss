@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/gorilla/feeds"
-	"github.com/schicho/openmensarss"
+	"github.com/schicho/openmensarss/v2"
 )
 
 const TU_WIEN int = 1098
