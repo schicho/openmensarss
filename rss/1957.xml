@@ -6,7 +6,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 14 Dec 2025 14:15:46 +0000</pubDate>
+    <pubDate>Mon, 15 Dec 2025 08:36:13 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,14 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Feiertag</title>
+      <title>Selleriecremesuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; ()</description>
+      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (F, L)</description>
     </item>
     <item>
-      <title>Falafel mit gegrilltem Gemüse und Hummus</title>
+      <title>Pasta Arrabiata</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Wochenteller Vegan&lt;br /&gt;&lt;i&gt;Others: 8.00&lt;/i&gt; (A)</description>
+      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, L)</description>
+    </item>
+    <item>
+      <title>Hühner-Reisfleisch</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (F, L)</description>
+    </item>
+    <item>
+      <title>-</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Wochenteller Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Others: 8.00&lt;/i&gt; ()</description>
     </item>
   </channel>
 </rss>
