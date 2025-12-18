@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 18 Dec 2025)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 19 Dec 2025)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 17 Dec 2025 14:20:01 +0000</pubDate>
+    <pubDate>Thu, 18 Dec 2025 14:20:02 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Paprika gefüllt mit Cous Cous Tomatenragout und Kräutern</title>
+      <title>Käsespätzle mit Röstzwiebel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G)</description>
     </item>
     <item>
-      <title>Wrap Mexiko mit Rindfleisch und Salat</title>
+      <title>Reisfleisch vom Huhn mit Sauerrahm Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, L, O)</description>
     </item>
     <item>
-      <title>Gemüse-Wok mit BIO-Tofu und Basmatireis</title>
+      <title>Hausgemachte Spinatknödel mit Österkronsauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.20&lt;/i&gt; (A, C, F, G, O)</description>
     </item>
     <item>
-      <title>Gebratenes Hühnerfilet mit Rosmarinjus, Gemüse und Cremiger Polenta</title>
+      <title>Alaska Seelachsfilet MSC im Sesammantel mit Karotten Erbsengemüse, Petersilerdäpfel &amp; Sauce Tartare</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (C, F, G, H, L, N, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, C, D, G, M, N)</description>
     </item>
   </channel>
 </rss>
