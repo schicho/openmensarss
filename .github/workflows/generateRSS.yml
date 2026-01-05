@@ -31,8 +31,8 @@ jobs:
           git config --global user.name github-actions
           git config --global user.email github-actions[bot]@users.noreply.github.com
           git add .
-          # Force the build to succeed, even if no files were changed
-          git commit -m 'Update RSS feeds' || true
+          CHANGED_FILES="$(git diff --cached --name-only -z | xargs -0 -n1 basename | tr '\n' ' ' | sed 's/ $//')"
+          git commit -m "Update RSS feeds${CHANGED_FILES:+: $CHANGED_FILES}" || true
           git push
 
   deploy:
