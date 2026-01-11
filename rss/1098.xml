@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 09 Jan 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 12 Jan 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 08 Jan 2026 14:22:37 +0000</pubDate>
+    <pubDate>Sun, 11 Jan 2026 14:16:45 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganes Erdäpfel Gemüsegulasch mit frischen Kräutern</title>
+      <title>Gemüse Lasagne mit Cherrytomatensauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, G, L, O)</description>
     </item>
     <item>
-      <title>Gebratenes Hühnerfilet mit Waldpilzsauce und Butterspätzle</title>
+      <title>Italienisches Schweinsragout mit Butterspätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
     </item>
     <item>
-      <title>Veganer gefüllter Paprika mit Cous Cous, Cherrytomatensauce und Salzerdäpfeln</title>
+      <title>Mediterranes Gemüserisotto mit geschmorten Cherrytomaten und Parmesan</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (A, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (C, G, O)</description>
     </item>
     <item>
-      <title>Alaska Seelachsfilet MSC klassifiziert im Sesammantel mit Gemüsereis und Sauce Tartare</title>
+      <title>Steirischer Backhendlsalat auf Erdäpfel- Vogerlsalat und Kürbiskernöl</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.60&lt;/i&gt; (A, C, D, G, L, M, N)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, C, L, M, O)</description>
     </item>
   </channel>
 </rss>
