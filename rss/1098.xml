@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 15 Jan 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 16 Jan 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 14 Jan 2026 14:23:00 +0000</pubDate>
+    <pubDate>Thu, 15 Jan 2026 14:22:13 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Spanische Reispfanne mit Feta Käse</title>
+      <title>Süßkartoffelcurry mit gelben Rüben und Zucchini dazu Hirse und Koriander</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (G, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, G, O)</description>
     </item>
     <item>
-      <title>Chili con Carne vom heimischen Rind mit Kaisersemmel</title>
+      <title>Hühnergeschnetzeltes in Champignon-Pfeffersauce mit Dinkel Reis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, G, H, L)</description>
     </item>
     <item>
-      <title>Hausgemachter Fleischstrudel mit Beilagensalat</title>
+      <title>Erdäpfel-Gemüse-Gröstl mit Feta und Knoblauchdip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 11.90&lt;/i&gt; (A, C, G, L, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (G, L, O)</description>
     </item>
     <item>
-      <title>Zwetschken Fruchtknödel mit Butter Brösel und Zwetschkenröster</title>
+      <title>Penne mit Wildlachs Zitronen Sauce, Parmesan und Rucola</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, O)</description>
     </item>
   </channel>
 </rss>
