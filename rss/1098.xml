@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 20 Jan 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 21 Jan 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 19 Jan 2026 14:25:02 +0000</pubDate>
+    <pubDate>Tue, 20 Jan 2026 14:28:07 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganes Gemüse Jambalaya mit gedämpften Cous Cous</title>
+      <title>Bohnen-Gemüse-Eintopf mit Pilzen und Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, L, O)</description>
     </item>
     <item>
-      <title>Geschnetzeltes vom Rind mit Butterspätzle</title>
+      <title>Cremige Schinkenfleckerln vom Putenschinken</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G)</description>
     </item>
     <item>
-      <title>Champignons á la Creme mit hausgemachten Serviettenknödeln</title>
+      <title>Swiss Burger mit Bio Rindfleisch und Potato Wedges</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.90&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, G, M, N, O)</description>
     </item>
     <item>
-      <title>Kokos-Chickenragout mit Kichererbsen und Jasminreis</title>
+      <title>Gemüsestrudel aus Saisonalem Gemüse, Kresse-Sauerrahm Dip und bunten Blattsalaten</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (E, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
     </item>
   </channel>
 </rss>
