@@ -16,6 +16,7 @@
             <h1>
               <xsl:value-of select="channel/title" />
             </h1>
+            <a href="."><img src="omrss.gif" alt="OpenMensaRSS Logo" width="88" height="31" /></a>
           </header>
           <main>
             <div class="content">
