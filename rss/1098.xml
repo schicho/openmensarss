@@ -6,7 +6,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 01 Feb 2026 14:23:28 +0000</pubDate>
+    <pubDate>Mon, 02 Feb 2026 08:50:14 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -19,9 +19,9 @@
       <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, N)</description>
     </item>
     <item>
-      <title>Chili con Carne vom heimischen Rind mit Spaghetti und Parmesan</title>
+      <title>Chili con Carne vom heimischen Rind mit Gebäck</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, G, O)</description>
     </item>
     <item>
       <title>Gebackenes Schweinsschnitzel mit Petersilerdäpfel &amp; Ketchup</title>
