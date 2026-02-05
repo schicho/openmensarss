@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 05 Feb 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 06 Feb 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 04 Feb 2026 14:38:30 +0000</pubDate>
+    <pubDate>Thu, 05 Feb 2026 14:40:41 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganes Bohnenschoten Gulasch mit gedämpften Bulgur</title>
+      <title>Gemüse-Tomaten Wrap mit Kresse-Sauerrahm Dip und Salat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, G, L, O)</description>
     </item>
     <item>
-      <title>Schweinsragout italienische Art mit Bio Fusilli</title>
+      <title>Gebratene Putenstreifen in Tomaten-Artischockensauce mit Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (O)</description>
     </item>
     <item>
-      <title>Indisches Chicken Tikka Masala mit BIO-Dinkel Reis und Korianderdip</title>
+      <title>Vegane Brain Cana Masala mit Cous Cous und gepickelten Zwiebeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 11.90&lt;/i&gt; (A, F, G, H, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.60&lt;/i&gt; (A, O)</description>
     </item>
     <item>
-      <title>Erdäpfelgnocchi mit Broccoli Mandelsauce und Rucola Topping</title>
+      <title>Alaska Seelachsfilet MSC klassifiziert in der Kartoffelpanade mit Sauce Tartare &amp; Erdäpfel-Gurkensalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G, H, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, C, D, G, M, O)</description>
     </item>
   </channel>
 </rss>
