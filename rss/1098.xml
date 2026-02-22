@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 20 Feb 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 23 Feb 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 19 Feb 2026 14:44:09 +0000</pubDate>
+    <pubDate>Sun, 22 Feb 2026 14:23:12 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganes Gemüse Jambalaya mit Basmatireis</title>
+      <title>Erdäpfel Gnocchi mit Zucchini Paprikaragout</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, O)</description>
     </item>
     <item>
-      <title>Schweinsragout mit Käferbohnen, Kartoffelkroketten und gehackten Kräutern</title>
+      <title>Indisches Hendl Tikka Masala mit Jasminreis &amp; Korianderdip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, L, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (F, G, H, O)</description>
     </item>
     <item>
-      <title>Veganes Kichererbsen Chili mit jungen Gemüse und Gebäck</title>
+      <title>Wiener Schnitzel von der Pute mit Erdäpfel-Mayonnaise Salat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (A, C, G, M, O)</description>
     </item>
     <item>
-      <title>Alaska Seelachsfilet MSC klassifiziert in der Knusperpanade mit Dill-Erdäpfel &amp; Sauce Tartar</title>
+      <title>Massaman Kartoffel-Kichererbsen Curry mit Cous Cous &amp; Chilifäden</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, C, D, M, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.60&lt;/i&gt; (A, E)</description>
     </item>
   </channel>
 </rss>
