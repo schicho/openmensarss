@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 24 Feb 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 25 Feb 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 23 Feb 2026 14:42:43 +0000</pubDate>
+    <pubDate>Tue, 24 Feb 2026 14:45:55 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,29 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganes Gemüse Curry mit BIO-Dinkel Reis</title>
+      <title>Gemüse Reispfanne spanische Art mit Feta &amp; Rucola</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, L)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (G, O)</description>
     </item>
     <item>
-      <title>Schweinefleisch 8 Schätze mit Eiernudeln</title>
+      <title>Putengeschnetzeltes mit Sauerrahmsauce &amp; Hörnchen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, E, F, G, N, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, L, O)</description>
     </item>
     <item>
-      <title>Geröstete Knödeln mit Ei und knackigen Blattsalaten</title>
+      <title>Bio Rindfleisch Burger mit Apfel, Blue Cheese Dip und Steakhouse Pommes</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, G, M, N)</description>
     </item>
     <item>
-      <title>Spaghetti mit Putencarbonara</title>
+      <title>Vegitastic Burger im Mehrkorn Bun, Steakhouse Pommes und Guacamole Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, O)</description>
-    </item>
-    <item>
-      <title>Spaghetti mit Putencarbonara</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Wochenangebot&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.40&lt;/i&gt; (A, C, F, G, H, M, O)</description>
     </item>
   </channel>
 </rss>
