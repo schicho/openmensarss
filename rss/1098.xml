@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 26 Feb 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 27 Feb 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 25 Feb 2026 14:46:00 +0000</pubDate>
+    <pubDate>Thu, 26 Feb 2026 14:43:20 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Ein absoluter Klassiker!!! Mac and Cheese</title>
+      <title>Veganes Champignongulasch mit Erdäpfelrösti und Petersilie</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G, M, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (L, O)</description>
     </item>
     <item>
-      <title>Schopfbraten mit Knoblauchjus &amp; Erdäpfelknödel</title>
+      <title>Putenfleisch Jägerart mit gebratenen Schupfnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, L, M, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, L, O)</description>
     </item>
     <item>
-      <title>Scheiterhaufen mit Äpfeln und hausgemachten Beerenröster</title>
+      <title>Gebratenes Wildlachsfilet MSC klassifiziert mit Koi Soi Sauce &amp; Glasnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.90&lt;/i&gt; (A, C, F, G, H)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (A, F, N, O, R)</description>
     </item>
     <item>
-      <title>Zitronen-Koriander Huhn mit gedämpften Bulgur</title>
+      <title>Käsespätzle mit Röstzwiebel &amp; Salat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.50&lt;/i&gt; (A, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.30&lt;/i&gt; (A, C, F, G, O)</description>
     </item>
   </channel>
 </rss>
