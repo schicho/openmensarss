@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 27 Feb 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 02 Mar 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 26 Feb 2026 14:43:20 +0000</pubDate>
+    <pubDate>Sun, 01 Mar 2026 14:21:23 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,29 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Veganes Champignongulasch mit Erdäpfelrösti und Petersilie</title>
+      <title>Erdäpfel Gnocchi mit Sauce alla Siciliana &amp; geriebenen Parmesan</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, O)</description>
     </item>
     <item>
-      <title>Putenfleisch Jägerart mit gebratenen Schupfnudeln</title>
+      <title>Pikante Hascheehörnchen vom Rind mit geschmorten Zwiebeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, L, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, O)</description>
     </item>
     <item>
-      <title>Gebratenes Wildlachsfilet MSC klassifiziert mit Koi Soi Sauce &amp; Glasnudeln</title>
+      <title>Halloumi-Linsen Makhani mit BIO-Dinkel Reis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (A, F, N, O, R)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (A, F, G, H, O)</description>
     </item>
     <item>
-      <title>Käsespätzle mit Röstzwiebel &amp; Salat</title>
+      <title>Picatta Milanese vom Schwein mit Tomatenragout &amp; Petersilerdäpfel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.30&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.50&lt;/i&gt; (A, C, F, G, O)</description>
+    </item>
+    <item>
+      <title>Power-Vitamin Bowl mit Bulgur, Avocado und frischer Kresse 100% VEGAN Take it to the park</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Wochenangebot&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, L, N, O)</description>
     </item>
   </channel>
 </rss>
