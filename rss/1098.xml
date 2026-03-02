@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 02 Mar 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 03 Mar 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 02 Mar 2026 08:51:31 +0000</pubDate>
+    <pubDate>Mon, 02 Mar 2026 14:40:17 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,24 +14,24 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Erdäpfel Gnocchi mit Sauce alla Siciliana &amp; geriebenen Parmesan</title>
+      <title>Veganes Gemüse Chili mit BIO-Tofu und knusprigen Julienne Gemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (F, L, O)</description>
     </item>
     <item>
-      <title>Pikante Hascheehörnchen vom Rind mit geschmorten Zwiebeln</title>
+      <title>Schweineragout mit Käferbohnen und gedämpften Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, L, O)</description>
     </item>
     <item>
-      <title>Halloumi-Linsen Makhani mit BIO-Dinkel Reis</title>
+      <title>Pilzrisotto mit cremigem Goudaschäumchen und aromatischem Rucola-Pesto</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (A, F, G, H, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G, H, O)</description>
     </item>
     <item>
-      <title>Picatta Milanese vom Schwein mit Tomatenragout &amp; Petersilerdäpfel</title>
+      <title>Puten- Süßkartoffel Curry mit Jasminreis &amp; gehacktem Koriander</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.50&lt;/i&gt; (A, C, F, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.60&lt;/i&gt; (A, F, O)</description>
     </item>
     <item>
       <title>Power-Vitamin Bowl mit Bulgur, Avocado und frischer Kresse 100% VEGAN Take it to the park</title>
