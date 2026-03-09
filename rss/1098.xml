@@ -6,13 +6,23 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 08 Mar 2026 14:22:30 +0000</pubDate>
+    <pubDate>Mon, 09 Mar 2026 08:50:43 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
       <title>OpenMensa RSS Generator</title>
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
+    <item>
+      <title>Süßkartoffelcurry mit gelben Rüben und Zucchini mit gedämpften Bulgur</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, C, G, O)</description>
+    </item>
+    <item>
+      <title>Power-Vitamin Bowl mit Bulgur, Avocado und frischer Kresse 100% VEGAN Take it to the park</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Essen im Park / Takeaway am Kassenbereich € 7,90,--&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, M, O)</description>
+    </item>
     <item>
       <title>Süßkartoffelcurry mit gelben Rüben und Zucchini mit gedämpften Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
@@ -32,16 +42,6 @@
       <title>Fusilli mit Sauce alla Siciliana Mit würziger Tomaten-Kräuter-Sauce, serviert mit frischer Rucola-Garnitur.</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, O)</description>
-    </item>
-    <item>
-      <title>Power-Vitamin Bowl mit Bulgur, Avocado und frischer Kresse 100% VEGAN Take it to the park</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Essen im Park / Takeaway am Kassenbereich € 7,90,--&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, M, O)</description>
-    </item>
-    <item>
-      <title>Erdäpfel Gnocchi mit Sauce alla Siciliana &amp; geriebenen Parmesan</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, C, G, O)</description>
     </item>
   </channel>
 </rss>
