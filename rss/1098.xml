@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 12 Mar 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 13 Mar 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 11 Mar 2026 14:43:07 +0000</pubDate>
+    <pubDate>Thu, 12 Mar 2026 14:45:21 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,9 +14,9 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Farfalle in einer feinen Artischockensauce und aromatischem Salbei.</title>
+      <title>Veganes Kichererbsen Chili mit Jungem Gemüse &amp; Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, E, L, O)</description>
+      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, F, G, L, O)</description>
     </item>
     <item>
       <title>Power-Vitamin Bowl mit Bulgur, Avocado und frischer Kresse 100% VEGAN Take it to the park</title>
@@ -24,24 +24,24 @@
       <description>Essen im Park / Takeaway am Kassenbereich € 7,90&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, M, O)</description>
     </item>
     <item>
-      <title>Farfalle in einer feinen Artischockensauce und aromatischem Salbei.</title>
+      <title>Veganes Kichererbsen Chili mit Jungem Gemüse &amp; Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, O)</description>
     </item>
     <item>
-      <title>Klassischer Linseneintopf mit Speck dazu servieren wir eine Kaisersemmel</title>
+      <title>Aromatisches Panang-Curry mit zartem Hühnerfleisch und knackigem Gemüse, serviert mit Bio-Dinkelreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, G, L, M, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, G, O, R)</description>
     </item>
     <item>
-      <title>Powidltascherl mit Butterbrösel und Staubzucker</title>
+      <title>Zart gebratenes Zanderfilet, serviert mit goldbraunen Zucchinispalten, cremiger Polenta und aromatischer Kräuterbutter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, G)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 13.90&lt;/i&gt; (A, C, F, G, O)</description>
     </item>
     <item>
-      <title>Putengeschnetzeltes Züricher Art mit Spätzle und feinen Kräutern</title>
+      <title>Veganes Erdäpfel-Gemüse-Gröstl mit frisch geriebenen Kren</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, C, F, L, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (O)</description>
     </item>
   </channel>
 </rss>
