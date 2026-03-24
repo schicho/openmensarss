@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 24 Mar 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 25 Mar 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 23 Mar 2026 14:52:04 +0000</pubDate>
+    <pubDate>Tue, 24 Mar 2026 14:55:08 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,9 +14,9 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Vegane Penne mit Grünkern-Bolognese und Erbsen-Rucola-Pesto</title>
+      <title>Aloo Masala &#34;Südindisches Kartoffelcurry&#34; mit gedämpften Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, H, L, O)</description>
+      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, H, O)</description>
     </item>
     <item>
       <title>Power-Vitamin Bowl mit Bulgur, Avocado und frischer Kresse 100% VEGAN Take it to the park</title>
@@ -24,24 +24,24 @@
       <description>Essen im Park / Takeaway am Kassenbereich € 7,90&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, M, O)</description>
     </item>
     <item>
-      <title>Vegane Penne mit Grünkern-Bolognese und Erbsen-Rucola-Pesto</title>
+      <title>Aloo Masala &#34;Südindisches Kartoffelcurry&#34; mit gedämpften Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, H, L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, H, O)</description>
     </item>
     <item>
-      <title>Szegediner Krautfleisch vom Huhn mit Petersilienerdäpfel</title>
+      <title>Rindsragout in Wurzelrahmsauce mit Butterspätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
     </item>
     <item>
-      <title>Bärlauchrisotto mit Parmesanchips und Chilifäden</title>
+      <title>Pulled Pork Burger mit Süßkartoffel Pommes frites und BBQ Sauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (C, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, F, G, H, M, N, O)</description>
     </item>
     <item>
-      <title>Knackige Berner Würstel mit Pommes &amp; Ketchup</title>
+      <title>Black-Avocado Burger mit Bohnen Salsa, Schafskäse und Süßkartoffel Pommes frites</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (G)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.40&lt;/i&gt; (A, G, O)</description>
     </item>
   </channel>
 </rss>
