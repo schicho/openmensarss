@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Sat, 28 Mar 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 30 Mar 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Fri, 27 Mar 2026 14:45:49 +0000</pubDate>
+    <pubDate>Sun, 29 Mar 2026 14:31:19 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,9 +14,34 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Basilikumrisotto</title>
+      <title>Überbackene Gemüsefleckerl mit herzhaften Kräuter Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.90&lt;/i&gt; (C, G, O)</description>
+      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, C, F, G)</description>
+    </item>
+    <item>
+      <title>Power-Vitamin Bowl mit Bulgur, Avocado und frischer Kresse 100% VEGAN Take it to the park</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Essen im Park / Takeaway am Kassenbereich € 7,90&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, M, O)</description>
+    </item>
+    <item>
+      <title>Gratinierte Gemüsefleckerl mit herzhaften Kräuter Dip</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G)</description>
+    </item>
+    <item>
+      <title>Erdäpfelgnocchi mit Tomaten - Speckragout on top mit geriebenen Hartkäse</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
+    </item>
+    <item>
+      <title>Gedünstetes Schweinsnaturschnitzel mit Champignonrahmsauce &amp; Braterdäpfeln</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (F, G, L, O)</description>
+    </item>
+    <item>
+      <title>Überbackener Blattspinat-Bärlauchrösti mit Fetakäse &amp; knackigen Blattsalaten</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.30&lt;/i&gt; (A, G, O)</description>
     </item>
   </channel>
 </rss>
