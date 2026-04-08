@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 08 Apr 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 09 Apr 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 07 Apr 2026 15:05:13 +0000</pubDate>
+    <pubDate>Wed, 08 Apr 2026 15:06:48 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,9 +14,9 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Ofenfrische Gemüse Lasagne mit Tomatenragout verfeinert mit Kräutern</title>
+      <title>Karibisches Bohnencurry mit gedämpften Buchweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, G, L, O)</description>
+      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, O)</description>
     </item>
     <item>
       <title>Power-Vitamin Bowl mit Bulgur, Avocado und frischer Kresse 100% VEGAN Take it to the park</title>
@@ -24,24 +24,24 @@
       <description>Essen im Park / Takeaway am Kassenbereich € 7,90&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, M, O)</description>
     </item>
     <item>
-      <title>Ofenfrische Gemüse Lasagne mit Tomatenragout verfeinert mit Kräutern</title>
+      <title>Karibisches Bohnencurry mit gedämpften Buchweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, G, L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, O)</description>
     </item>
     <item>
-      <title>Rindergeschnetzeltes in Walnuss-Mascarponesauce mit gebratenen Schupfnudeln</title>
+      <title>Rindergeschnetzeltes mit grüner Thaipaste und Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, H, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, O, R)</description>
     </item>
     <item>
-      <title>Hühnchen Burger mit Schafskäse und knusprigen Steakhouse Pommes</title>
+      <title>Herzhafte Palatschinken gefüllt mit Faschiertem überbacken mit aromatischem Käse serviert mit Chili Mayo &amp; Salat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, F, G, N, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.90&lt;/i&gt; (A, C, E, G, M, O)</description>
     </item>
     <item>
-      <title>Gebackene Champignons mit Sauce Tartar &amp; knusprige Petersilie</title>
+      <title>Scheiterhaufen mit Äpfeln und hausgemachten Beerenröster</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.90&lt;/i&gt; (A, C, G, M)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.90&lt;/i&gt; (A, C, F, G, H)</description>
     </item>
   </channel>
 </rss>
