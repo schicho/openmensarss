@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 10 Apr 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 13 Apr 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 09 Apr 2026 15:20:04 +0000</pubDate>
+    <pubDate>Sun, 12 Apr 2026 14:37:32 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,9 +14,9 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Cremige Käsespätzle mit knusprigen Röstzwiebeln</title>
+      <title>Farfalle mit Sauce alla Siciliana</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (L, O)</description>
+      <description>TOP Mensamenü only for Studys € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, O)</description>
     </item>
     <item>
       <title>Power-Vitamin Bowl mit Bulgur, Avocado und frischer Kresse 100% VEGAN Take it to the park</title>
@@ -24,24 +24,24 @@
       <description>Essen im Park / Takeaway am Kassenbereich € 7,90&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, M, O)</description>
     </item>
     <item>
-      <title>Cremige Käsespätzle mit knusprigen Röstzwiebeln</title>
+      <title>Farfalle mit Sauce alla Siciliana</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, O)</description>
     </item>
     <item>
-      <title>Zitronen-Koriander Huhn mit zarten Glasnudeln</title>
+      <title>Paprika Hendl mit Petersilienerdäpfel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, E, N, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (F, G, O)</description>
     </item>
     <item>
-      <title>Champignongulasch mit knusprigen Bratkartoffeln</title>
+      <title>Gebackenes Schweins - Surschnitzel mit Erdäpfel Sellerie Stampf und Pfirsich-Tomaten-Chutney</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (L, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, C, F, G, L, O)</description>
     </item>
     <item>
-      <title>Gebratenes Rotbarschfilet MSC zertifiziert mit knackigem Mischgemüse &amp; Erdäpfelpüree</title>
+      <title>Halloumi-Linsen Makhani mit BIO-Dinkel Reis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.50&lt;/i&gt; (G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (A, F, G, H, O)</description>
     </item>
   </channel>
 </rss>
