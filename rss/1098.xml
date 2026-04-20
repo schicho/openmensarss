@@ -6,7 +6,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 19 Apr 2026 14:37:41 +0000</pubDate>
+    <pubDate>Mon, 20 Apr 2026 10:01:02 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -34,9 +34,9 @@
       <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, N, O)</description>
     </item>
     <item>
-      <title>Putenschnitzel vom Grill mit Spargel - Zucchiniragout</title>
+      <title>Putenschnitzel vom Grill mit Spargel - Zucchiniragout und Tagliatelle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (F, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (A, F, O)</description>
     </item>
     <item>
       <title>Veganes Süßkartoffelcurry mit gelben Rüben, Zucchini und BIO-Dinkelreis</title>
