@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 04 May 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 05 May 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 04 May 2026 10:15:58 +0000</pubDate>
+    <pubDate>Mon, 04 May 2026 15:59:58 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,7 +14,7 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>?_0^8 (x^2+1)^(-1/2) · e^(i*pi*x) dx = sum_{n=1..8} (-1)^n / (n^2+1) Mathematische Formel für?</title>
+      <title>S_{k=1..8} (-1)^k * x^k / (k^2 + 1) Mathematische Formel für?</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; ()</description>
     </item>
@@ -24,24 +24,24 @@
       <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, M, O)</description>
     </item>
     <item>
-      <title>Herzhafter Gemüse-Linseneintopf natürlich VEGAN mit einer Kaisersemmel</title>
+      <title>Erdäpfel-Gnocchi mit Grünkern-Bolognese &amp; Rucola</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, L, M, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, L, O)</description>
     </item>
     <item>
-      <title>Ragout von der Hühnerbrust mit Karotten &amp; Erbsenreis</title>
+      <title>Cremige Putenschinkenrahmsauce serviert mit Bio-Penne und Parmesan</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (F, G, L, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, O)</description>
     </item>
     <item>
-      <title>Pariser Schnitzel von der Pute mit Rahmgurkensalat und Dill</title>
+      <title>Cremiges Safran Risotto serviert mit sautierten Pilzen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (A, C, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (G, O)</description>
     </item>
     <item>
-      <title>Pilz-Bhaji nach indischer Art mit schonend gegartem BIO-Dinkel</title>
+      <title>Mediterranes Schweinsragout mit gebratenen Schupfnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.60&lt;/i&gt; (A, L, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.60&lt;/i&gt; (A, C, G, O)</description>
     </item>
   </channel>
 </rss>
