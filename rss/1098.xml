@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 06 May 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 07 May 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 05 May 2026 15:53:03 +0000</pubDate>
+    <pubDate>Wed, 06 May 2026 16:00:08 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,7 +14,7 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>sum_{n=0..inf} (-1)^n / (n^2 + 1) Mathematische Formel für?</title>
+      <title>Polenta / Ratatouille ?_{n=1..8} (1 + (-1)^n / n^2) ASCII Formel</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; ()</description>
     </item>
@@ -24,24 +24,24 @@
       <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, M, O)</description>
     </item>
     <item>
-      <title>Veganes Süßkartoffel Letscho mit schonend gedämpften Cous Cous</title>
+      <title>Gebratene Polentaschnitte mit Ratatouille Gemüse &amp; knuspriger Petersilie</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, O)</description>
     </item>
     <item>
-      <title>Rindsragout in Wurzelrahmsauce mit Spätzle</title>
+      <title>Lasagne al Forno nach Grazer Rezept auf cremiger Tomatensauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, G, L, O)</description>
     </item>
     <item>
-      <title>Burger vom BIO-Rindfleisch mit knusprigem Speck und Steakhouse-Pommes</title>
+      <title>Topfenpalatschinken aus dem Ofen überbacken mit Sauce Royal</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, G, H, M, N, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.30&lt;/i&gt; (A, C, G, O)</description>
     </item>
     <item>
-      <title>Südindisches Kartoffelcurry mit gedämpfter Hirse</title>
+      <title>Cremige Bauernspätzle mit Käse und Speck on top mit knusprigen Röstzwiebeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (H, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.60&lt;/i&gt; (A, C, G, O)</description>
     </item>
   </channel>
 </rss>
