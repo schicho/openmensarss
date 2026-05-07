@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 07 May 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 08 May 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 06 May 2026 16:00:08 +0000</pubDate>
+    <pubDate>Thu, 07 May 2026 16:05:32 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,7 +14,7 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Polenta / Ratatouille ?_{n=1..8} (1 + (-1)^n / n^2) ASCII Formel</title>
+      <title>Bohnen / Gmüse / Hirse sum_{n=1..inf} (-1)^n * n / (n^2 + 1 ASCII Formel</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; ()</description>
     </item>
@@ -24,24 +24,24 @@
       <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, M, O)</description>
     </item>
     <item>
-      <title>Gebratene Polentaschnitte mit Ratatouille Gemüse &amp; knuspriger Petersilie</title>
+      <title>Pikant-würziger Bohnen-Gemüse-Schmortopf mit Pilzen, serviert auf lockerem Buchweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, L, O)</description>
     </item>
     <item>
-      <title>Lasagne al Forno nach Grazer Rezept auf cremiger Tomatensauce</title>
+      <title>Cremiges Kokos-Hühnerragout mit zarten Kichererbsen, serviert mit duftendem Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, G, L, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (E, G, O)</description>
     </item>
     <item>
-      <title>Topfenpalatschinken aus dem Ofen überbacken mit Sauce Royal</title>
+      <title>MSC-Wildlachsfilet in Thai-Curry serviert mit Glasnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.30&lt;/i&gt; (A, C, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 11.90&lt;/i&gt; (A, F, N, O, R)</description>
     </item>
     <item>
-      <title>Cremige Bauernspätzle mit Käse und Speck on top mit knusprigen Röstzwiebeln</title>
+      <title>Eintopf vom jungen Gemüse mit Bulgur und Bohnenkraut</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.60&lt;/i&gt; (A, C, G, O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (A, G, L, O)</description>
     </item>
   </channel>
 </rss>
