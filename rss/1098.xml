@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 12 May 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 13 May 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 11 May 2026 16:30:31 +0000</pubDate>
+    <pubDate>Tue, 12 May 2026 16:16:03 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,7 +14,7 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Polenta / Gemüse / Petersilie ? (x^2 + y^2)^(1/2) · e^(ip) dx ASCII Formel</title>
+      <title>Bohneneintopf / Bulgur sum_{n=1..8} (-1)^n / sqrt(n^2 + 1) ASCII Formel</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; ()</description>
     </item>
@@ -24,24 +24,24 @@
       <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, F, M, O)</description>
     </item>
     <item>
-      <title>Mediterranes Gemüseragout mit gratinierter Polenta-Gemüseschnitte</title>
+      <title>Würziger texanischer Bohneneintopf aus verschiedenen Bohnen, herzhaft abgeschmeckt und serviert mit Bulgur.</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (C, G, L, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, H, L, O)</description>
     </item>
     <item>
-      <title>Vollkornpasta mit klassischer Amatriciana-Sauce aus Tomaten und Speck.</title>
+      <title>Zartes Gyros von der Pute, fein gewürzt, dazu knusprige Kartoffelkroketten und cremiges Tzatziki.</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, O)</description>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, F, G, O)</description>
     </item>
     <item>
-      <title>Vegane Qiunoa Gemüsepfanne</title>
+      <title>Cheeseburger mit hochwertigem Bio-Rindfleisch und geschmolzenem Käse, serviert mit goldbraunen Steakhouse-Pommes.</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (O)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, G, H, M, N, O)</description>
     </item>
     <item>
-      <title>Aromatisches Chicken Koi Soi in fein gewürzter Sauce, mit zartem Hühnerfleisch und Glasnudeln.</title>
+      <title>Mit Cous Cous gefüllter Paprika serviert auf aromatischem Tomaten- Kräuterragout</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, F, N, O, R)</description>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.60&lt;/i&gt; (A, O)</description>
     </item>
   </channel>
 </rss>
