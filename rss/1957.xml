@@ -6,7 +6,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 12 May 2026 16:16:03 +0000</pubDate>
+    <pubDate>Tue, 12 May 2026 19:34:04 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,21 +17,25 @@
       <title>Bärlauchcremesuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (F)</description>
+      <guid isPermaLink="false">49e79d2c49f665d5674c845d7729dfa4ccd19c5eb97ded5d0244ebf6cac0c20a</guid>
     </item>
     <item>
       <title>Spargel Pasta</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, F)</description>
+      <guid isPermaLink="false">6530dca59885f95b2fba932ea2b402f6ddd97fc37ef7a7b216db090e2504687f</guid>
     </item>
     <item>
       <title>Faschierte Laibchen mit Kartoffelpüree (AT)</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (A, C, G)</description>
+      <guid isPermaLink="false">d64d137673b99636dcbab1979155fa1f630880be6222633c81a49bb6f25d0c1b</guid>
     </item>
     <item>
       <title>Falafel mit Hummus und Rotkraut</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Wochenteller Vegan&lt;br /&gt;&lt;i&gt;Others: 8.00&lt;/i&gt; (A)</description>
+      <guid isPermaLink="false">41aa5505bacf3564094ac92777e03ff4ca23cf4c8d2cbc359a1e03376e2fd028</guid>
     </item>
   </channel>
 </rss>
