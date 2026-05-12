@@ -1,6 +1,8 @@
 package openmensarss
 
 import (
+	"crypto/sha256"
+	"encoding/hex"
 	"fmt"
 	"strings"
 	"time"
@@ -66,13 +68,13 @@ func generateFeed(canteen *openmensa.Canteen, date time.Time) (*feeds.Feed, erro
 	feed.Items = make([]*feeds.Item, 0, len(menu.Meals))
 
 	for _, meal := range menu.Meals {
-		feed.Add(createFeedItem(meal))
+		feed.Add(createFeedItem(meal, date))
 	}
 
 	return feed, nil
 }
 
-func createFeedItem(meal openmensa.Meal) *feeds.Item {
+func createFeedItem(meal openmensa.Meal, date time.Time) *feeds.Item {
 	prices := []string{}
 
 	var roles = [...]string{"students", "pupils", "employees", "others"}
@@ -93,5 +95,13 @@ func createFeedItem(meal openmensa.Meal) *feeds.Item {
 		Title:       meal.Name,
 		Description: fmt.Sprintf("%v<br />%v %v", meal.Category, priceInfo, allergenInfo),
 		Link:        RSSMetadata.Link,
+		Id:          generateGUID(meal.Name, date),
+		IsPermaLink: "false",
 	}
+}
+
+func generateGUID(title string, date time.Time) string {
+	content := fmt.Sprintf("%s|%s", title, date.Format("2006-01-02"))
+	hash := sha256.Sum256([]byte(content))
+	return hex.EncodeToString(hash[:])
 }
