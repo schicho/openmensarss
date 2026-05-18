@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 18 May 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 19 May 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 18 May 2026 11:46:01 +0000</pubDate>
+    <pubDate>Mon, 18 May 2026 16:45:41 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,34 +14,34 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Mild-würziges Curry mit Kartoffeln und Kichererbsen serviert mit einer Semmel sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
+      <title>Würziges Madras-Curry mit frischem Gemüse und schonend gedämpften Cous Cous sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; ()</description>
-      <guid isPermaLink="false">b7842ce8a04e6480144837529439044635a4c77c7d59f9655e66716d781356e2</guid>
+      <guid isPermaLink="false">109fafca64244a34cd9312d398f6e912cf067e6b2ea59d12f33f64ee7b1d7488</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, F, M, O)</description>
-      <guid isPermaLink="false">a2dba15a2ac2339b77a47966bafbb0d295a6cd33b5a1ac3f9eca595e1e975ff4</guid>
+      <guid isPermaLink="false">9c670943766680f1ec5203394fe4652611d2c5afaf7a5a4077583e9c7a119e68</guid>
     </item>
     <item>
-      <title>Mild-würziges Curry mit Kartoffeln und Kichererbsen serviert mit einer Semmel</title>
+      <title>Würziges Madras-Curry mit frischem Gemüse und schonend gedämpften Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, E, F)</description>
-      <guid isPermaLink="false">d76708ce8b217f8371b27898381ef1caef17063d3826cc1a5d181dbd267db185</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, L)</description>
+      <guid isPermaLink="false">c89bc65dafb39d24d310b3c39a40155821035990e64695f49e754f79d63198bd</guid>
     </item>
     <item>
-      <title>Hausgemachte Gnocchi in aromatischem Zucchini-Paprikaragout verfeinert mit frischem Parmesan und Rucola-Topping</title>
+      <title>Süßkartoffel-Paprika-Wrap serviert mit cremigem Erdnussdip und knackigem Rotkraut-Asia-Salat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
-      <guid isPermaLink="false">66b6f6dc008c4bb16532ad13603aa806cfdcbaeaba691a127848bef64f3da6fa</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, E, G, O)</description>
+      <guid isPermaLink="false">f5a4d195c139b7d4d4b7dbe1de3625fa880270168a765f5f2169690ab7ce76a3</guid>
     </item>
     <item>
-      <title>Cremiges Risotto mit Pilzen begleitet von feiner Goudasauce, frischem Schnittlauch und hausgemachtem Rucola-Pesto</title>
+      <title>Überbackener Röstitaler mit Blattspinat, Feta, geschmorten Cherrytomaten und Salatbouquet</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (A, C, F, G, H, O)</description>
-      <guid isPermaLink="false">749e8cf12585661adf238d80938c82ab05c583a3e10c0a967841262a1c8beefe</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, G, O)</description>
+      <guid isPermaLink="false">f8d8082a1ae07b06c2525215e4dffb05deabc649ee289d30788171a7bfcd68d3</guid>
     </item>
   </channel>
 </rss>

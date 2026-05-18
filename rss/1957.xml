@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Mon, 18 May 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Tue, 19 May 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 18 May 2026 11:46:01 +0000</pubDate>
+    <pubDate>Mon, 18 May 2026 16:45:41 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,28 +14,28 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Kürbiscremesuppe</title>
+      <title>Kartoffelcremesuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (F)</description>
-      <guid isPermaLink="false">044c3de2aa56cfcd84fe40b69d01738bc936595bab4103ea553b02dc3f247372</guid>
+      <guid isPermaLink="false">31641e43d116e013836bb9109b9fbbe2dc8fe5833045fc51b052590146d4cbb1</guid>
     </item>
     <item>
-      <title>Spargelpasta</title>
+      <title>Krautfleckerl</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, F)</description>
-      <guid isPermaLink="false">b145e15a59d14b5950e7b473fa257c2f458efa62c2b42bac462107d1487f29c4</guid>
+      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A)</description>
+      <guid isPermaLink="false">62c0a944d947ac98bcef6611fbfb2b8576444b76f95ee08abdc04688102bb740</guid>
     </item>
     <item>
-      <title>Curryhuhn mit Reis (PL)</title>
+      <title>Naturschnitzel vom Schwein in Pfeffersauce mit Bratkartoffeln (AT)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (F, L)</description>
-      <guid isPermaLink="false">efa7bfe81227340bcfbe18651942db08472aa3ef7c3e1bc28cae889958cf42ca</guid>
+      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (L)</description>
+      <guid isPermaLink="false">2c55a32a3abcd31da89aa5b5c10522dc7e8efbcc495bc7e557fb4211d7099b24</guid>
     </item>
     <item>
       <title>Quiche Spinat oder Kürbis mit Salatgarnitur</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Wochenteller Vegetarisch&lt;br /&gt;&lt;i&gt;Others: 8.00&lt;/i&gt; (A, C, G)</description>
-      <guid isPermaLink="false">48b1e59e893a9f110d8207c1ea43d2972b9badb1aad4caf704c77352acf4ce1b</guid>
+      <guid isPermaLink="false">2f7a6f0a0f5c34654b8ba65a0c6700e2fe17e148f7d772599b1e50d6e2e35ad8</guid>
     </item>
   </channel>
 </rss>
