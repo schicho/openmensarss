@@ -6,7 +6,7 @@
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 17 May 2026 14:53:25 +0000</pubDate>
+    <pubDate>Mon, 18 May 2026 11:46:01 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -28,13 +28,13 @@
     <item>
       <title>Mild-würziges Curry mit Kartoffeln und Kichererbsen serviert mit einer Semmel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, E, F)</description>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, E, F)</description>
       <guid isPermaLink="false">d76708ce8b217f8371b27898381ef1caef17063d3826cc1a5d181dbd267db185</guid>
     </item>
     <item>
       <title>Hausgemachte Gnocchi in aromatischem Zucchini-Paprikaragout verfeinert mit frischem Parmesan und Rucola-Topping</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, O)</description>
       <guid isPermaLink="false">66b6f6dc008c4bb16532ad13603aa806cfdcbaeaba691a127848bef64f3da6fa</guid>
     </item>
     <item>
