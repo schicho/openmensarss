@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Thu, 21 May 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Fri, 22 May 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 20 May 2026 16:51:27 +0000</pubDate>
+    <pubDate>Thu, 21 May 2026 16:37:10 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,28 +14,28 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gemüsecremesuppe</title>
+      <title>Frittatensuppe</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, C, G, L)</description>
+      <guid isPermaLink="false">5e49700398880ff9e4f038302bdd1a57fe76abf8ec34b572926c0da4f54930cc</guid>
+    </item>
+    <item>
+      <title>Gemüserisotto</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (F, L)</description>
-      <guid isPermaLink="false">97a6c4199e2538fef7c3e414107448ca60c9b87e1d8bfff7712fbf8f397d7d47</guid>
+      <guid isPermaLink="false">9e7cde16a5e84187656e75fb40a2341028a176b7248898413195ff36da68952d</guid>
     </item>
     <item>
-      <title>Falafel mit Hummus und Rotkraut</title>
+      <title>Lasagne (AT)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A)</description>
-      <guid isPermaLink="false">408a5fa2ef25d702cac05eaed6a8f3011608cd497a33a5b789bd832286574786</guid>
-    </item>
-    <item>
-      <title>Linsen mit Knödel</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, C, G, L, P)</description>
-      <guid isPermaLink="false">f91c60d7fbd7acd4a438d05f655edc9cc3895f4a0379b11cf8e1cb03055e90c9</guid>
+      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (A, C, G)</description>
+      <guid isPermaLink="false">e076aeda950697924db1bfd124817938fc2291325e6417f22e54781e5273545c</guid>
     </item>
     <item>
       <title>Quiche Spinat oder Kürbis mit Salatgarnitur</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Wochenteller Vegetarisch&lt;br /&gt;&lt;i&gt;Others: 8.00&lt;/i&gt; (A, C, G)</description>
-      <guid isPermaLink="false">c0e5672b316893db2316cc53bc925c5f63fc3e4223c605f796940d9a678094f0</guid>
+      <guid isPermaLink="false">7409ed8194a97231d3104beffb861b26521382c8c57e74938af6f086dc06584b</guid>
     </item>
   </channel>
 </rss>
