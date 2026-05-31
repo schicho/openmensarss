@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 29 May 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 01 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 28 May 2026 17:33:19 +0000</pubDate>
+    <pubDate>Sun, 31 May 2026 15:15:55 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gemüse-Tomaten Enchilada mit Kresse-Sauerrahm Dip auf knackigen Salat sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
+      <title>Süßkartoffel-Curry mit gelben Rüben und Zucchini serviert mit zartem Buchweizen sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; ()</description>
-      <guid isPermaLink="false">77a4deddc79f2288b75dbc79325911398172b7865bf96a7f13923f5075d04e98</guid>
+      <guid isPermaLink="false">ae4ee1ac7332a240594adb9eb87c14d8a39809ee86d0c3473db419d52a230fb9</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, F, M, O)</description>
-      <guid isPermaLink="false">72b78fa8a0dd65d238ff5a58ce5ebf2689fc8bb4d858ba124f511491486014b2</guid>
+      <guid isPermaLink="false">5e8fd1b15bbaf0a3f43a2b35052858da1b81cca1c0850bb93c034257f8bd0b52</guid>
     </item>
     <item>
-      <title>Gemüse-Tomaten Enchilada mit Kresse-Sauerrahm Dip auf knackigen Salat</title>
+      <title>Süßkartoffel-Curry mit gelben Rüben und Zucchini serviert mit zartem Buchweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, G, L, O)</description>
-      <guid isPermaLink="false">021d8b06d3fe5265b63d5531772957a2051888e0c261ed1a5a60ab1e4f9c8516</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, O)</description>
+      <guid isPermaLink="false">2e72d3cea8910d996e5fceeb20680d32ddf61b59a90a807b34cb09ee81b9706b</guid>
     </item>
     <item>
-      <title>Saftiges Zwiebelfleisch vom Rind mit knusprigen Bratkartoffeln</title>
+      <title>Feine Lasagne von der Pute mit fruchtigem Tomaten-Kräuter-Ragout</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (L, O)</description>
-      <guid isPermaLink="false">890d08eb89c1e002b90446af5cd9e8b56ef86d94b375c5d54f5b85eb922bcb46</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, G, L, O)</description>
+      <guid isPermaLink="false">d05c1a950fce0e011afd8bc3ddbd2264a6f66b28fcc3f813ec3c754b95ed1f22</guid>
     </item>
     <item>
-      <title>Hausgemachte Süßkartoffelgnocchi in brauner Butter, Tomaten und Rucola</title>
+      <title>Gebackenes Schweinsschnitzel mit Erdäpfel-Mayonnaise Salat + ( Preiselbeeren € 0,70)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (A, G)</description>
-      <guid isPermaLink="false">88d72b02392930e0bf01b97505c510c05db4ac72b82d7045a2d5e0b0683efcec</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.30&lt;/i&gt; (A, C, G, M, O)</description>
+      <guid isPermaLink="false">6eae7d95efb6afe67de8d493778ceb2eeb765e2cfde871b0d8e7e8ad0e7867a5</guid>
     </item>
     <item>
-      <title>Alaska-Seelachsfilet MSC zertifiziert in der Kartoffelpanade knusprig gebacken mit Sauce Remoulade und Erdäpfel-Gurkensalat</title>
+      <title>Herzhafter Libanesischer Bohneneintopf mit zartem BIO-Dinkel Reis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.50&lt;/i&gt; (A, C, D, M, O)</description>
-      <guid isPermaLink="false">b2eea39763b1ec16b702fce5952eeb1a367fa7ef9ecf93bbd69d3a3e66d53166</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 8.30&lt;/i&gt; (A, G, L, O)</description>
+      <guid isPermaLink="false">861b4dee9160641b76cd35e916a12ded9a93adf2cad85006e9a256bc5b251a2d</guid>
     </item>
   </channel>
 </rss>
