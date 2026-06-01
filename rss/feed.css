@@ -71,7 +71,8 @@ a:hover {
 
 ul {
     list-style-type: none;
-    padding-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
 }
 
 ul a {
