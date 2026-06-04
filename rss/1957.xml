@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Thu, 04 Jun 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Fri, 05 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 03 Jun 2026 18:20:42 +0000</pubDate>
+    <pubDate>Thu, 04 Jun 2026 16:51:56 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,16 +14,28 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Feiertag</title>
+      <title>Backerbsensuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; ()</description>
-      <guid isPermaLink="false">be07286408bf8850ff1b8db7e38c5685563e66a762ee24fc2ad4d0cd65af62a0</guid>
+      <description>Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, C, L)</description>
+      <guid isPermaLink="false">f028c1ef46c01b0583be2ced4822cf25402927592b980f552d39a8eb53107018</guid>
+    </item>
+    <item>
+      <title>Spargel-Zucchini Eintopf mit Petersilienkartoffeln</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (F)</description>
+      <guid isPermaLink="false">be98f52a461eb1a614ebcc46e3b9caeb267ce2d4f32b833fdb85b84b0dfd66f7</guid>
+    </item>
+    <item>
+      <title>Scholle gebacken mit Risi Bisi (UZ)</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (A, C, D)</description>
+      <guid isPermaLink="false">049ea6754812b4373502267120dc58d5e8224469aaf183bc1170e09b0bf63e47</guid>
     </item>
     <item>
       <title>Linguine mit Spargel</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Wochenteller Vegan&lt;br /&gt;&lt;i&gt;Others: 8.00&lt;/i&gt; (A, F)</description>
-      <guid isPermaLink="false">19bb64b97ba055ad4580d665894448f1ffb2ca4636246fc16e1bf371d5681225</guid>
+      <guid isPermaLink="false">cdee1c13c3f03f2ed18286a3dd6a459cb118296d6fecd8c88d9a50a4abf56736</guid>
     </item>
   </channel>
 </rss>

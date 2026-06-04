@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 03 Jun 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 05 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 02 Jun 2026 18:03:04 +0000</pubDate>
+    <pubDate>Thu, 04 Jun 2026 16:51:56 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Champignons á la Creme mit hausgemachten Serviettenknödeln sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
+      <title>Feines Kichererbsen-Ragout begleitet von Bulgur sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; ()</description>
-      <guid isPermaLink="false">6e8c2daaf3d1c220cd8bdb4c49f4be41344b5ff13eaf2c8aa6e354b46fae72bb</guid>
+      <guid isPermaLink="false">780a03b178bd5b266fd86307ffccfa81e2560a896e4db31cb78f17a10c1c0e0e</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, F, M, O)</description>
-      <guid isPermaLink="false">9018e44fd4f90d45b94b90e9f1c9fb40dacae0583ca8fe7bb1b0023b89690f46</guid>
+      <guid isPermaLink="false">3d0b6dca29ffd6991f12b860e66b42a4feada2028bf220e989a4bd743fa53027</guid>
     </item>
     <item>
-      <title>Champignons á la Creme mit hausgemachten Serviettenknödeln</title>
+      <title>Feines Kichererbsen-Ragout begleitet von Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G, O)</description>
-      <guid isPermaLink="false">cf904642eced3e394f361d25242f45179325c9f2902d9819c65bcf25d07a0d6f</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, F, L)</description>
+      <guid isPermaLink="false">fee11502f43f1f52316214e9b02da889648ac07316fbb2022a07c58e975531ea</guid>
     </item>
     <item>
-      <title>Würziger mexikanischer Hühnereintopf mit gedämpften Cous Cous</title>
+      <title>Penne rigate mit Thunfisch-Tomatenragout &amp; Parmesan</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, O)</description>
-      <guid isPermaLink="false">9eeb1f67971cc8365054d87e8ac2d935ea8bdef7e346440e69362a949364a466</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, D, G, O)</description>
+      <guid isPermaLink="false">0c7f06f091ec15a0a00b29e58c0ca13dfff6703e6ee9531dcb35fc7efc045ba4</guid>
     </item>
     <item>
-      <title>Pulled Pork Burger vom Bio Schwein mit Steakhouse Pommes und Rotkraut Coleslaw</title>
+      <title>Gebratenes Zanderfilet auf Karotten-Erdäpfel-Püree, mit gebratenen Zucchinischeiben und Kräuterbutter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, G, M, N, O)</description>
-      <guid isPermaLink="false">252a45831a6954bfb1cf433002950ec27a586ded167df0dbfc26ad372558b992</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 11.90&lt;/i&gt; (A, G, O)</description>
+      <guid isPermaLink="false">c00c9561fac5a1878530e86e527228090cf797b81424f4b82b7b8ab447a84df0</guid>
     </item>
     <item>
-      <title>Gebackener Gouda mit Petersilerdäpfel &amp; Preiselbeeren</title>
+      <title>Veganes Erdäpfel-Gemüse-Gröstl mit frischem Steirischen Kren</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, C, G)</description>
-      <guid isPermaLink="false">d5349172621063a8fde11db11f740c855bcf8636186c106853988b60c3e7e51b</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (O)</description>
+      <guid isPermaLink="false">7e994986e969ccabe0af03a213e51d6f20f67d03a28039177a132cec892fb1dc</guid>
     </item>
   </channel>
 </rss>
