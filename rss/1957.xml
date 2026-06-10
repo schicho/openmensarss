@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Wed, 10 Jun 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Thu, 11 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 09 Jun 2026 16:29:07 +0000</pubDate>
+    <pubDate>Wed, 10 Jun 2026 16:56:18 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,28 +14,28 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Maiscremesuppe</title>
+      <title>Gemüsecremesuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (F)</description>
-      <guid isPermaLink="false">ccadee80ea284d04cd0535166d435a0e774e8cf1e4540d866068341f58de7c8b</guid>
+      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (F, L)</description>
+      <guid isPermaLink="false">e095607152330c0afa54e170d4d6942cec56409077d853245340742bf522a2f2</guid>
     </item>
     <item>
-      <title>Ratatouille mit Bulgur</title>
+      <title>Spinatknödel mit Käsesauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, L)</description>
-      <guid isPermaLink="false">49c3efa1b70c491cad581f39513cbe28680ad181c9b141f80875b5181916c40a</guid>
+      <description>Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (A, C, F, G)</description>
+      <guid isPermaLink="false">444898a887923c733e108b2dd743dc6f319697a4bef25d1159af8ce14cc542eb</guid>
     </item>
     <item>
-      <title>Pasta Salmone</title>
+      <title>Lasagne (AT)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (A, D, F)</description>
-      <guid isPermaLink="false">7ae88c1e7c848c12c4b4d7e6e7bb9f28702fa2738802b4f671fe9fb6c7104b73</guid>
+      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (A, G, L)</description>
+      <guid isPermaLink="false">e0001a3cecb45d7ee241aaa92158514d0162c091492e8d2ab1091f18fd1d34c5</guid>
     </item>
     <item>
       <title>Schafkäse mit gegrilltem Gemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Wochenteller Vegetarisch&lt;br /&gt;&lt;i&gt;Others: 8.00&lt;/i&gt; (A, G)</description>
-      <guid isPermaLink="false">70a65141113620b2a1e7ff0d4f1c7cdad1e1f04a54fa932f81788f26e3756934</guid>
+      <guid isPermaLink="false">e15de3405e246396e318b274ee38ff5bb4c48f3381da0ed41d28bf6bad7c20f6</guid>
     </item>
   </channel>
 </rss>

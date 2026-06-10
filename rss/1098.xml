@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 10 Jun 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 11 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 09 Jun 2026 16:29:07 +0000</pubDate>
+    <pubDate>Wed, 10 Jun 2026 16:56:18 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Mediterraner Eintopf von roten Linsen mit BIO-Dinkel Reis sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
+      <title>Veganes Boanscharl Gulasch mit Salzerdäpfel sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, G, L, O)</description>
-      <guid isPermaLink="false">8064d461332bc52f2489d4d343bdf2d4ef38558dc1c63c02581f61c65c82ae92</guid>
+      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (L, O)</description>
+      <guid isPermaLink="false">60cce4122570e3a95797455fda8aad354e3ffe926c935fe341388296f80b5da5</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, F, M, O)</description>
-      <guid isPermaLink="false">36b90e9406268d571c55dd0bd0265156a54797005466c7b6a78aa20c0d29fe41</guid>
+      <guid isPermaLink="false">68002b05b546fabc0a36808eb6b082d19a7d056ca7ea9b8094b5ab966f1706b7</guid>
     </item>
     <item>
-      <title>Mediterraner Eintopf von roten Linsen mit BIO-Dinkel Reis</title>
+      <title>Veganes Boanscharl Gulasch mit Salzerdäpfel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, L, O)</description>
-      <guid isPermaLink="false">f71decd0ec5d93ed8a8c04b1324098bd724a471c197184022788fe7dd15264ce</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (L, O)</description>
+      <guid isPermaLink="false">f7cf355bfa85f8945d8243c07c018c983406264602c134c94668e4b724255422</guid>
     </item>
     <item>
-      <title>Majoranfleisch vom heimischen Schwein mit Hörnchen</title>
+      <title>Klassisch österreichisch interpretiert zarte Fleckerln in einer cremigen Sauce verfeinert mit herzhaftem Putenschinken</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, L, O)</description>
-      <guid isPermaLink="false">162192191d6a72d7f0ff32c3a7ff0e908ed3f2a9433a2e69831441876abe3a68</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, G, O)</description>
+      <guid isPermaLink="false">74c0d397c0c2adbd37532964c27173cb3e86f2d5d79e53d5785d9b75d42bda64</guid>
     </item>
     <item>
-      <title>Mensa Burger vom BIO Rind mit Melanzani-Tomatensalsa und Süßkartoffel Pommes</title>
+      <title>Ofengebackene Süßkartoffel herzhaft gefüllt mit würzigem Letscho</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 12.50&lt;/i&gt; (A, C, G, H, M, N, O)</description>
-      <guid isPermaLink="false">c0918b536bdd832899c24057c2e1ddd9cbde3afa81ee10fc2cf2cab34063c7e9</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (O)</description>
+      <guid isPermaLink="false">701834842beace5f4af22253ada62ec7cc06b9e5340e2579e9bc4bfdf5810713</guid>
     </item>
     <item>
-      <title>Hausgemachter Avocado Burger mit knusprigen Süßkartoffel Pommes</title>
+      <title>Hausgemachter Faschierter Stefaniebraten mit Kräuterjus, Erdäpfelpurée und Röstzwiebeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.40&lt;/i&gt; (A, C, G, M)</description>
-      <guid isPermaLink="false">724220f030e4ab4da3c3ad6129caebb2f9504cf86e3df97a238ba4a33fd86afe</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, C, G, L, M, O)</description>
+      <guid isPermaLink="false">bdbc53a5ae1bece52aba92a6523e9e6957ab9abca8ef94a0d3dc2f1f70775558</guid>
     </item>
   </channel>
 </rss>
