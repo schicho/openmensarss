@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 12 Jun 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 15 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 11 Jun 2026 17:34:49 +0000</pubDate>
+    <pubDate>Sun, 14 Jun 2026 15:47:17 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Indisches Kichererbsen Curry (Chana Masala) mit geröstetem Buchweizen sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
+      <title>Aromatisches Mushroom Bhaji nach indischer Art serviert auf lockerem BIO-Dinkelreis sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (G, O)</description>
-      <guid isPermaLink="false">ef2ef5980e28745c6f11c08882440dfd2bad44402adc471f288403bd4657cff9</guid>
+      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, L, O)</description>
+      <guid isPermaLink="false">23135bf04944a8a62adef02c1c2f6ca21ca4ce1339356333dd2737e725b4fb08</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, F, M, O)</description>
-      <guid isPermaLink="false">1ecc13f12c3c646c134a09586705f49825508cf259926b787b66a9e3a9508773</guid>
+      <guid isPermaLink="false">d95a5826911af790281550435c608bbeee111ab82da9928e276bd356337af24e</guid>
     </item>
     <item>
-      <title>Indisches Kichererbsen Curry (Chana Masala) mit geröstetem Buchweizen</title>
+      <title>Aromatisches Mushroom Bhaji nach indischer Art serviert auf lockerem BIO-Dinkelreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (O)</description>
-      <guid isPermaLink="false">5f9a67bcf7fe78d5c5bfb831e0f9e27c8ff4621e9575e436c510857217f8e4ec</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, L, O)</description>
+      <guid isPermaLink="false">632d8b10468d8b2094f6b25d2b64d096f09c534ca30748c8a0a27239fc764f74</guid>
     </item>
     <item>
-      <title>Zarte Putenstreifen in Tomaten-Artischockensauce serviert mit lockerem Bulgur</title>
+      <title>Erdäpfel-Gnocchi in cremiger Carbonara-Sauce mit Speck</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, O)</description>
-      <guid isPermaLink="false">bdaae44a7c25fa4a1c02693bc4fd497baafa2516cf063bd6d2da0162f8779a3a</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, O)</description>
+      <guid isPermaLink="false">caf6d007f8d1eccbf0a418f9dff6b93bda114be6a404e0f8e0818fa7a18c8adb</guid>
     </item>
     <item>
-      <title>Penne Rigate Mezze mit würziger Sauce all´arrabbiata und italienischem Hartkäse</title>
+      <title>Putenroulade gefüllt mit Broccoli und Käse serviert mit Kartoffelkroketten &amp; Kräuter Jus</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 6.90&lt;/i&gt; (A, C, G, O)</description>
-      <guid isPermaLink="false">48276d2b2dd318c9ed7196ba8a9e7a507effe125e451d849b8bb5d791125abd9</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (A, C, G, L, O)</description>
+      <guid isPermaLink="false">3fe0aca00b08a24bbd0128a1deb5f29c633ee2bfa6fe5cb4b105b28eebb2bc3d</guid>
     </item>
     <item>
-      <title>Alaska Seelachsfilet MSC zertifiziert in der Erdäpfelpanade mit Erdäpfel-Gurkensalat &amp; Zitrone</title>
+      <title>Gscmackiges Süßkartoffel-Letscho dazu Rucola</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.50&lt;/i&gt; (A, D, M, O)</description>
-      <guid isPermaLink="false">794e58a0b3473fcf79b1f1e0909b51fff65455462552f583134f2308d0ca9a42</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (O)</description>
+      <guid isPermaLink="false">e4c7a8967ab42c832c50a47283cc1a968ec6ebd15ba0560fab6676123dc77b98</guid>
     </item>
   </channel>
 </rss>
