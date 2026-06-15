@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 15 Jun 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 16 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 14 Jun 2026 15:47:17 +0000</pubDate>
+    <pubDate>Mon, 15 Jun 2026 14:25:21 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Aromatisches Mushroom Bhaji nach indischer Art serviert auf lockerem BIO-Dinkelreis sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
+      <title>Vollkorn Penne Rigate mit kräftiger Grünkern-Bolognese sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, L, O)</description>
-      <guid isPermaLink="false">23135bf04944a8a62adef02c1c2f6ca21ca4ce1339356333dd2737e725b4fb08</guid>
+      <guid isPermaLink="false">2c62dfe7dc7f1e2adcd06897611f8c117734e037c41c0bda92a450780fe9bdee</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, F, M, O)</description>
-      <guid isPermaLink="false">d95a5826911af790281550435c608bbeee111ab82da9928e276bd356337af24e</guid>
+      <guid isPermaLink="false">4e97bf5905268efba017c3585d5d0c59f4c1c52ad469157ebc7aae512ab4dd26</guid>
     </item>
     <item>
-      <title>Aromatisches Mushroom Bhaji nach indischer Art serviert auf lockerem BIO-Dinkelreis</title>
+      <title>Vollkorn Penne Rigate mit kräftiger Grünkern-Bolognese</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, L, O)</description>
-      <guid isPermaLink="false">632d8b10468d8b2094f6b25d2b64d096f09c534ca30748c8a0a27239fc764f74</guid>
+      <guid isPermaLink="false">d68bb5ed0e2176ed78cfea867258499505aa9c1d753d08e815da09995347907b</guid>
     </item>
     <item>
-      <title>Erdäpfel-Gnocchi in cremiger Carbonara-Sauce mit Speck</title>
+      <title>Zartes Szegediner Krautfleisch vom Huhn serviert mit klassischen Salzerdäpfeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, F, O)</description>
-      <guid isPermaLink="false">caf6d007f8d1eccbf0a418f9dff6b93bda114be6a404e0f8e0818fa7a18c8adb</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (G, O)</description>
+      <guid isPermaLink="false">fbd19d9988467a1757e29f8c9a5e7766072fb1531a8e0a1ed8027d365491daea</guid>
     </item>
     <item>
-      <title>Putenroulade gefüllt mit Broccoli und Käse serviert mit Kartoffelkroketten &amp; Kräuter Jus</title>
+      <title>Gefüllte Melanzani mit saftigem Rindfleisch begleitet von Rote-Rüben-Hummus und knackigen Salaten</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (A, C, G, L, O)</description>
-      <guid isPermaLink="false">3fe0aca00b08a24bbd0128a1deb5f29c633ee2bfa6fe5cb4b105b28eebb2bc3d</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 10.90&lt;/i&gt; (A, C, F, N, O)</description>
+      <guid isPermaLink="false">5ddeb6d17036d87e5289d3483d9c5d3cf214f358ae1797f8c39607ef40cb8e77</guid>
     </item>
     <item>
-      <title>Gscmackiges Süßkartoffel-Letscho dazu Rucola</title>
+      <title>Cremige Käsespätzle mit knusprigen Röstzwiebeln und Blattsalaten</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (O)</description>
-      <guid isPermaLink="false">e4c7a8967ab42c832c50a47283cc1a968ec6ebd15ba0560fab6676123dc77b98</guid>
+      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.60&lt;/i&gt; (A, C, F, G, O)</description>
+      <guid isPermaLink="false">2c15cffab567485af74df7bdea4f9be86bbfb59d71d49fc5506880d276dc4d0e</guid>
     </item>
   </channel>
 </rss>
