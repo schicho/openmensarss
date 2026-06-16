@@ -117,17 +117,3 @@ ul a {
     gap: 1rem;
     align-items: flex-start;
 }
-
-.menu-item {
-    flex: 0 0 auto;
-    width: 100%;
-    border: 1px solid #d8d8d8;
-    border-radius: 0.75rem;
-    padding: 1rem;
-    background: #ffffff;
-}
-
-.menu-item .description {
-    font-size: 0.95rem;
-    line-height: 1.5
-}
