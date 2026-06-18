@@ -114,6 +114,6 @@ ul a {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    gap: 1rem;
+    gap: 2.5rem;
     align-items: flex-start;
 }

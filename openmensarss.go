@@ -85,7 +85,7 @@ func createFeedItem(meal openmensa.Meal, date time.Time) *feeds.Item {
 		if !ok || v == 0.0 {
 			continue
 		}
-		prices = append(prices, fmt.Sprintf("<i>%v: %.2f</i>", strings.Title(r), v))
+		prices = append(prices, fmt.Sprintf("%v: %.2f", strings.Title(r), v))
 	}
 
 	priceInfo := strings.Join(prices, ", ")
@@ -93,7 +93,7 @@ func createFeedItem(meal openmensa.Meal, date time.Time) *feeds.Item {
 
 	return &feeds.Item{
 		Title:       meal.Name,
-		Description: fmt.Sprintf("%v<br />%v %v", meal.Category, priceInfo, allergenInfo),
+		Description: fmt.Sprintf("%v %v %v", meal.Category, allergenInfo, priceInfo),
 		Link:        RSSMetadata.Link,
 		Id:          generateGUID(meal.Name, date),
 		IsPermaLink: "false",
