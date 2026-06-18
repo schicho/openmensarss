@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Thu, 18 Jun 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Fri, 19 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 17 Jun 2026 16:52:55 +0000</pubDate>
+    <pubDate>Thu, 18 Jun 2026 08:52:33 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,22 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Dillfisolen mit Rösti</title>
+      <title>Karfiol-Kartoffel überbacken mit Joghurt Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan&lt;br /&gt;&lt;i&gt;Students: 4.00&lt;/i&gt;, &lt;i&gt;Others: 6.00&lt;/i&gt; (F)</description>
-      <guid isPermaLink="false">119b8cc5e16238172999dcb711b42f2b157a984b5a4aeb7dbc5942a1b1e63617</guid>
+      <description>Nicht Vegetarisch (G) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">a20d0cdee0eb34ddedeca6fc4d54107e80e3d4408d27edcf95cd19ce87c4b3ac</guid>
     </item>
     <item>
-      <title>Curryhuhn mit Reis (PL)</title>
+      <title>Gebackene Scholle mit Petersilienkartoffeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch&lt;br /&gt;&lt;i&gt;Students: 5.00&lt;/i&gt;, &lt;i&gt;Others: 7.00&lt;/i&gt; (F, L)</description>
-      <guid isPermaLink="false">c2d7ea43fd9fca0b821dcd519d4cc539c7568d546ec85683a616398e677b3707</guid>
+      <description>Nicht Vegetarisch (A, C, D) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">4d5769d587cb182d656d36d41f268a1e4af9d20a3912313b2ad0c187000dab63</guid>
     </item>
     <item>
       <title>Quiche mit Salatgarnitur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Wochenteller Vegetarisch&lt;br /&gt;&lt;i&gt;Others: 8.00&lt;/i&gt; (A, C, G)</description>
-      <guid isPermaLink="false">74401608f56a802f823f6d92577a7e9cfcb27b3eeb724f91dbc225a341fd0c06</guid>
+      <description>Wochenteller Vegetarisch (A, C, G) Others: 8.00</description>
+      <guid isPermaLink="false">d871069ecd1fe057dd53238d74ed8e37e44c49a3bd880184988d142b7dac6438</guid>
     </item>
   </channel>
 </rss>

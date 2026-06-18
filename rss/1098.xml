@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 18 Jun 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 19 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 17 Jun 2026 16:52:55 +0000</pubDate>
+    <pubDate>Thu, 18 Jun 2026 08:52:33 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Zartes Soja-Champignon-Geschnetzeltes begleitet von goldbraun gebratenen Schupfnudeln sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
+      <title>Aromatischer Eintopf von jungem Gemüse &amp; Stangenbohnen serviert auf gedämpften Bulgur sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,--&lt;br /&gt;&lt;i&gt;Others: 5.00&lt;/i&gt; (A, C, F, G, L, O)</description>
-      <guid isPermaLink="false">3538df30c2a27da9c725191617460f50959fca625dfe2fbf776d208d6294fd08</guid>
+      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,-- (A, G, L, O) Others: 5.00</description>
+      <guid isPermaLink="false">fcb95d01d13f7c0c14259e7f2f7f17eb34ca7c5841b430b14017bb42caf52891</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Essen im Park / Takeaway am Kassenbereich&lt;br /&gt;&lt;i&gt;Others: 6.50&lt;/i&gt; (A, F, M, O)</description>
-      <guid isPermaLink="false">19baddfe5413b62c174620b5affae0a4bb59813351296d1ad8b238d47b31caa7</guid>
+      <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
+      <guid isPermaLink="false">4cbbcce1842025265ca53cdd4a0e48f09b022cf31e9493013aeebca7b325ebff</guid>
     </item>
     <item>
-      <title>Zartes Soja-Champignon-Geschnetzeltes begleitet von goldbraun gebratenen Schupfnudeln</title>
+      <title>Aromatischer Eintopf von jungem Gemüse &amp; Stangenbohnen serviert auf gedämpften Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 6.80&lt;/i&gt; (A, C, F, G, L, O)</description>
-      <guid isPermaLink="false">916fe3a3d99a3224b65c16b0ff69271306422bea82477f5d9ee31728246bcd46</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O, F) Others: 6.80</description>
+      <guid isPermaLink="false">36fffd2cd76612d76c3b3b1bc030b09d61f4113b2308b732c46e73c77a0cd1ca</guid>
     </item>
     <item>
-      <title>Saftiger Schweinsbraten vom Schopf mit kräftigem Safterl &amp; Erdäpfelknödl</title>
+      <title>Rindsgeschnetzeltes nach Koreanischer Art mit lockerem Duftreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat)&lt;br /&gt;&lt;i&gt;Others: 7.90&lt;/i&gt; (A, C, G, L, M, O)</description>
-      <guid isPermaLink="false">933bedae3f3480b07b286ae021db38035143ca51555d83a1757227581293367d</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, N, O) Others: 7.90</description>
+      <guid isPermaLink="false">9ba84d9c2e0c49bd639e161b653f2462472f3e0d19cfa4c2e8f6aeb08e27b0f1</guid>
     </item>
     <item>
-      <title>DIE BESTEN Hausgemachten Buchteln mit Vanillesauce</title>
+      <title>Schlotziges Gemüserisotto mediterran mit geschmorten Paradeiser &amp; Parmesanchips</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 7.20&lt;/i&gt; (A, C, G)</description>
-      <guid isPermaLink="false">9e52659219d7b977a086afa587373f2880c7d963c90f137e0b6b944565e867b7</guid>
+      <description>Tagesgerichte (C, G, L, O) Others: 7.90</description>
+      <guid isPermaLink="false">2768949e09a14f5ee848329fd26cb091adb6752dc9180db65c9f8b86a003e2b9</guid>
     </item>
     <item>
-      <title>Caesar Salat mit gegrillten Hühnerstreifen &amp; reschen Croutons</title>
+      <title>Zart gebratenes Wildlachsfilet MSC zertifiziert auf indonesischem Wokgemüse mit feinen Sojasprossen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte&lt;br /&gt;&lt;i&gt;Others: 9.90&lt;/i&gt; (A, C, D, F, G, M, O)</description>
-      <guid isPermaLink="false">1be26a07031b87f8a3e5993d768f2f71a2aa2e8cd67473e5cf27fdcbfce3f855</guid>
+      <description>Tagesgerichte (A, E, F, O) Others: 10.50</description>
+      <guid isPermaLink="false">d8f77b22f6db297dbae82669875b45b072318db7f05234fc4caa446f83029057</guid>
     </item>
   </channel>
 </rss>
