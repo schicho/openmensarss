@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 22 Jun 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 23 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 21 Jun 2026 15:49:03 +0000</pubDate>
+    <pubDate>Mon, 22 Jun 2026 13:36:49 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Überbackene Gemüsefleckerl mit aromatischem Kräuter Dip sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
+      <title>Gemüseragout auf mediterrane Art mit gratinierter Polenta-Gemüseschnitte und knuspriger Petersilie sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,-- (A, C, F, G) Others: 5.00</description>
-      <guid isPermaLink="false">7cc74a5090573e1c448dd6e686de597849d839d57e02ec3368200a4625b5f3be</guid>
+      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,-- (C, G, L, O) Others: 5.00</description>
+      <guid isPermaLink="false">9add585e19c8894ba088186a1161a8e19a753a7ff2c0fa349e4367196c51945a</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">f5fd8d44f718c8ecc7b8900ff1d389fd2cc012a736ee4dd3c01cd5cfff35100a</guid>
+      <guid isPermaLink="false">14b9f87e109f85c1beed582b8d5f062fb2b4a5a2f75ba3c6c8f05a9f7dec6ac0</guid>
     </item>
     <item>
-      <title>Überbackene Gemüsefleckerl mit aromatischem Kräuter Dip</title>
+      <title>Gemüseragout auf mediterrane Art mit gratinierter Polenta-Gemüseschnitte und knuspriger Petersilie</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, F, G) Others: 6.80</description>
-      <guid isPermaLink="false">92a945f49acf669d0c62ac51fb08145db7d69582047a2d3be882dd9d31365241</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (C, L, O) Others: 6.80</description>
+      <guid isPermaLink="false">94f92e066a875952c2c9d0a228c323a2a988fa61b93b4ae8064e106eeba27a22</guid>
     </item>
     <item>
-      <title>Reisfleisch vom Huhn Herzhaft geschmort, klassisch gewürzt</title>
+      <title>Rindergeschnetzeltes Stroganoff (Der Klassiker mit Rindfleisch in Rahmsauce, Champignons &amp; Gurkerl) dazu Schupfnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, L, O) Others: 7.90</description>
-      <guid isPermaLink="false">a7201efaeb9d5baff2ec4aa7d4eb1cce78a6e5632cc5f9d144ce543eeb6c8d85</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, H, L, M, O) Others: 7.90</description>
+      <guid isPermaLink="false">8a58d90722ce507f3887a1965e68378839bf48676102e3bfa44aabac965b6e6b</guid>
     </item>
     <item>
-      <title>Cordon Bleu vom Schwein mit Petersilerdäpfel (Preiselbeeren + € 0,70)</title>
+      <title>Saftiges Huhn in würziger Tikka-Masala-Sauce serviert mit duftendem Basmatireis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G) Others: 9.30</description>
-      <guid isPermaLink="false">174acff8186096e09c8b889b2093a5fe0483e7f0813fe41c4811baf721a678ed</guid>
+      <description>Tagesgerichte (F, G, H, O) Others: 11.90</description>
+      <guid isPermaLink="false">ea9f83b6d9079b2a827c00f70c15493d70ed3b1f706849e901fc0d496f0a97a7</guid>
     </item>
     <item>
-      <title>Cremige Eiernockerl serviert mit frischem, knackigem Salat</title>
+      <title>Erdäpfel-Gemüse-Gröstl mit steirischem Kren</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, O) Others: 7.90</description>
-      <guid isPermaLink="false">9042631b34623345fbd623016dbddb99f31354582dda1413614ef01c22d3b755</guid>
+      <description>Tagesgerichte (O) Others: 7.20</description>
+      <guid isPermaLink="false">8922b55461291c891beda1740776549efa4a61a93986b7509dbf99c355ff9e97</guid>
     </item>
   </channel>
 </rss>
