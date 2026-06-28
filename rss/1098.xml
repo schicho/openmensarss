@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 26 Jun 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 29 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 25 Jun 2026 16:20:53 +0000</pubDate>
+    <pubDate>Sun, 28 Jun 2026 15:15:33 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Würziges Gemüseragout serviert mit feiner Hirse sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
+      <title>Erdäpfel-Gnocchi mit cremiger Waldpilzsauce sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,-- (G, O) Others: 5.00</description>
-      <guid isPermaLink="false">cefa44889bbd6a4c7298b634033e48235f3b6aed7d11c5f57e2d33bcf09661d3</guid>
+      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,-- (A, C, G, O) Others: 5.00</description>
+      <guid isPermaLink="false">8620505c037b4565dc0d2c33851efc2ae6aa46267e89d330d23c4ddc79bd95f6</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">61b1962457a98ec4e5cd298fa4d431e41826224018f5c8ce7949dc6f6d004a31</guid>
+      <guid isPermaLink="false">694c777effbbce4b79b433a5d2ff75db126dd444f375a24644b1021a317fdf55</guid>
     </item>
     <item>
-      <title>Würziges Gemüseragout serviert mit feiner Hirse</title>
+      <title>Erdäpfel-Gnocchi mit cremiger Waldpilzsauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (O) Others: 6.80</description>
-      <guid isPermaLink="false">cad8f5882261cc3bb8eacec154bec7c52ad403ae7e4abe529e3e1dac982b1d81</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 6.80</description>
+      <guid isPermaLink="false">d58e0db6dd4d0fb9605dafc2b9e5b94a989106d77b25e9043aff0f221bea8726</guid>
     </item>
     <item>
-      <title>Mexikanischer Puten-Wrap mit cremigem Avocado Dip und knackigem Salat</title>
+      <title>Zartes Hühnerfleisch in cremig-würziger Tikka-Masala-Sauce serviert mit duftendem Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, M, O) Others: 7.90</description>
-      <guid isPermaLink="false">72d9927f97e82442bdba7f5d421479101b9e3764d6c60db55a4eea42f7c6a81c</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (F, G, H, O) Others: 7.90</description>
+      <guid isPermaLink="false">f83acedf0ff25efc9df157591795c5bc54e36dcc780702552afff0c05773a0d6</guid>
     </item>
     <item>
-      <title>Hausgemachte Sonnenblumenlaibchen mit Kresse-Sauerrahm Dip und Salatbouquet</title>
+      <title>Saftiges Putenschnitzel in knuspriger Cornflakespanade begleitet von aromatischem griechischem Bauernsalat mit Schafkäse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, O) Others: 7.60</description>
-      <guid isPermaLink="false">dd305f389af9ffee27a682219ec7645efdd388c3281da7cf2c53a8f979e87690</guid>
+      <description>Tagesgerichte (A, C, G, O) Others: 10.90</description>
+      <guid isPermaLink="false">54c5f6f2ae845a7d187bd3a8cafe4a9636c7061b645e613a9864c74249806a58</guid>
     </item>
     <item>
-      <title>Gebackenes Alaska Seelachsfilet MSC zertifiziert mit Dill-Erdäpfel &amp; Kräuter-Dip</title>
+      <title>Bunte Gemüsepfanne mit proteinreichem Quinoa und saisonalem Marktgemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, D, M, O) Others: 9.30</description>
-      <guid isPermaLink="false">32ab9641ace0478244865ad361338eff4fd6799383a6b9458679328ad665a1c4</guid>
+      <description>Tagesgerichte (O) Others: 6.90</description>
+      <guid isPermaLink="false">6952ca38bb472d9fe9e43b8081ac89cec8788f917b245323cd104c254ffc6cfc</guid>
     </item>
   </channel>
 </rss>
