@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 29 Jun 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 30 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 28 Jun 2026 15:15:33 +0000</pubDate>
+    <pubDate>Mon, 29 Jun 2026 12:36:57 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Erdäpfel-Gnocchi mit cremiger Waldpilzsauce sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
+      <title>Fein abgestimmtes Gemüsecurry mit Kokosmilch und exotischen Gewürzen veredelt mit Cashewkernen und Datteln sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,-- (A, C, G, O) Others: 5.00</description>
-      <guid isPermaLink="false">8620505c037b4565dc0d2c33851efc2ae6aa46267e89d330d23c4ddc79bd95f6</guid>
+      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,-- (A, L) Others: 5.00</description>
+      <guid isPermaLink="false">29920acb747d1ffab45014b7ec1b26ae304c4adf4802f4da66a33a613ad4cc9c</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">694c777effbbce4b79b433a5d2ff75db126dd444f375a24644b1021a317fdf55</guid>
+      <guid isPermaLink="false">c530be027befc208a5368cacf39b2e4fd07a7a128ec77e5bef544ee0959664ae</guid>
     </item>
     <item>
-      <title>Erdäpfel-Gnocchi mit cremiger Waldpilzsauce</title>
+      <title>Fein abgestimmtes Gemüsecurry mit Kokosmilch und exotischen Gewürzen veredelt mit Cashewkernen und Datteln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 6.80</description>
-      <guid isPermaLink="false">d58e0db6dd4d0fb9605dafc2b9e5b94a989106d77b25e9043aff0f221bea8726</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L) Others: 6.80</description>
+      <guid isPermaLink="false">ede1429f4ea0627ba6ef7ce708574b6286f530d441db0291ab6888643e4e281e</guid>
     </item>
     <item>
-      <title>Zartes Hühnerfleisch in cremig-würziger Tikka-Masala-Sauce serviert mit duftendem Jasminreis</title>
+      <title>Geschnetzeltes vom Schwein mit knackigem Wokgemüse in aromatischer Sauce serviert mit Eiernudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (F, G, H, O) Others: 7.90</description>
-      <guid isPermaLink="false">f83acedf0ff25efc9df157591795c5bc54e36dcc780702552afff0c05773a0d6</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, E, F, G, N, O) Others: 7.90</description>
+      <guid isPermaLink="false">83ac918ef31f729b06398431925cfc4f2463be60f56acb7ac46d1822968c5f59</guid>
     </item>
     <item>
-      <title>Saftiges Putenschnitzel in knuspriger Cornflakespanade begleitet von aromatischem griechischem Bauernsalat mit Schafkäse</title>
+      <title>Zucchini gefüllt mit Ratatouile Gemüse serviert mit Rösti und Parmesanchip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, O) Others: 10.90</description>
-      <guid isPermaLink="false">54c5f6f2ae845a7d187bd3a8cafe4a9636c7061b645e613a9864c74249806a58</guid>
+      <description>Tagesgerichte (A, C, G, O) Others: 9.30</description>
+      <guid isPermaLink="false">805e76b93a8f57629b2ad86e20436749ef8b5fb582540a841a2cb9fb33b13be7</guid>
     </item>
     <item>
-      <title>Bunte Gemüsepfanne mit proteinreichem Quinoa und saisonalem Marktgemüse</title>
+      <title>Käsekrainer vom Grill mit Bratkartoffeln, Ketchup und geriebenem Kren</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (O) Others: 6.90</description>
-      <guid isPermaLink="false">6952ca38bb472d9fe9e43b8081ac89cec8788f917b245323cd104c254ffc6cfc</guid>
+      <description>Tagesgerichte (G, M, O) Others: 9.90</description>
+      <guid isPermaLink="false">47247fe95974ce60502b811315c8d06f7ecdc947f4cad61385ca0cbf1a3a7a72</guid>
     </item>
   </channel>
 </rss>

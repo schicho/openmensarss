@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Fri, 26 Jun 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Tue, 30 Jun 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 25 Jun 2026 16:20:53 +0000</pubDate>
+    <pubDate>Mon, 29 Jun 2026 12:36:57 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,16 +14,16 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Pasta Puttanesca</title>
+      <title>Gemüse Fajita</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Vegan (A, L) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">d36024b44a29a4cc84352d5181fe777604712699b4e1e1aaea8e76df2448526e</guid>
+      <guid isPermaLink="false">35be0886aaefcbc1a04427d45e0204302541b545ca5722135247f1c27b0a268b</guid>
     </item>
     <item>
-      <title>Gegrillte Forelle mit Kartoffeln</title>
+      <title>Saltimbocca vom Schwein mit Bratkartoffeln (AT)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (D, L) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">48f794b9ccfe0437ff25060aea5b33267e62c1a304cb112ea73017f27eeedd84</guid>
+      <description>Nicht Vegetarisch (G) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">a92a69071ac23036ed3a590630b30b26ba46280b5c1b101afb77fd965406b6a7</guid>
     </item>
   </channel>
 </rss>
