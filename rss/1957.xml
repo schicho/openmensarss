@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Wed, 01 Jul 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Thu, 02 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 30 Jun 2026 16:22:08 +0000</pubDate>
+    <pubDate>Wed, 01 Jul 2026 16:24:08 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,16 +14,16 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Krautfleckerl</title>
+      <title>Pasta mit Spinat-Käse-Sauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (A) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">9114ecd3f81f7c990db825d399bd185c3c84b46488141a0f9c03ea7c7531aa52</guid>
+      <description>Vegetarisch (A, F, G) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">58113526423cbebd3d6e9764b6b76624131668b5da6beb210b73b4cbc5ed8457</guid>
     </item>
     <item>
-      <title>Hühnergeschnetzeltes mit Reis (PL)</title>
+      <title>Orientalischer Hühnereintopf mit Bulgur (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (F, L) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">dc3e6abc0456203e284dbc80070e75732f179358eff34b993a2325fc17d5ab03</guid>
+      <description>Nicht Vegetarisch (A, L) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">23534b38ab614f56165ed24dca60948d66403e3b3ceaa5482e0c6e686fdc7f03</guid>
     </item>
   </channel>
 </rss>

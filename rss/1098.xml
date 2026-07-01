@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 01 Jul 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 02 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 30 Jun 2026 16:22:09 +0000</pubDate>
+    <pubDate>Wed, 01 Jul 2026 16:24:08 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,34 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Spanische Reispfanne mit Gemüse serviert mit frischem Erbsen-Rucola-Pesto sqrt((sqrt(1 + 3) + sqrt(4 + 5))^2) = €</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>TOP Mensamenü only for Studys (ohne Suppe / ohne Salat) € 5,-- (H, O) Others: 5.00</description>
-      <guid isPermaLink="false">814d8cd1bed86049912aa7d3aaa13e5b0628e3d01b7be7bae22907bf8f3f0fd6</guid>
-    </item>
-    <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">8207b285ff32eab64127a7391ffd1552240988eb304703932fba91d9de746a62</guid>
+      <guid isPermaLink="false">e6ce41997aabf295c5a944ba73cced23d84c48fe199619dfbb525b9429567454</guid>
     </item>
     <item>
-      <title>Spanische Reispfanne mit Gemüse serviert mit frischem Erbsen-Rucola-Pesto</title>
+      <title>Würziges Bohnen-Curry mit exotischen Gewürzen und lockerem Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (H, O) Others: 6.80</description>
-      <guid isPermaLink="false">04ff0d18d544d08e57e3630314fbe0b7f1b767faed896e1787fa84bb00f853ff</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 6.80</description>
+      <guid isPermaLink="false">33bbde8a832b6aa5995658be25a3b2a891ba8f2240c03ce47acf486aa787934a</guid>
     </item>
     <item>
-      <title>Rindergeschnetzeltes in Walnuss-Mascarponesauce und gebratenen Schupfnudeln</title>
+      <title>Herzhaftes Ragout vom Schwein mit Käferbohnen in aromatischer Sauce serviert mit Hörnchen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, H, O) Others: 7.90</description>
-      <guid isPermaLink="false">8bd25bacc08b5674ffdda1d75c28638343baa6be9492f23070cb50ae8265192e</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, L, O) Others: 7.90</description>
+      <guid isPermaLink="false">a0caa4b3d776897d1b0deff3d065002b5914852844c22ba47d30d44887ecba0e</guid>
     </item>
     <item>
-      <title>Saftiger Burger aus BIO-Rindfleisch mit würziger, scharfer Mexiko-Note dazu knusprige Potato Wedges und Chili-Dip</title>
+      <title>Wiener Mehlspeis Scheiterhaufen mit Äpfel und hausgemachten Beerenröster</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, N, O) Others: 12.50</description>
-      <guid isPermaLink="false">bfa40341517f07373f5d506f3229ab78677481abfac7e673dc76dfd37c2df7ca</guid>
+      <description>Tagesgerichte (A, C, F, G, H) Others: 7.20</description>
+      <guid isPermaLink="false">9daf2ed63830ffdb8580468f2f3fd6651891cb2d66ad94f7405c063a9e0582ca</guid>
     </item>
     <item>
-      <title>Hausgemachte Spinatknödel mit feiner Österkronensauce, frischen Kräutern und Tomatenwürfeln</title>
+      <title>Zartes Putenfleisch in rotem Thai-Curry mit Gemüse und Basmatireis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, O) Others: 7.20</description>
-      <guid isPermaLink="false">1357d90a2e9b4f01d8631eed88b04c9fee498514f0558516d4c7882be73379da</guid>
+      <description>Tagesgerichte (A, F, O, R) Others: 8.60</description>
+      <guid isPermaLink="false">70b6428bfd7e5919b0b418096b305190d80c16e2d0ff0ef4e5d02d79bf057167</guid>
     </item>
   </channel>
 </rss>
