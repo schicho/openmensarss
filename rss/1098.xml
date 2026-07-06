@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 06 Jul 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 07 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 05 Jul 2026 15:10:15 +0000</pubDate>
+    <pubDate>Mon, 06 Jul 2026 12:06:24 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">fac03c2ab47385ee13ac872fdfb7bcbed9d5ca0689ed46abf69a723bed992fcd</guid>
+      <guid isPermaLink="false">c00c56d06529530999b55eb6d5dc5aa7dcc8ef6c00ed9471dd03e904ac1053a9</guid>
     </item>
     <item>
-      <title>Halloumi und Linsen in cremiger Tomaten-Butter-Sauce („Makhani“) mit gedämpften Bulgur</title>
+      <title>Herzhaftes Chili aus saisonalem Gemüse mit mariniertem Tofu und schonend gedämpfter Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, G, H, O) Others: 6.80</description>
-      <guid isPermaLink="false">66fbd1a38e728b1348ddbe3845344bc671d94ce8bd8ed2445bceb38a77f9f0a1</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 7.10</description>
+      <guid isPermaLink="false">d330dbfbbb00416ce571a028ee3274857c0f37a513807c118f426041f522a44a</guid>
     </item>
     <item>
-      <title>Hascheehörnchen vom Rind mit kräftigen Knoblauch-Paprika Dip</title>
+      <title>Schweineragout mit Käferbohnen und gebratenen Spätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 7.90</description>
-      <guid isPermaLink="false">db813ff56cf9300643ed5b13cebead9f3182eb594159ffafe9ce1242b6626979</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">5789378773114c53af35d9379526b9de1664de2ba7a6a1dca613c2b37e79dd27</guid>
     </item>
     <item>
-      <title>Gebackenes Schweinsschnitzel Zitrone Erdäpfel-Mayonnaise Salat</title>
+      <title>Gegrillter Portobello-Pilz auf knackigem Wokgemüse und Glasnudeln veredelt mit Orangendressing, Miso und Sesam</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, M, O) Others: 9.30</description>
-      <guid isPermaLink="false">4027be194e61b818472e93c3ce98b7ed298894725612b8de320597d91c6fbd6a</guid>
+      <description>Tagesgerichte (A, F, N, O) Others: 10.90</description>
+      <guid isPermaLink="false">9402e660625a0074bc659e7e6666ad1c89525f12d0d05c69fb2874355f088ee9</guid>
     </item>
   </channel>
 </rss>
