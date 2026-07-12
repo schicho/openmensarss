@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 10 Jul 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 13 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 09 Jul 2026 16:25:13 +0000</pubDate>
+    <pubDate>Sun, 12 Jul 2026 14:53:01 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">a61df0f67e331581494f7e27c84b22b8b32f3b86fe14785a6f45936e53ddc581</guid>
+      <guid isPermaLink="false">c0182a420ed6e6fd0c27f59afc42a4eceb709623789c27926666379ab0bef66b</guid>
     </item>
     <item>
-      <title>Herzhaftes Erdäpfelgulasch mit einer reschen Kaisersemmel</title>
+      <title>&#34;Golden Curry Bowl&#34; Süßkartoffelcurry mit gelben Rüben und Zucchini dazu lockere Hirse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">55e6f687cfb1530700d573276eea7f22c8421c9e757f968d8f7f02cfbd8e47db</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 7.10</description>
+      <guid isPermaLink="false">ac171f503aeb9702953d946b4ca578fa799761132ac572aabb91163981ae5837</guid>
     </item>
     <item>
-      <title>Geschmortes Rindfleisch in feiner Zwiebelsauce dazu knusprige Bratkartoffeln und hausgemachte Röstzwiebeln</title>
+      <title>&#34;Schicht für Schicht&#34; kräftige Puten-Lasagne mit aromatischem Kräuter-Tomatenragout</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">f38f0272d5f821b02c0206f0b4941efa41952b672b56b50bae5182f50aec8a30</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, G, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">8d886c952323a4316e0542231be16cd3cc1763e700ffe2f4dc8da38afd593b52</guid>
     </item>
     <item>
-      <title>Gegrilltes Zanderfilet mit Erdäpfelgnocchi &amp; knackigen Grillgemüse</title>
+      <title>„Selbst paniert schmeckts am besten“ Knuspriges Puten-Cordon Bleu mit Erbsenreis und Ketchup</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, L, O) Others: 9.90</description>
-      <guid isPermaLink="false">27bf9881e236fa58b8b227c1a73e03cb16f0837b95b1c4b467adf62eb13ec436</guid>
+      <description>Tagesgerichte (A, C, G) Others: 11.30</description>
+      <guid isPermaLink="false">1f9a04ca2135e2822d9956855cdbcadd83bddd6a44cfe5fec53bfd211d25709b</guid>
     </item>
   </channel>
 </rss>
