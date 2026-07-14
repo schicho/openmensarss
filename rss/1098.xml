@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 14 Jul 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 15 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 13 Jul 2026 16:28:51 +0000</pubDate>
+    <pubDate>Tue, 14 Jul 2026 15:21:31 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">8900f52da00c1d9c47350e1b02c971880964933e224effbfd79438be68d56bea</guid>
+      <guid isPermaLink="false">53f2a59e1c7d02d42790ab58e3d9536a4745a6baa9bf6bc4e4479da86ff129f5</guid>
     </item>
     <item>
-      <title>&#34;Heimischer Klassiker&#34; Krautfleckerl mit cremigen Knoblauchdip</title>
+      <title>&#34;Sommerliches Veggie Curry&#34; Karfiol-Karottencurry mit Paprika dazu lockeren Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 7.10</description>
-      <guid isPermaLink="false">ab226602296ca2b7a92c3a988e0034eb24a74228ecc8689e160e9e2b2413828e</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">f7f0ffff55f56a15b93b2366604675a53e0b16927f1b42ece6449903d7f30df0</guid>
     </item>
     <item>
-      <title>&#34;Gyros-Party auf Reis&#34; knusprig gebratenes Schweinegyros mit Reis und cremigem Tzatziki</title>
+      <title>&#34;Fiesta-Hühnereintopf&#34; mexikanisch gewürzt mit saftigem Huhn serviert mit geröstetem Buchweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, G, O) Others: 8.20</description>
-      <guid isPermaLink="false">60e228feb31b70add1b1a9c14ce5d2c0ed5966c4219eb3bc821784a277012167</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (O) Others: 8.20</description>
+      <guid isPermaLink="false">f4b2d28113cf19fa42345161b5061eabecc2e41d236ca77dde5ab4542b5497e8</guid>
     </item>
     <item>
-      <title>„Knusperpfandl“ Erdäpfel-Gemüse-Gröstl mit Kräuter-Kren-Dip und frisch geriebenem Kren</title>
+      <title>„BBQ-Hausburger“ Saftiger Bio-Rindfleisch-Burger mit BBQ-Sauce, dazu Potato Wedges und Coleslaw</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (F, O) Others: 7.20</description>
-      <guid isPermaLink="false">585207dbb8d67861e7a3bd00ad6d237c3d575bb4c57f542aa3485fcf0e5ae906</guid>
+      <description>Tagesgerichte (A, C, F, G, H, M, N, O) Others: 12.90</description>
+      <guid isPermaLink="false">588036d0027c608cf4162990b6dc2cc950d468aef9ea9ccfb4a072345eddd143</guid>
     </item>
   </channel>
 </rss>
