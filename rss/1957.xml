@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Fri, 03 Jul 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Thu, 16 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 02 Jul 2026 16:03:38 +0000</pubDate>
+    <pubDate>Wed, 15 Jul 2026 10:30:19 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,16 +14,16 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gefüllte Melanzani mit Schafkäse und Bulgur</title>
+      <title>Dillfisolen mit Rösti</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegetarisch (A, G) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">8725df16852332b2a19e9bebe3eb3a8440bacf0901f4855e4cf280decdc83ad8</guid>
+      <description>Vegan (F) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">da474c95704296f358146184b91d4e92f55ddb0a12f94f2998548b4155dd4d23</guid>
     </item>
     <item>
-      <title>Hühnerschnitzel mit Petersilienkartoffeln (PL)</title>
+      <title>Burger Laibchen vom Rind überbacken mit Bratkartoffeln (AT)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (A, C) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">b42e085028d81394c3ec8a7021a7080c75d99b84df6102ef4a03de6329d06f12</guid>
+      <description>Nicht Vegetarisch (G, L) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">0d8669ff1632265a874a8bd944f3e64e285b8af8935511a400534f2d0f1d4fb5</guid>
     </item>
   </channel>
 </rss>
