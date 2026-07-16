@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Thu, 16 Jul 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Fri, 17 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 15 Jul 2026 15:23:49 +0000</pubDate>
+    <pubDate>Thu, 16 Jul 2026 15:36:46 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,16 +14,16 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Dillfisolen mit Rösti</title>
+      <title>Pasta Primavera</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (F) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">da474c95704296f358146184b91d4e92f55ddb0a12f94f2998548b4155dd4d23</guid>
+      <description>Vegan (A, L) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">946d7f3d8c255b9f814d87b65ff3c8ebad0f2ed22a0574bdcf0d7e4bbd4c678c</guid>
     </item>
     <item>
-      <title>Burger Laibchen vom Rind überbacken mit Bratkartoffeln (AT)</title>
+      <title>Gegrillte Forelle mit Petersilienkartoffeln (TR)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (G, L) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">0d8669ff1632265a874a8bd944f3e64e285b8af8935511a400534f2d0f1d4fb5</guid>
+      <description>Nicht Vegetarisch (D, L) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">bad0e75fb2b7a07266cf29564669ea3a89059d7bfee8c9ddac6303ae2bd1f2c8</guid>
     </item>
   </channel>
 </rss>
