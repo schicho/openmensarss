@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 17 Jul 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 20 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 16 Jul 2026 15:36:46 +0000</pubDate>
+    <pubDate>Sun, 19 Jul 2026 14:52:10 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">c53be4867bb284b9a54dff619dee7ac812672b227579fe01e7ff15bd83911033</guid>
+      <guid isPermaLink="false">f0d30c27aa5486d5acf233eb13a8a66f03837ecc8ab13aca9b783cb0aa3c6d8e</guid>
     </item>
     <item>
-      <title>&#34;Herzhaftes Veggie Chili&#34; Chili sin Carne mit Bohnen, Gemüse und ausgewählten Gewürzen dazu schonend gedämpfter Bulgur</title>
+      <title>Würziges Curryragout mit Zucchini und Karotten serviert mit duftendem Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F) Others: 7.10</description>
-      <guid isPermaLink="false">90481489322f250326d99c359281ddb1507a355eda38eb65d99518c9554a9ebd</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, N) Others: 7.10</description>
+      <guid isPermaLink="false">42d6f8d05ee07be9b06ddc1261e44dd4a454399c248b67439974b7fb4d07adc9</guid>
     </item>
     <item>
-      <title>&#34;Bella Gnocchi mit Meeresgruß&#34; in aromatischem Thunfisch-Tomatenragout und frisch geriebener Parmesan</title>
+      <title>Kräftig gewürztes Chili con Carne serviert mit hausgemachten Serviettenknödeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, D, G, O) Others: 8.20</description>
-      <guid isPermaLink="false">a45607f7db9f73eb7b5b5863ef77cb3d58e7a3a16b2f56fdf40e48eb95cb3716</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">5ffa0c5501742b59ca274fd76901df3c7ba571a0acaf4c3ca04450145ff65fb8</guid>
     </item>
     <item>
-      <title>„Gartl-Grillteller“ Bunt gegrilltes Gemüse mit Melanzani-Petersil-Dip dazu ein knackiger Beilagensalat</title>
+      <title>Wiener Wirtshausklassiker aus der Region Saftiges Schweinsnaturschnitzel mit cremigen Champignons und Spätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (O) Others: 8.60</description>
-      <guid isPermaLink="false">82502b92f5b6a90558bd74b87b21c6178252b1b3a7ed5acf272d1337f5ce1aa4</guid>
+      <description>Tagesgerichte (A, C, F, G, O) Others: 9.70</description>
+      <guid isPermaLink="false">d2495b8c4c91df51c95759b37fdee651e2fcc97974f2411a3ead78aa19da9ed7</guid>
     </item>
   </channel>
 </rss>
