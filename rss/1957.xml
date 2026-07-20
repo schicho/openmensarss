@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Fri, 17 Jul 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Mon, 20 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 16 Jul 2026 15:36:46 +0000</pubDate>
+    <pubDate>Mon, 20 Jul 2026 10:54:21 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,16 +14,16 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Pasta Primavera</title>
+      <title>Pasta Siciliana</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Vegan (A, L) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">946d7f3d8c255b9f814d87b65ff3c8ebad0f2ed22a0574bdcf0d7e4bbd4c678c</guid>
+      <guid isPermaLink="false">150ee4b2e5d0541c68f21ef24665df4cabcdd0d008b3c4096abe4f99e8a0ad6e</guid>
     </item>
     <item>
-      <title>Gegrillte Forelle mit Petersilienkartoffeln (TR)</title>
+      <title>Chicken tikka masala mit Reis (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (D, L) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">bad0e75fb2b7a07266cf29564669ea3a89059d7bfee8c9ddac6303ae2bd1f2c8</guid>
+      <description>Nicht Vegetarisch (L) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">5cbba67cc53d84a643dfd42f75146ee4c74eb54dded6b02df8491ffff26d30ce</guid>
     </item>
   </channel>
 </rss>
