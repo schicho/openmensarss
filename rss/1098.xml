@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 21 Jul 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 22 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 20 Jul 2026 15:47:20 +0000</pubDate>
+    <pubDate>Tue, 21 Jul 2026 15:40:33 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">9fca0d43c8b60d809ffeb54645d80e15d891388405adaf191994a0fb62d0aff1</guid>
+      <guid isPermaLink="false">e97c7b68865d72751878c092653040eb31829ff8be38f1e97218f8ec558d0d50</guid>
     </item>
     <item>
-      <title>Zart gegarter Zartweizen, fein abgestimmt mit aromatischem mediterranem Gemüse vollendet durch ein frisches, leicht herbes Rucola-Topping</title>
+      <title>Samtiges Ragout aus roten Linsen, mediterran gewürzt und harmonisch abgeschmeckt serviert mit lockerem Couscous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, O) Others: 7.10</description>
-      <guid isPermaLink="false">3621a218757eab251ce8cdeed5bd517d7b2fd7f3b075da5403ccc7b10f04837e</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">a22d1ba19f19172b82323e7c86f0b60c42d28e42421b58517eb35411c3728f6f</guid>
     </item>
     <item>
-      <title>Hühnergeschnetzeltes Süß Sauer mit gebratenen Eiernudeln und Gemüse</title>
+      <title>Der Wirtshausklassiker Saftiger faschierter Braten mit kräftiger Kräuterjus, cremigem Erdäpfelpurée und knusprigen Röstzwiebeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, N, O) Others: 8.20</description>
-      <guid isPermaLink="false">d59fbdc6a8a8baeed7cf3ebd265e27e5d031742a50e16395fd62bfbaf2b4b856</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, L, M, O) Others: 8.20</description>
+      <guid isPermaLink="false">0050a7b3455118beed1166da3d194ba962548cb391b580be78e1f67c033fd0b3</guid>
     </item>
     <item>
-      <title>Knackige Käsekrainer vom Grill mit Steakhouse-Pommes und pikanten Zwiebelsenf</title>
+      <title>Gold braun gebratene Polentaschnitte auf aromatischem Zucchini Paprika Ragout und knackigen Salaten</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (G, M, O) Others: 7.90</description>
-      <guid isPermaLink="false">7d0bf9c9d25c3bdcbbf66d018b739e058400e3015b56adabb5945fef8ebc90c0</guid>
+      <description>Tagesgerichte (O) Others: 7.20</description>
+      <guid isPermaLink="false">8feee5b9cb6af1fa1066ac60f20628308445a2f7ecd6af0e78946f3044d71964</guid>
     </item>
   </channel>
 </rss>
