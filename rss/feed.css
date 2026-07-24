@@ -34,7 +34,7 @@ h1 {
     font-size: clamp(4rem, 14vw, 7.5rem);
     max-width: 100%;
     overflow-wrap: anywhere;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 1.1;
     margin-bottom: 0;
     text-wrap: balance;
