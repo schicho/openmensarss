@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 24 Jul 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 27 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 23 Jul 2026 15:52:37 +0000</pubDate>
+    <pubDate>Sun, 26 Jul 2026 15:01:49 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">83132c2a0dec974820e2c6e39a94279758369efaeacc0d3280cd211fb613cd78</guid>
+      <guid isPermaLink="false">10361c03ce1bc7d70cb65f8f74a111d19c66d8990729da9fbf2461d8f6e91839</guid>
     </item>
     <item>
-      <title>Gefüllte Gemüse-Tomaten-Enchilada begleitet von cremigem Avocado-Dip und knackigen Salaten</title>
+      <title>Süßkartoffel-Letscho in aromatischer Paprika-Tomatensauce begleitet von zart gedämpfter Hirse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, L, M, O) Others: 7.10</description>
-      <guid isPermaLink="false">ec191e76f0978e5175b4640b78831c38868f64bd4935b33b77ee955ab7373908</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (O) Others: 7.10</description>
+      <guid isPermaLink="false">24e36ec1c5c8a45ec0cb52b2b56bd66788f5ec713bd46ad036a823a215ce3c61</guid>
     </item>
     <item>
-      <title>Zarte Putenstreifen in fruchtiger Tomaten-Artischockensauce begleitet von lockerem Bulgur</title>
+      <title>Herzhafter Eintopf mit zartem Hühnerfleisch und jungen Karotten serviert mit duftendem Basmatireis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, O) Others: 8.20</description>
-      <guid isPermaLink="false">6f44cfb5e64977e41e0ca01f038927baf48591734aa91aeb55e4f54e764a80aa</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (F, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">ae37dc01d087661f5492e78cfc92bc67bcb809eddd70401a88aad6e7b7a08d17</guid>
     </item>
     <item>
-      <title>Gebratenes Wildlachsfilet aus nachhaltiger Fischerei auf Spaghetti &amp; würzigem rotem Pesto</title>
+      <title>Knusprig gebackenes Hühnerschnitzel mit Petersilerdäpfeln und würzig-scharfem Chili-Ketchup-Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, O) Others: 10.50</description>
-      <guid isPermaLink="false">a0d9989840f2edd731297937a80aefd93031a52db6655bda464b0fc6782f0e96</guid>
+      <description>Tagesgerichte (A, C) Others: 10.30</description>
+      <guid isPermaLink="false">eecda8ac5d75f6efa5c7ce993975335716e82b923bc734ce0a0b90d9b24d3ab3</guid>
     </item>
   </channel>
 </rss>
