@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 29 Jul 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 30 Jul 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 28 Jul 2026 16:03:32 +0000</pubDate>
+    <pubDate>Wed, 29 Jul 2026 15:47:31 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">a370e23ead60adab8761f4a34a7e47b6dbcabfc3ac88a61eb115805defb2c95f</guid>
+      <guid isPermaLink="false">d22421ac89ab40eef3834bdae2f6059d7f7b71b787f28d4f5fca32d818b103e3</guid>
     </item>
     <item>
-      <title>Würziges Kartoffelcurry nach südindischer Art mit aromatischen Gewürzen serviert mit lockerem Cous Cous</title>
+      <title>Goldgelbe Polentaschnitte auf aromatischem Ratatouille-Gemüse garniert mit knuspriger Petersilie</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, H, O) Others: 7.10</description>
-      <guid isPermaLink="false">c7ed03b487268f3f1d049c2fab029781861f8c54f72cbaecfae94f3e3291b5b4</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (O) Others: 7.10</description>
+      <guid isPermaLink="false">5a37f7176aef3cdaa196d27b1cc0220224e80260d11ff77ef74c36452822e689</guid>
     </item>
     <item>
-      <title>Gschmackiges Rindsragout in Wurzelrahmsauce und knusprig gebratenen Schupfnudeln</title>
+      <title>Ofenfrische Lasagne al Forno mit aromatischerTomatenrahmsauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 8.20</description>
-      <guid isPermaLink="false">918f5aa823602a971f75f797711e2e71384d1914134a2df661c974a150b3f00c</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, G, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">60daa92ce098a5335051e1390e9cfcc3487dd79376b90ffa41f82e421019398f</guid>
     </item>
     <item>
-      <title>Cheeseburger vom BIO-Rind mit würzigem Käse serviert mit goldbraunen Steakhouse-Pommes und hausgemachtem Coleslaw</title>
+      <title>Mediterran mariniertes Grillgemüse auf jungen Blattsalaten mit gereiften Hartkäse und knusprigen Croûtons</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, H, M, N, O) Others: 12.90</description>
-      <guid isPermaLink="false">fbf21e469234f679da36a8ccecc5e6f4d28f4a183e648176f859a54ec8e62407</guid>
+      <description>Tagesgerichte (A, C, D, F, G, M, O) Others: 7.90</description>
+      <guid isPermaLink="false">688cbf1d2ab6b1c39144d175599fd57db8e27c452b327171558e34ce9800f601</guid>
     </item>
   </channel>
 </rss>
