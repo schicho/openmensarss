@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 03 Aug 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 04 Aug 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 03 Aug 2026 11:26:49 +0000</pubDate>
+    <pubDate>Mon, 03 Aug 2026 16:20:35 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">f63a7f161ff1bcb2d00852aac0f45edaa64bb8044c0baf204378ed251373a0d3</guid>
+      <guid isPermaLink="false">bb148f08759becfe12f43316cb2d2806fca1cf70deccff3a8c6a8ad0f6b71734</guid>
     </item>
     <item>
-      <title>Überbackene Fleckerl mit saisonalem Gemüse und würzigem Knoblauchdip</title>
+      <title>Gelbes Thai-Curry mit knackigem Gemüse in cremiger Kokos-Currysauce und gedämpften Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, F, G, O) Others: 7.10</description>
-      <guid isPermaLink="false">4786b93acf2895abb3802d282676283ccca0e57f74b2e90da42370259ca9b12c</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 7.10</description>
+      <guid isPermaLink="false">534c4e4f95692192de33d84d91816d07184a280284380f4f258a5fd7e3a3e25d</guid>
     </item>
     <item>
-      <title>Hausgemachter Grenadiermarsch aus Erdäpfeln verfeinert mit frisch geriebenem Kren</title>
+      <title>Rindergeschnetzeltes nach Stroganoff-Art in cremiger Paprika-Champignon-Sauce und buttrigen Spätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, O) Others: 8.20</description>
-      <guid isPermaLink="false">354fab1daf7609ba5517fd69ccbe90b012978244ac75fe418e5cf6dadbcb2573</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, L, M, O) Others: 8.20</description>
+      <guid isPermaLink="false">41f0d974c287aa976b1649be3a1c40fcf78dd3b0cf91efdacbd412e7c0f588b4</guid>
     </item>
     <item>
-      <title>Goldbraun gebackenes Schweinsschnitzel serviert mit Petersilerdäpfeln &amp; Zitronenspalte</title>
+      <title>Zartes Hühnerfleisch aus dem Wok mit knackigem Marktgemüse und Mie-Nudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G) Others: 9.70</description>
-      <guid isPermaLink="false">848d5b85295ecd59f5d5bd20ec5f90ff6208893f754b8ec066e8095f1ab04a85</guid>
+      <description>Tagesgerichte (A, C, F, G, N, O) Others: 9.90</description>
+      <guid isPermaLink="false">2e4f71fc30b49a1c1e1ce0bb4d5e813711c8c8c9d9064ab25a1b5f55d7b53994</guid>
     </item>
   </channel>
 </rss>
