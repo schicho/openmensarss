@@ -12,7 +12,7 @@
     for (let canteen of canteenList) {
         const filename = `${canteen.id}.xml`;
         const li = document.createElement("li");
-        li.innerHTML = `<p><a href="${filename}">${filename}</a> ${canteen.name}</p>`;
+        li.innerHTML = `<a href="${filename}">${filename}</a> ${canteen.name}`;
         ul.appendChild(li)
     }
     document.getElementById("filelist").innerHTML = "";
