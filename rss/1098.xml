@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 05 Aug 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 06 Aug 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 04 Aug 2026 16:09:13 +0000</pubDate>
+    <pubDate>Wed, 05 Aug 2026 15:59:29 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">376f531d3d55bb83368d15a661101452ea8b4449776e5830858776fbe17c9edd</guid>
+      <guid isPermaLink="false">5c9bbc6ef09893d6a1726a84036773cac708b5509ba1ccc7529f1bb7d35318d2</guid>
     </item>
     <item>
-      <title>Zarte Erdäpfel-Gnocchi auf mediterranem Zucchini-Paprikaragout und aromatischem Rucola-Pesto</title>
+      <title>Veganes Geschnetzeltes aus Soja und Champignons mit knusprigen Kroketten</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, G, H, O) Others: 7.10</description>
-      <guid isPermaLink="false">bfbf9b816bcd19ec82c8063568cc397944bd6aeabecdafb30f38f9872b388de1</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">737464b0ab85137b0a05d4af794e097cdd4544b7b7645b51afd1eac750550267</guid>
     </item>
     <item>
-      <title>Würzig mariniertes Putengyros mit duftigem Reis und cremigem Tzatziki</title>
+      <title>Herzhafter Hühnereintopf nach römischer Art mit mediterranem Gemüse und lockerem Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, G, O) Others: 8.20</description>
-      <guid isPermaLink="false">90b055e1986e5c22ea61866ee63e6b16a3780e55e337f4166036946a499f3c29</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">e8269472fa09af17b3d081898231289cf56c2bcff7e25619f8c498f40a88c984</guid>
     </item>
     <item>
-      <title>Saftiger Mensa Burger mit BIO-Rindfleisch serviert mit goldbraunen Pommes und cremigen Guacamole-Dip</title>
+      <title>Saftige Brathendlkeule mit Rosmarin-Erdäpfeln &amp; kräftigen Bratensaft</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, H, M, N, O) Others: 12.90</description>
-      <guid isPermaLink="false">502c6df26984edfeb1ce6018ab5bb2a3dd23498c69538be217d9eb46c272814b</guid>
+      <description>Tagesgerichte () Others: 8.60</description>
+      <guid isPermaLink="false">6bd19f609a1f782925e8d485868d79dafd2a9e974388a432a047bf50a4c4db1f</guid>
     </item>
   </channel>
 </rss>
