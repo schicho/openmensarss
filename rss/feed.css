@@ -15,3 +15,7 @@ ul a {
     gap: 2.5rem;
     align-items: flex-start;
 }
+
+.eightyeightthirtyone {
+    image-rendering: pixelated;
+}
