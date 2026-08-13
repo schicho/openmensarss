@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 13 Aug 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 14 Aug 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 12 Aug 2026 14:52:29 +0000</pubDate>
+    <pubDate>Thu, 13 Aug 2026 14:53:17 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">2af3552fad23577468434eeb1616cdc6940b22a3d69417526e4c629cc4f9afd1</guid>
+      <guid isPermaLink="false">88244ed97dcd3f5383cd56365d7dc7715df730a88d96a563db93101da9e93104</guid>
     </item>
     <item>
-      <title>Karibisches Bohnencurry mit exotischen Gewürzen und Dinkelreis</title>
+      <title>Herzhaftes Champignongulasch mit frischen Kräutern und gedämpften Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">589610b63bb7e285b012abca7d35603bce82822aa0bdd8f8371753cb47156955</guid>
+      <guid isPermaLink="false">193aaf6fcee1df8d4543703886b24c20939fd6bc26e4d57196700c20847c909b</guid>
     </item>
     <item>
-      <title>Würziges Schweineragout mit Käferbohnen und lockerem Zartweizen</title>
+      <title>Hühnergeschnetzeltes &#34;Jägerart&#34; mit gebratenen Schupfnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">42392dab5703d862cb15dc78e37f5005e0b076dd30a4b7e06b6d6e514dc65921</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">e9af86a746cabdc75ee8286b824004e35d7a5a477bfaec174c4945cf982f12b9</guid>
     </item>
     <item>
-      <title>Gegrillter Gemüsespieß mit Cous-Cous-Salat, pikantem Tomaten-Dip und Rucola-Pesto</title>
+      <title>Goldbraun gebratenes Zanderfilet mit fruchtigem Paprika-Letscho und duftenden Mandelreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, H, M, O) Others: 8.60</description>
-      <guid isPermaLink="false">1c208f2d8c023c78d72a1652390ce6991edba289958a6e847da1b53496ef77e3</guid>
+      <description>Tagesgerichte (G, H, O) Others: 13.90</description>
+      <guid isPermaLink="false">ba2d08fc85a4d90b25117461c0f6f156cb605db3d2638aee403d2018d3b1af6a</guid>
     </item>
   </channel>
 </rss>
