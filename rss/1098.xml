@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 18 Aug 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 19 Aug 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 17 Aug 2026 14:22:57 +0000</pubDate>
+    <pubDate>Tue, 18 Aug 2026 14:29:16 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">179998551db435ba4cdf02cb0d56617745ddb867996b6888ccd47c700b402551</guid>
+      <guid isPermaLink="false">e0b4c1d1b9e53503f9aca2394937921a48fbbe795f7dd36e766b5ecdfea6ca42</guid>
     </item>
     <item>
-      <title>Veganes Chili mit Tofu &amp; Cous Cous Buntes Gemüse, kräftige Gewürze und proteinreicher Tofu für einen herzhaften Genuss</title>
+      <title>Veganes Tajine von Karfiol und Kichererbsen in aromatischer Gewürzsauce und Dinkelreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 7.10</description>
-      <guid isPermaLink="false">cf151e6dee922d6e58dd21e1af100bd536232ab68302cac9f17a108b518c8d8d</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">b458c2408ca3602743843f6813273fb1a5e32bf05914c8de613d84caccdb3869</guid>
     </item>
     <item>
-      <title>Zartes Puten-Süßkartoffel-Curry mit aromatischen Gewürzen und geröstetem Buchweizen</title>
+      <title>Rindsschultergeschnetzeltes in Züricher Rahmsauce mit Champignons und goldgelben Spätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (G, O) Others: 8.20</description>
-      <guid isPermaLink="false">3ccccd715cbbcde35bb52bfedd9624b00146ae2ccdbc5ad2df10a47573d58f08</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">951b34559f5acce06035c8127162e3c4ed29e54d760df48083ef576a113535f3</guid>
     </item>
     <item>
-      <title>Fluffige Pancakes mit saisonalem Obst wahlweise mit Schokoladensauce oder hausgemachter Karamellsauce</title>
+      <title>Gegrillter Halloumi Burger mit goldbraun gegrilltem Halloumi dazu Steakhouse Pommes und fruchtig-pikanter Ajvar</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G) Others: 6.90</description>
-      <guid isPermaLink="false">9e5bc44f4173a010de60c8404f481cd23a989a397fbd3cc2efcd2d35edbffbe6</guid>
+      <description>Tagesgerichte (A, C, G, M, N, O) Others: 10.70</description>
+      <guid isPermaLink="false">7ec0105a06b47d344d34319b0e995e06c836138b66e84811944273d6ad7aaecb</guid>
     </item>
   </channel>
 </rss>
