@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 27 Aug 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 28 Aug 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 26 Aug 2026 14:40:07 +0000</pubDate>
+    <pubDate>Thu, 27 Aug 2026 23:33:08 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">992cc177caa90143ba0087c6885acfd1f3a9d1aa88de2fb49862dde3dfc1244d</guid>
+      <guid isPermaLink="false">e62af45b7ab5f597f647d968317e18d9b639d0b3cfb5f908ce216831ac573fc1</guid>
     </item>
     <item>
-      <title>Farfalle in cremiger Artischocken-Salbei-Sauce und würziger Oliventapenade</title>
+      <title>Deftiges Chili sin Carne mit gedämpften Bulgur und frischen Kräutern</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">109ed66b38db3688caf5509853ef3262debe85ed44fb05338b6438943d4b0ed7</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F) Others: 7.10</description>
+      <guid isPermaLink="false">b49ecaf7db7c67dce3debb4781b3e9705b849e7f2955f645b818a65349af92d6</guid>
     </item>
     <item>
-      <title>Zartes Schweinefleisch in würziger Paprikarahmsauce und lockerem Zartweizen</title>
+      <title>Pikantes Panang-Curry vom Huhn mit frischem Gemüse und feinem Dinkel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 8.20</description>
-      <guid isPermaLink="false">7292e5771f19dfd6de82a9ec8b2696d2e6e99d85a38abd23cdf49de5d8a914b9</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, G, O, R) Others: 8.20</description>
+      <guid isPermaLink="false">2b3fb1d1e3ac0a84d4fd3693de9a742599ed01c986c655f8c2dd8e6a6f7bc039</guid>
     </item>
     <item>
-      <title>Saftiger Chicken-Teriyaki-Burger vom heimischen Henderl mit knusprigen Süßkartoffel-Pommes</title>
+      <title>Gebratenes Filet von der Lachsforelle auf cremigem Basilikumrisotto</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, F, G, N, O) Others: 12.90</description>
-      <guid isPermaLink="false">115aa13033f14f0ac27d7162691d5bdf548e27ca574432e11e0ade863c6abd10</guid>
+      <description>Tagesgerichte (C, G, O) Others: 12.90</description>
+      <guid isPermaLink="false">4d80a1a3b30582608bbcbc2c79c2ceabf07d3cbdc72411f9bdd80463ca54f0ee</guid>
     </item>
   </channel>
 </rss>
