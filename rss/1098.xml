@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 28 Aug 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 31 Aug 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 27 Aug 2026 23:33:08 +0000</pubDate>
+    <pubDate>Sun, 30 Aug 2026 17:52:48 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">e62af45b7ab5f597f647d968317e18d9b639d0b3cfb5f908ce216831ac573fc1</guid>
+      <guid isPermaLink="false">18d886cddbe704d55fa3648cf832e827fedec4a742b0566a2d28819d42bd74c1</guid>
     </item>
     <item>
-      <title>Deftiges Chili sin Carne mit gedämpften Bulgur und frischen Kräutern</title>
+      <title>Erdäpfelgnocchi in fruchtiger Cherrytomatensauce und Rucola-Topping</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F) Others: 7.10</description>
-      <guid isPermaLink="false">b49ecaf7db7c67dce3debb4781b3e9705b849e7f2955f645b818a65349af92d6</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, O) Others: 7.10</description>
+      <guid isPermaLink="false">9c023c48ccf38e02778b3a67ae1e61e64653ab7f16ea9c182219049755de1b0e</guid>
     </item>
     <item>
-      <title>Pikantes Panang-Curry vom Huhn mit frischem Gemüse und feinem Dinkel</title>
+      <title>Spanisch inspirierte Reisvariation mit zarten Hühnerstreifen und Gemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, G, O, R) Others: 8.20</description>
-      <guid isPermaLink="false">2b3fb1d1e3ac0a84d4fd3693de9a742599ed01c986c655f8c2dd8e6a6f7bc039</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (L, O) Others: 8.20</description>
+      <guid isPermaLink="false">efa2b1c3bffcbaf81e92684ddb559098b21886776e2350ee9ce7f5788ab404b2</guid>
     </item>
     <item>
-      <title>Gebratenes Filet von der Lachsforelle auf cremigem Basilikumrisotto</title>
+      <title>Saftiges Karreesteak vom Grill mit Kräuterbutter, Brechbohnen und Braterdäpfel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (C, G, O) Others: 12.90</description>
-      <guid isPermaLink="false">4d80a1a3b30582608bbcbc2c79c2ceabf07d3cbdc72411f9bdd80463ca54f0ee</guid>
+      <description>Tagesgerichte (A, G, O) Others: 9.90</description>
+      <guid isPermaLink="false">58f1d98449594bd9bd998f1b5f46f62894e054d61e4f77fb652769ceb5d7327e</guid>
     </item>
   </channel>
 </rss>
