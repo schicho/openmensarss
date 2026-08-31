@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 31 Aug 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 01 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 30 Aug 2026 17:52:48 +0000</pubDate>
+    <pubDate>Mon, 31 Aug 2026 15:57:25 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">18d886cddbe704d55fa3648cf832e827fedec4a742b0566a2d28819d42bd74c1</guid>
+      <guid isPermaLink="false">efb76cb42bada595dc78f3013dbdf6e4b6d59e05abcbee4183ecb3aea3ab4e3c</guid>
     </item>
     <item>
-      <title>Erdäpfelgnocchi in fruchtiger Cherrytomatensauce und Rucola-Topping</title>
+      <title>Veganer Gemüseeintopf nach afrikanischer Art mit Erdnüssen und Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, O) Others: 7.10</description>
-      <guid isPermaLink="false">9c023c48ccf38e02778b3a67ae1e61e64653ab7f16ea9c182219049755de1b0e</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, E, M) Others: 7.10</description>
+      <guid isPermaLink="false">f59bb1108898fe090bd5391b858f6f2c1136d00b77649b82b249d2a4e84ef36b</guid>
     </item>
     <item>
-      <title>Spanisch inspirierte Reisvariation mit zarten Hühnerstreifen und Gemüse</title>
+      <title>Rindergeschnetzeltes in aromatischer Sauce mit goldbraunen Schupfnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (L, O) Others: 8.20</description>
-      <guid isPermaLink="false">efa2b1c3bffcbaf81e92684ddb559098b21886776e2350ee9ce7f5788ab404b2</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">cbb90b81e8d81152b64cb2afd37f2e2680a939aaf26ccb93e1febbc6e2e07f11</guid>
     </item>
     <item>
-      <title>Saftiges Karreesteak vom Grill mit Kräuterbutter, Brechbohnen und Braterdäpfel</title>
+      <title>Würzige Eiernudelpfanne nach asiatischer Art mit Pute und gegrilltem Tofu</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, G, O) Others: 9.90</description>
-      <guid isPermaLink="false">58f1d98449594bd9bd998f1b5f46f62894e054d61e4f77fb652769ceb5d7327e</guid>
+      <description>Tagesgerichte (A, C, F, N) Others: 11.90</description>
+      <guid isPermaLink="false">8feb4aa5f991ca1ea6b7816877ba07941d6c7e3599e2b9fff6e1529e07ed9f80</guid>
     </item>
   </channel>
 </rss>
