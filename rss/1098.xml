@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 03 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 04 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 02 Sep 2026 17:34:31 +0000</pubDate>
+    <pubDate>Thu, 03 Sep 2026 17:30:16 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,25 +17,25 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">2d13da01feb8b54ffac23c6de875f1dfaf9ef92f00483fa35dd9c980f52d12d5</guid>
+      <guid isPermaLink="false">b626492a3724f2fa0e9e3fc36a323681048c2a217508213c1e949dc369411bc5</guid>
     </item>
     <item>
-      <title>Boanscharl-Gulasch mit feinen Gewürzen und lockeren Bulgur</title>
+      <title>Aromatisches Chana Masala aus Kichererbsen dazu duftender Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">f42f754e45e7dbcdc65b9131db91a0e91e4d22b5167f1b50adafe9ca027771e0</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (O) Others: 7.10</description>
+      <guid isPermaLink="false">d2338ebdfc209935237fe7a3a05924160fd1a3570744b36d97fcd72459475148</guid>
     </item>
     <item>
-      <title>Cremige Schinkenfleckerln mit Putenschinken und würzigem Knoblauchdip</title>
+      <title>Farfalle mit Lachs und Blattspinat in feiner Rahmsauce und frisch geriebenem Parmesan</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, O) Others: 8.20</description>
-      <guid isPermaLink="false">bccfe63d13295c2160ed46f8806a80017f087f6753ebd1ca222782842428a740</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, D, F, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">ede35c3c395fe5fece02899b4c0bd79619ac6a54704144d0a12c6483fb3446c5</guid>
     </item>
     <item>
-      <title>Hausgemachter Grießschmarren mit Staubzucker und fruchtigen Apfelmus</title>
+      <title>Rotbarsch aus nachhaltiger Fischerei in Kräuterpanier mit Babykarotten, Erbsen und Erdäpfel-Sellerie-Püree</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, G, O) Others: 6.80</description>
-      <guid isPermaLink="false">18c12e2011bf5a12e41c6dbf4739f8cfcc556312bb989b90654bebb8b99d5b54</guid>
+      <description>Tagesgerichte (A, C, F, G, L, O) Others: 10.90</description>
+      <guid isPermaLink="false">7ff42c64c863c6931a9ddaa92a710599a3da712104b850be7f4129ab0597caa4</guid>
     </item>
   </channel>
 </rss>

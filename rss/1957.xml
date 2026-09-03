@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Thu, 03 Sep 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Fri, 04 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 02 Sep 2026 17:34:32 +0000</pubDate>
+    <pubDate>Thu, 03 Sep 2026 17:30:16 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,16 +14,16 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Spinat Kartoffel Curry</title>
+      <title>Kürbis Kartoffel Gulasch</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (F) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">0dcfb53b57cec2e7f7fd57438f53f0bb5393861f4091e7cb51d7c3a18cb3da81</guid>
+      <description>Vegan (L) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">537522f6ceef946ac41386396b0c2d16f5556a2e0983224ce9758c4a5e64b7f2</guid>
     </item>
     <item>
-      <title>Honig-Karreebraten mit Bratkartoffeln (AT)</title>
+      <title>Hühnerschnitzel mit Petersilienkartoffeln (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (L) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">772a076b4072dbc4c333147c9a3ce16c280932f1a26c9b90e3d68dd6c2da1094</guid>
+      <description>Nicht Vegetarisch (A, C) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">45332872b5451a9af298a3b992776152614e354850f336bda02cfd4453385ebc</guid>
     </item>
   </channel>
 </rss>
