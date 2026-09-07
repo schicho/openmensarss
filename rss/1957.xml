@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Fri, 04 Sep 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Tue, 08 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 03 Sep 2026 17:30:16 +0000</pubDate>
+    <pubDate>Mon, 07 Sep 2026 14:04:18 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,16 +14,16 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Kürbis Kartoffel Gulasch</title>
+      <title>Gemüseeintopf</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Vegan (L) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">537522f6ceef946ac41386396b0c2d16f5556a2e0983224ce9758c4a5e64b7f2</guid>
+      <guid isPermaLink="false">c3c9cd1d42946de11fb3ac806f467f6bec8daaa94a8768778faa2d1912c1e629</guid>
     </item>
     <item>
-      <title>Hühnerschnitzel mit Petersilienkartoffeln (PL)</title>
+      <title>Fajita mit Faschiertem und Gemüse (AT)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (A, C) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">45332872b5451a9af298a3b992776152614e354850f336bda02cfd4453385ebc</guid>
+      <description>Nicht Vegetarisch (A, L) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">95ba1d911cc193ef40d1c7ec697d598623f8e6bc157eb3811d6b785c1f2f0821</guid>
     </item>
   </channel>
 </rss>
