@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 08 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 09 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 07 Sep 2026 18:34:46 +0000</pubDate>
+    <pubDate>Tue, 08 Sep 2026 17:44:00 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -16,32 +16,32 @@
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Essen im Park / Takeaway am Kassenbereich (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">a97eea5749255c17232c07582f9c1c2220101b93d9b18aa8fadb18a03d51b6bb</guid>
+      <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
+      <guid isPermaLink="false">58c9003282d3c31d4b9c55239134162c1b607b75b03ac48e430a1cc40ad22155</guid>
     </item>
     <item>
-      <title>Al dente gekochte Penne Rigate mit aromatischer Grünkern-Bolognese und Rucola Topping</title>
+      <title>Südindisches Kartoffelcurry „Aloo Masala“ mit aromatischen Gewürzen und lockerem Zartweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">1666b474186e803353178a36f503ebbf15e58938def0eb486a41d3606accd34d</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, H, O) Others: 7.10</description>
+      <guid isPermaLink="false">684dccbee98ac394b1276568df6237cb5d208a784fade3c5139746e31ee1d523</guid>
     </item>
     <item>
-      <title>Mexikanisch inspirierter Wrap mit zartem Rindfleisch dazu Kräuterreis und cremiger Chili-Mayo</title>
+      <title>Fernöstlicher Genuss aus saftigem Putenfleisch mit Teriyaki-Sauce und gebratenen Mie-Nudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, M, O) Others: 8.20</description>
-      <guid isPermaLink="false">8d9289c85927ce7dbe7d96a24184f5ec1d03f8d0e4e98da447f85cc2dc5c1846</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, N, O) Others: 8.20</description>
+      <guid isPermaLink="false">7aa641e2af6610b419b9bb7d2f9f89a3a22896dea7900e7dd216c033271e5889</guid>
     </item>
     <item>
-      <title>Schlotzige Käsespätzle mit Röstzwiebeln und knackigen Salaten</title>
+      <title>Burger vom Bio-Rind medium gebraten mit knusprigem Speck, sonnengereiften Tomaten und Süßkartoffel-Pommes</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, O) Others: 8.30</description>
-      <guid isPermaLink="false">1d90001d07f2ac8b9840142551d0eaf052a1dbc900c5190db213fb400ef53eea</guid>
+      <description>Tagesgerichte (A, C, G, M, N, O) Others: 12.90</description>
+      <guid isPermaLink="false">cd04e85b5aabca4a22403e5e14d1b0d7f1a6149add4112016cda1e3f52659e30</guid>
     </item>
     <item>
-      <title>Putenfleisch Jäger Art mit herzhafter Pilzsauce und gebratenen Schupfnudeln</title>
+      <title>Saftiger Melanzani Burger mit Süßkartoffel Pommes</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, L, O) Others: 9.90</description>
-      <guid isPermaLink="false">9d0b1f2c23a93640b68f836f1b4e28ae92808859fe0a427e1bf30719fd019032</guid>
+      <description>Tagesgerichte (A, C, F, G, L, M, N, O) Others: 10.70</description>
+      <guid isPermaLink="false">7e85746db8d9cb95a6260b60065331280e4e399d645cd36afcaa4af9307f07b2</guid>
     </item>
   </channel>
 </rss>
