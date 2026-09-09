@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 09 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 10 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 08 Sep 2026 17:44:00 +0000</pubDate>
+    <pubDate>Wed, 09 Sep 2026 17:30:47 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,31 +17,31 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">58c9003282d3c31d4b9c55239134162c1b607b75b03ac48e430a1cc40ad22155</guid>
+      <guid isPermaLink="false">8afc0d12be71716df489003738e053890519c01aa49e815dd38a3d853f14519d</guid>
     </item>
     <item>
-      <title>Südindisches Kartoffelcurry „Aloo Masala“ mit aromatischen Gewürzen und lockerem Zartweizen</title>
+      <title>Cremiges Makhani von roten Linsen und Halloumi auf gerösteten Buchweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, H, O) Others: 7.10</description>
-      <guid isPermaLink="false">684dccbee98ac394b1276568df6237cb5d208a784fade3c5139746e31ee1d523</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (F, G, H, O) Others: 7.10</description>
+      <guid isPermaLink="false">73862e0d5cf24680a4b5d14136f37c931b11d2dfeedf387c1759bb782897ce51</guid>
     </item>
     <item>
-      <title>Fernöstlicher Genuss aus saftigem Putenfleisch mit Teriyaki-Sauce und gebratenen Mie-Nudeln</title>
+      <title>Ofenfrisch geschmorter Schopfbraten mit würziger Knoblauch-Jus und Kartoffelknödel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, N, O) Others: 8.20</description>
-      <guid isPermaLink="false">7aa641e2af6610b419b9bb7d2f9f89a3a22896dea7900e7dd216c033271e5889</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, L, M, O) Others: 8.20</description>
+      <guid isPermaLink="false">7d0cad3d7d4bee6bee69da9d6bee749f4ce5d02b8ff811f0e9b3cca64c243ff6</guid>
     </item>
     <item>
-      <title>Burger vom Bio-Rind medium gebraten mit knusprigem Speck, sonnengereiften Tomaten und Süßkartoffel-Pommes</title>
+      <title>Zitronen-Koriander-Huhn mit Karotten-Zucchini-Gemüse und Glasnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, M, N, O) Others: 12.90</description>
-      <guid isPermaLink="false">cd04e85b5aabca4a22403e5e14d1b0d7f1a6149add4112016cda1e3f52659e30</guid>
+      <description>Tagesgerichte (A, N, O) Others: 12.90</description>
+      <guid isPermaLink="false">3ea1edb820da3b9855e01f54069b6a957089bd19f1ec76064e9573d0c25d439f</guid>
     </item>
     <item>
-      <title>Saftiger Melanzani Burger mit Süßkartoffel Pommes</title>
+      <title>Luftiger Germknödel auf cremiger Vanillesauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, L, M, N, O) Others: 10.70</description>
-      <guid isPermaLink="false">7e85746db8d9cb95a6260b60065331280e4e399d645cd36afcaa4af9307f07b2</guid>
+      <description>Tagesgerichte (A, C, G) Others: 6.90</description>
+      <guid isPermaLink="false">0981723148dc5816d33f60edf77e18a793a8229f07f4c20fd45f749cd013b0d5</guid>
     </item>
   </channel>
 </rss>

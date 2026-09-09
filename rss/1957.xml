@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Wed, 09 Sep 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Thu, 10 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 08 Sep 2026 17:44:00 +0000</pubDate>
+    <pubDate>Wed, 09 Sep 2026 17:30:47 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,16 +14,16 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gemüse mit Tofu und Reis</title>
+      <title>Dillfisolen mit Rösti</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (F, L) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">28dc4a94f464a72ba429dd1cb0a8ca2aef1de9648ae342bb42c1375bce50c4b2</guid>
+      <description>Vegan (F) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">3250ac9ef6cae85cb8d3350cda4d523a40c3a341de4b3720ca03b89cac4393c3</guid>
     </item>
     <item>
-      <title>Naturschnitzel vom Schwein mit Reis (AT)</title>
+      <title>Hühner Gemüse Wok mit Reis (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (L) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">35d08e1b4276f431c83fe794ad4dd1b9a5de995f4d8468a3a1084e5e8167eb93</guid>
+      <description>Nicht Vegetarisch (F) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">4d175af89998a663ba86958293d1a1189c85fd52531f7c4f067605957f1fc87d</guid>
     </item>
   </channel>
 </rss>
