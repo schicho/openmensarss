@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Thu, 10 Sep 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Fri, 11 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 09 Sep 2026 17:30:47 +0000</pubDate>
+    <pubDate>Thu, 10 Sep 2026 17:28:14 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,16 +14,16 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Dillfisolen mit Rösti</title>
+      <title>Überbackene Melanzani mit Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (F) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">3250ac9ef6cae85cb8d3350cda4d523a40c3a341de4b3720ca03b89cac4393c3</guid>
+      <description>Vegetarisch (A, G) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">1c8097f9196de9be7695b4f18b2a7fc65de7b7b1400496c43ff53f01c3daf1e6</guid>
     </item>
     <item>
-      <title>Hühner Gemüse Wok mit Reis (PL)</title>
+      <title>Gebackener Zander mit Erbsen-Karotten Reis (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (F) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">4d175af89998a663ba86958293d1a1189c85fd52531f7c4f067605957f1fc87d</guid>
+      <description>Nicht Vegetarisch (A, C, D) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">74d4170b32329b25e3a9c774275cd196a24a30e92e60e4f216fe03f25c30a914</guid>
     </item>
   </channel>
 </rss>

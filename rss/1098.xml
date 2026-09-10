@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 10 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 11 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 09 Sep 2026 17:30:47 +0000</pubDate>
+    <pubDate>Thu, 10 Sep 2026 17:28:14 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,31 +17,31 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">8afc0d12be71716df489003738e053890519c01aa49e815dd38a3d853f14519d</guid>
+      <guid isPermaLink="false">d60fc8600e4c5a9c64309378694e6bccecb4d7ecf9c54c5c9909cc3339bffbb5</guid>
     </item>
     <item>
-      <title>Cremiges Makhani von roten Linsen und Halloumi auf gerösteten Buchweizen</title>
+      <title>Herzhafter Bohnen-Gemüse-Schmortopf mit aromatischen Pilzen und lockerem Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (F, G, H, O) Others: 7.10</description>
-      <guid isPermaLink="false">73862e0d5cf24680a4b5d14136f37c931b11d2dfeedf387c1759bb782897ce51</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">7098202eb7c35415351c43ae4632dc4062bb62a9daaee9a838d9ea945b8ac601</guid>
     </item>
     <item>
-      <title>Ofenfrisch geschmorter Schopfbraten mit würziger Knoblauch-Jus und Kartoffelknödel</title>
+      <title>Koreanisches Bulgogi vom Rind auf duftendem Basmatireis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, L, M, O) Others: 8.20</description>
-      <guid isPermaLink="false">7d0cad3d7d4bee6bee69da9d6bee749f4ce5d02b8ff811f0e9b3cca64c243ff6</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, N, O) Others: 8.20</description>
+      <guid isPermaLink="false">4b668939a4483379fa77b8c6cea6020efc7e9a9c1981a67a9e3ecd813e66551d</guid>
     </item>
     <item>
-      <title>Zitronen-Koriander-Huhn mit Karotten-Zucchini-Gemüse und Glasnudeln</title>
+      <title>Zanderfilet vom Grill mit Kürbis-Püree und Erbsen - Minzgemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, N, O) Others: 12.90</description>
-      <guid isPermaLink="false">3ea1edb820da3b9855e01f54069b6a957089bd19f1ec76064e9573d0c25d439f</guid>
+      <description>Tagesgerichte (D, F, G, O) Others: 13.90</description>
+      <guid isPermaLink="false">5f1e1235fd4d5d214e62aa2a9340b16579ba99dacecf24da683031359e63a232</guid>
     </item>
     <item>
-      <title>Luftiger Germknödel auf cremiger Vanillesauce</title>
+      <title>Erdäpfel-Mais-Auflauf mit Zucchini, Karotten und hausgemachten Knoblauchdip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G) Others: 6.90</description>
-      <guid isPermaLink="false">0981723148dc5816d33f60edf77e18a793a8229f07f4c20fd45f749cd013b0d5</guid>
+      <description>Tagesgerichte (F, G, O) Others: 7.20</description>
+      <guid isPermaLink="false">0dd6df94f18cbeaf8ca651f917c1ff759b9ae719e8babd83a3bf28be4d11a502</guid>
     </item>
   </channel>
 </rss>
