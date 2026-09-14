@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 14 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 15 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 13 Sep 2026 17:13:35 +0000</pubDate>
+    <pubDate>Mon, 14 Sep 2026 14:49:41 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,31 +17,31 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">fe0f3db867338565f8ebd004e3664f525580c086fb2071af7624278dc5fb8cfc</guid>
+      <guid isPermaLink="false">d57bbd67f81d672c48aac5b7070cc7e781dbe63adbae126112da69004bce1caf</guid>
     </item>
     <item>
-      <title>Überbackene Gemüsefleckerl Paprika · Knoblauch · Gartenkräuter</title>
+      <title>Gratinierte Polenta-Gemüseschnitte Tomaten-Paprika-Ragout · Knusprige Wurzeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, F, G, O) Others: 7.10</description>
-      <guid isPermaLink="false">c92eb8e2fe1ea5670117ca9c1e0d4447aa2c9b915295801f0ecf809b5fe1b10c</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (C, G, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">0b52b5ef34c522b771c02c6500abab58ab843b96e3b1824f4e6233bf5ec59d61</guid>
     </item>
     <item>
-      <title>Rotes Puten-Thai-Curry Duftreis · Koriander · Kokos</title>
+      <title>Erdäpfel-Gnocchi Amatriciana vom Speck · Parmesan · Kräuter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, O, R) Others: 8.20</description>
-      <guid isPermaLink="false">b504388f9880febeeb9cc2b2fea46ff933833d1be451ffbfd77f722d3c3dce69</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">2b3da1654079204cb032717d090d87b5e251d7edecfb45e47ce47b1ab8c0e61b</guid>
     </item>
     <item>
-      <title>Erdäpfel-Zucchini-Gratin Fenchel · Orange · Zitrus</title>
+      <title>Wok vom heimischen Huhn Gemüse · Glasnudeln · Koriander</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (F, G, M, O) Others: 7.20</description>
-      <guid isPermaLink="false">7c5c4e30f2483e7d10717056da2c884734ef49bd725de24e7f45d9e616774e90</guid>
+      <description>Tagesgerichte (A, F, G, N, O) Others: 11.90</description>
+      <guid isPermaLink="false">bd39a0d72bed91b4ae3758998498e0eb264cef11b4abbf47906ad853f64e9b59</guid>
     </item>
     <item>
-      <title>Knuspriges steirisches Backhendl Erdäpfel-Vogerlsalat · Steirisches Kernöl</title>
+      <title>Hausgemachter Spinatstrudel Schafkäse · Knoblauchdip · Kräuter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, M) Others: 9.90</description>
-      <guid isPermaLink="false">1c007e06bc27cd57d71142c26d6d3456560fec11db1969c5ddd7125daffc0af7</guid>
+      <description>Tagesgerichte (A, C, G, O) Others: 8.60</description>
+      <guid isPermaLink="false">e9f99b0ddd1bc0da70a47bb258aed2f7f14e7175c8fa98beeeef09a344ad6aed</guid>
     </item>
   </channel>
 </rss>
