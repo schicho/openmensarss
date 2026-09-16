@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 16 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 17 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 15 Sep 2026 17:54:41 +0000</pubDate>
+    <pubDate>Wed, 16 Sep 2026 17:56:16 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,31 +17,31 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">8a9637fe468053352ece2487637779ec7f0636830ae77da3d7fcf0be1ecb6ec3</guid>
+      <guid isPermaLink="false">a15ed5ab9f91cac91f461320e5dbfb7b1d6d4596fbd6314b102d4872c62dfbc7</guid>
     </item>
     <item>
-      <title>Texanischer Bohneneintopf Geschmorte Bohnen · Paprika · Bulgur</title>
+      <title>Linsencurry mit Gemüse Couscous · Koriander · Limette</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, H, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">e39132c6a29a28f1e82253484b276fa5b72b718e6b020f3fedbd92e232a51f2e</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A) Others: 7.10</description>
+      <guid isPermaLink="false">59e69dd342943298f8dfe8173f08e0e9f2220e0aa1ddb92bc99b36ded6ae66a3</guid>
     </item>
     <item>
-      <title>Spaghetti al dente Bolognese vom Rind · Parmesan · Kräuter</title>
+      <title>Putenwürstel-Erdäpfel-Gulasch Paprika · Majoran · Kornspitz</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">2d76f3cf91d503098cc4afeee94b3f6cc88dbfd2c640f9bfb04ad4402f30c374</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 8.20</description>
+      <guid isPermaLink="false">aba8dd94dab58ecf9520ec44014e0bfbffbfd9c33112edba090f0faafc62e3c2</guid>
     </item>
     <item>
-      <title>Hausgemachter Burger von der Avocado Pommes frites · junge Kräuter</title>
+      <title>Tikka Masala vom heimischen Huhn Basmatireis · Koriander · Limette</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, M, O) Others: 10.70</description>
-      <guid isPermaLink="false">0e37b0732c366d38c37f352b739a756e400efcc3b5e4c596771441d80675014b</guid>
+      <description>Tagesgerichte (F, G, H, O) Others: 10.90</description>
+      <guid isPermaLink="false">4c9bc8d754d876c392e180eea30daff1364097baf3fde502a51c278f4a08f987</guid>
     </item>
     <item>
-      <title>Gyros Burger von der Pute Fladenbrot · Tzatziki · Pommes frites</title>
+      <title>Karfiol in knuspriger Panier Sauce Tartare · Blattsalat · Joghurt</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, F, G, O) Others: 11.90</description>
-      <guid isPermaLink="false">433f5ad82f83c0c52ae98c1ca12eb09dfb12f6b8ddd6c554095b201b8201d77b</guid>
+      <description>Tagesgerichte (A, C, G, M, O) Others: 7.20</description>
+      <guid isPermaLink="false">04d8a61771a02b1e8eeec275a3235d676e61402422d32827e1aa8bf56a7f1052</guid>
     </item>
   </channel>
 </rss>
