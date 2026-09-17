@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 17 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 18 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 16 Sep 2026 17:56:16 +0000</pubDate>
+    <pubDate>Thu, 17 Sep 2026 17:54:58 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,31 +17,31 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">a15ed5ab9f91cac91f461320e5dbfb7b1d6d4596fbd6314b102d4872c62dfbc7</guid>
+      <guid isPermaLink="false">e396726a1cbadbed3aef82bc64d80289767dd9635c6726e8c7c236a13a854aae</guid>
     </item>
     <item>
-      <title>Linsencurry mit Gemüse Couscous · Koriander · Limette</title>
+      <title>Gemüse Jambalaya Hirse · Tomate · Kräuter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A) Others: 7.10</description>
-      <guid isPermaLink="false">59e69dd342943298f8dfe8173f08e0e9f2220e0aa1ddb92bc99b36ded6ae66a3</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (L, O) Others: 7.10</description>
+      <guid isPermaLink="false">ec1f13599e90ac09b4b3d8a61472716e64b088e71a6122dee41f316a608155e8</guid>
     </item>
     <item>
-      <title>Putenwürstel-Erdäpfel-Gulasch Paprika · Majoran · Kornspitz</title>
+      <title>Cremige Schinkenfleckerl Kresse · Sauerrahm · Joghurt</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 8.20</description>
-      <guid isPermaLink="false">aba8dd94dab58ecf9520ec44014e0bfbffbfd9c33112edba090f0faafc62e3c2</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">622bc04cd03456fb9344a749529c52b86122034642bde84811de386fcd635b68</guid>
     </item>
     <item>
-      <title>Tikka Masala vom heimischen Huhn Basmatireis · Koriander · Limette</title>
+      <title>Cremige Eiernockerln Blattsalate der Saison · Schnittlauch</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (F, G, H, O) Others: 10.90</description>
-      <guid isPermaLink="false">4c9bc8d754d876c392e180eea30daff1364097baf3fde502a51c278f4a08f987</guid>
+      <description>Tagesgerichte (A, C, F, G, O) Others: 7.90</description>
+      <guid isPermaLink="false">0d9a8c295faaad0e65d78346ae4616a4217a941fe3556ddaffafba86d55d3b24</guid>
     </item>
     <item>
-      <title>Karfiol in knuspriger Panier Sauce Tartare · Blattsalat · Joghurt</title>
+      <title>Gebackenes Alaska-Seelachsfilet aus nachhaltiger Fischerei Dill-Erdäpfel · Sauce Tatar · Zitrone</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, M, O) Others: 7.20</description>
-      <guid isPermaLink="false">04d8a61771a02b1e8eeec275a3235d676e61402422d32827e1aa8bf56a7f1052</guid>
+      <description>Tagesgerichte (A, C, D, M, O) Others: 10.50</description>
+      <guid isPermaLink="false">8d830e7e0dd8340d4f1a03bc83e90a104528f87c38a0877c25bc1f0a7f5470f2</guid>
     </item>
   </channel>
 </rss>
