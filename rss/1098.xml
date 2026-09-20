@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 18 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 21 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 17 Sep 2026 17:54:58 +0000</pubDate>
+    <pubDate>Sun, 20 Sep 2026 17:16:25 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,31 +17,31 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">e396726a1cbadbed3aef82bc64d80289767dd9635c6726e8c7c236a13a854aae</guid>
+      <guid isPermaLink="false">0ef31302613b1496a452072afed75947f7f063d368cfc20d638cea9da883c830</guid>
     </item>
     <item>
-      <title>Gemüse Jambalaya Hirse · Tomate · Kräuter</title>
+      <title>Erdäpfelgnocchi Waldpilzsauce | Kräuter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (L, O) Others: 7.10</description>
-      <guid isPermaLink="false">ec1f13599e90ac09b4b3d8a61472716e64b088e71a6122dee41f316a608155e8</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 7.10</description>
+      <guid isPermaLink="false">dae4e50ce392bfc2e5f243f7f4ed5a862d70b6f525d11031184be9b03ce12961</guid>
     </item>
     <item>
-      <title>Cremige Schinkenfleckerl Kresse · Sauerrahm · Joghurt</title>
+      <title>Rindergeschnetzeltes Esterházy-Art | Spätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, O) Others: 8.20</description>
-      <guid isPermaLink="false">622bc04cd03456fb9344a749529c52b86122034642bde84811de386fcd635b68</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">578e7fd010b7f00b21f5c2c1b1901176b7b66b48a41701dddc0137b9372dc784</guid>
     </item>
     <item>
-      <title>Cremige Eiernockerln Blattsalate der Saison · Schnittlauch</title>
+      <title>Aus unserer Panierküche Schweinsschnitzel | Bratkartoffeln | Ketchup</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, O) Others: 7.90</description>
-      <guid isPermaLink="false">0d9a8c295faaad0e65d78346ae4616a4217a941fe3556ddaffafba86d55d3b24</guid>
+      <description>Tagesgerichte (A, C) Others: 9.70</description>
+      <guid isPermaLink="false">200ab163792a0d4b9c656e3bbccb089423af68b41964704b78fa1ed4b17f8329</guid>
     </item>
     <item>
-      <title>Gebackenes Alaska-Seelachsfilet aus nachhaltiger Fischerei Dill-Erdäpfel · Sauce Tatar · Zitrone</title>
+      <title>Knuspriger Strudel vom jungen Kraut Lauchcreme | Kräuter vom Markt</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, D, M, O) Others: 10.50</description>
-      <guid isPermaLink="false">8d830e7e0dd8340d4f1a03bc83e90a104528f87c38a0877c25bc1f0a7f5470f2</guid>
+      <description>Tagesgerichte (A, F, O) Others: 7.20</description>
+      <guid isPermaLink="false">2931e706850af53b1c4eecdfbca8941c90e88c6dc0add16b556b9e8e6613148f</guid>
     </item>
   </channel>
 </rss>
