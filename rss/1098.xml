@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 21 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 22 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 20 Sep 2026 17:16:25 +0000</pubDate>
+    <pubDate>Mon, 21 Sep 2026 14:55:47 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,31 +17,31 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">0ef31302613b1496a452072afed75947f7f063d368cfc20d638cea9da883c830</guid>
+      <guid isPermaLink="false">902cda087fa0f629d72ea60358b40053aff43aecf2857c4349a1e22700eb7735</guid>
     </item>
     <item>
-      <title>Erdäpfelgnocchi Waldpilzsauce | Kräuter</title>
+      <title>Madras Curry Gemüse | Kokosmilch | Zartweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 7.10</description>
-      <guid isPermaLink="false">dae4e50ce392bfc2e5f243f7f4ed5a862d70b6f525d11031184be9b03ce12961</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L) Others: 7.10</description>
+      <guid isPermaLink="false">6628bf0815c78b2bace06215d9854fb66454b1488759eba7b38d14f715cbe590</guid>
     </item>
     <item>
-      <title>Rindergeschnetzeltes Esterházy-Art | Spätzle</title>
+      <title>Schweinegeschnetzeltes Asia Sambal-Manis-Sauce | Mie-Nudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">578e7fd010b7f00b21f5c2c1b1901176b7b66b48a41701dddc0137b9372dc784</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, E, F, G, N, O) Others: 8.20</description>
+      <guid isPermaLink="false">78e55efbd3585f4db448ad54f6b381eb7917847603ac34a7296fe7840743f4ab</guid>
     </item>
     <item>
-      <title>Aus unserer Panierküche Schweinsschnitzel | Bratkartoffeln | Ketchup</title>
+      <title>Gefüllter Roter Paprika Couscous | Tomatenragout | Kräuter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C) Others: 9.70</description>
-      <guid isPermaLink="false">200ab163792a0d4b9c656e3bbccb089423af68b41964704b78fa1ed4b17f8329</guid>
+      <description>Tagesgerichte (A, L, O) Others: 7.90</description>
+      <guid isPermaLink="false">55489dc98aef495caa9301a5552664bf6ee73baac2ddf327da23b4c15625e8b1</guid>
     </item>
     <item>
-      <title>Knuspriger Strudel vom jungen Kraut Lauchcreme | Kräuter vom Markt</title>
+      <title>Glasierte Pute Teriyaki-Sauce | Reis | Petersilie</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, F, O) Others: 7.20</description>
-      <guid isPermaLink="false">2931e706850af53b1c4eecdfbca8941c90e88c6dc0add16b556b9e8e6613148f</guid>
+      <description>Tagesgerichte (A, F, N, O) Others: 9.30</description>
+      <guid isPermaLink="false">c5a1738ef83509ef9f921ab549d1c04a34232ab0143f403f7a15cd7ed149a450</guid>
     </item>
   </channel>
 </rss>
