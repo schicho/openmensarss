@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Tue, 22 Sep 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Wed, 23 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 21 Sep 2026 19:02:09 +0000</pubDate>
+    <pubDate>Tue, 22 Sep 2026 17:54:49 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,22 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Linsensuppe</title>
+      <title>Ungarische Krautsuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (P) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">e824d248b309bbaa05c080fb8365f1523ff7464a60200460b73eac60cf96e9a7</guid>
+      <description>Vegan (F) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">51ecc18152179c8ec1b2316fb7da9bc0334be21c0c384e9db07a684b2d4b7c5d</guid>
     </item>
     <item>
-      <title>Gemüseeintopf mit Bulgur</title>
+      <title>Kürbisknödel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (A, L) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">3c4422c68cd38d216f3011b8bfc877628409d0cc8af745c46ec7b650ef1a48f1</guid>
+      <description>Vegetarisch (A, C, F, G) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">4b62a047b60b6168f6f87a4a0fc82cfcb8306a600f3c5f443e146d9aed41de1f</guid>
     </item>
     <item>
-      <title>Lasagne (AT)</title>
+      <title>Bauerngröstl (AT)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (A, G) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">a221a766620f890236e77ac1fb65781335554a4f7554a9a3e4901618b3e033ae</guid>
+      <description>Nicht Vegetarisch (A, C, G) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">89f8b2ba920f5eea67d0159a12668faa4942d175fc192eb01e76bb7939f52cc3</guid>
     </item>
   </channel>
 </rss>
