@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 23 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 24 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 22 Sep 2026 17:54:49 +0000</pubDate>
+    <pubDate>Wed, 23 Sep 2026 18:13:53 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,31 +17,31 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">0b3234645959acfb4b0cfeace1ca6ca29c441b5450e1268891355996b8d7dee4</guid>
+      <guid isPermaLink="false">0e5d88f299ceee6ba8072653004f443126c70e4d7d77c7e3bd1c2f6d67f526be</guid>
     </item>
     <item>
-      <title>Ofen-Lasagne Gemüse | Tomatenragout | Kräuter</title>
+      <title>Würzige Bohnen Bohnencurry | Couscous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, G, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">af37dc9d5ab04c8ae5a2113ac34458787f7a1ce44be9dc0394312e58663e011f</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">43c708e99694b60e70830056ca24cadc5d9d27aa61cdebfc961f491ff000597f</guid>
     </item>
     <item>
-      <title>Schwein &amp; Walnuss Walnuss-Mascarpone-Sauce | Hörnchen</title>
+      <title>Puten-Curry Süßkartoffel | Basmatireis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, H, O) Others: 8.20</description>
-      <guid isPermaLink="false">8963e13d5a1d1628493a003268685c5883a2a35e18c619a9d4febf836b143b16</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (O) Others: 8.20</description>
+      <guid isPermaLink="false">6dc177728c5dfaa68617170323c13eb448875b31990323d57bc4019e3f477aed</guid>
     </item>
     <item>
-      <title>Wiener Hendl-Burger Schafskäse | Kräuter | Steakhouse-Pommes</title>
+      <title>Alpen-Linguine Österkronrahmsauce | Schinkenspeck | Haselnüsse | Rucola</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, F, G, O) Others: 12.90</description>
-      <guid isPermaLink="false">37dc25337b64c174c8de53febeff8a79d24061c8cfa7c80f38cb9927279888a1</guid>
+      <description>Tagesgerichte (A, F, G, H, O) Others: 7.20</description>
+      <guid isPermaLink="false">4fdeb08469061c04acb30b7126e1917f37cc2d0a289dafd2bc9d8cc2dc6d793d</guid>
     </item>
     <item>
-      <title>Überbackener Röstitaler Blattspinat | Feta | Kren-Dip | Salatbouquet</title>
+      <title>Hütten-Erdäpfel Speck-Bohnen-Fülle | Knoblauchdip | Petersilie</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, F, G, O) Others: 10.50</description>
-      <guid isPermaLink="false">41fa23dbde521d76a2e6e970e49484890ea151fd78e8d0a8f9492669e165967d</guid>
+      <description>Tagesgerichte (G, O) Others: 8.60</description>
+      <guid isPermaLink="false">f458c54465cce42c2dd135bb1e3d2914f19cabcf1b1f80cdbd109d32cf4ba35b</guid>
     </item>
   </channel>
 </rss>
