@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 24 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 25 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 23 Sep 2026 18:13:53 +0000</pubDate>
+    <pubDate>Thu, 24 Sep 2026 18:09:18 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,31 +17,31 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">0e5d88f299ceee6ba8072653004f443126c70e4d7d77c7e3bd1c2f6d67f526be</guid>
+      <guid isPermaLink="false">2c29b21a468927662d204d3d6028addf6e738cf1972f0851e86587de15f371dc</guid>
     </item>
     <item>
-      <title>Würzige Bohnen Bohnencurry | Couscous</title>
+      <title>Champignon-Gulasch Bulgur | Kräuter</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">43c708e99694b60e70830056ca24cadc5d9d27aa61cdebfc961f491ff000597f</guid>
+      <guid isPermaLink="false">1ab6483d7d182171ac16a447e41e50b4cdffe8b9613c34066178df7812fbf75f</guid>
     </item>
     <item>
-      <title>Puten-Curry Süßkartoffel | Basmatireis</title>
+      <title>Zitronen-Hendl Koriander | Buchweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (O) Others: 8.20</description>
-      <guid isPermaLink="false">6dc177728c5dfaa68617170323c13eb448875b31990323d57bc4019e3f477aed</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">3063a46f8e9cb167add20508f0cbccf4425996d8ab28120358d935d7c4bac66f</guid>
     </item>
     <item>
-      <title>Alpen-Linguine Österkronrahmsauce | Schinkenspeck | Haselnüsse | Rucola</title>
+      <title>Wiener Spätzlepfandl Käsespätzle | Röstzwiebel | Blattsalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, F, G, H, O) Others: 7.20</description>
-      <guid isPermaLink="false">4fdeb08469061c04acb30b7126e1917f37cc2d0a289dafd2bc9d8cc2dc6d793d</guid>
+      <description>Tagesgerichte (A, C, F, G, O) Others: 8.60</description>
+      <guid isPermaLink="false">8b32852e725f48998e3f1a2e76003649ba47a4e552e8d7151adf94ab54e968c9</guid>
     </item>
     <item>
-      <title>Hütten-Erdäpfel Speck-Bohnen-Fülle | Knoblauchdip | Petersilie</title>
+      <title>Lachsforelle &amp; Safran Cremiges Risotto | Kresse-Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (G, O) Others: 8.60</description>
-      <guid isPermaLink="false">f458c54465cce42c2dd135bb1e3d2914f19cabcf1b1f80cdbd109d32cf4ba35b</guid>
+      <description>Tagesgerichte (G, O) Others: 10.50</description>
+      <guid isPermaLink="false">8defd1c04b8c171a2f820ba7438417b5e020848a995cbd3e4c6dd82b76309a92</guid>
     </item>
   </channel>
 </rss>
