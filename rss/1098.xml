@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 29 Sep 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 30 Sep 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 28 Sep 2026 20:21:50 +0000</pubDate>
+    <pubDate>Tue, 29 Sep 2026 19:06:12 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -17,31 +17,31 @@
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">0408f6f75bb837c78722084d719f49310dcaa1dd374fc20c8177d13b95406e4b</guid>
+      <guid isPermaLink="false">55a4d0d29cb8bc31fce151e552c3598d7e6c21bdc632f7180977d3e95f82ad8a</guid>
     </item>
     <item>
-      <title>Veganer Linseneintopf Salzerdäpfel | Wurzelgemüse | Petersilie</title>
+      <title>Erdäpfelgulasch Brechbohnen | Paprika | Semmel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, L, M, O) Others: 7.10</description>
-      <guid isPermaLink="false">f3c503440ed60f36d47f7d6f2a7b41bef2bc76f1d48e0349dd189cd557ba4933</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, F, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">d4c9e534c3241370b9854c3243c66eba0c802040e32b49861c02476867854346</guid>
     </item>
     <item>
-      <title>Rindergeschnetzeltes Esterházy Spätzle | Wurzelgemüse</title>
+      <title>Klassische Schinkenfleckerl gratiniert Knoblauchdip | Petersilie</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">6492f505cfda74a6455bf34bc9b655a1eddb61361f05820f760fcd2373da2689</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">966b5a71d0e595f6a27a97cc1b797e406c8867534570370db85a7939b49c56d9</guid>
     </item>
     <item>
-      <title>Ofenfrische Gemüselasagne Blattsalat der Saison | Hausdressing</title>
+      <title>Mexiko Burger mit BIO-Rindfleisch Potato Wedges | würzige Salsa</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, G, L, O) Others: 7.60</description>
-      <guid isPermaLink="false">9253c3631cf32a51c0c399191914028cc2ee7c8128c542bdc60427e993f03e99</guid>
+      <description>Tagesgerichte (A, C, G, N, O) Others: 12.90</description>
+      <guid isPermaLink="false">e4e5cf6af41672f1758e681c2ad2e89bb9bd6aea071a36a380f14a64663b3eb9</guid>
     </item>
     <item>
-      <title>Puten-Avocado-Wrap Asiatischer Krautsalat | würziger Tomatendip</title>
+      <title>Curryragout mit Zucchini und Karotten Naturreis | frische Kräuter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, F, M, O) Others: 9.90</description>
-      <guid isPermaLink="false">128c1954ebe3a66b7f7c5a3fe17ba2230555d4e5b94a5e5d1efe9aade94c16e5</guid>
+      <description>Tagesgerichte (A, F, N) Others: 7.20</description>
+      <guid isPermaLink="false">b91d8165c52a4a70775a0a0e40ace6e6da69ecbc1c8f0067754de79d78864b7f</guid>
     </item>
   </channel>
 </rss>
