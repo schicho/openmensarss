@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Thu, 01 Oct 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Fri, 02 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 30 Sep 2026 18:48:23 +0000</pubDate>
+    <pubDate>Thu, 01 Oct 2026 19:14:57 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,22 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Minestrone</title>
+      <title>Frittatensuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (L) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">65153da6c751d29391043c6adc28970581e0f9d221f0dd928d9df9d0ce7f0762</guid>
+      <description>Vegetarisch (A, C, G, L) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">4001979423e46e61cd1a260889ce90d6c8113a132eee0a0ba0d8200cef89e3fa</guid>
     </item>
     <item>
-      <title>Tofu-Gemüsecurry mit Reis</title>
+      <title>Melanzani überbacken mit Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (F, L) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">8c4005f94dd9f8d914202b65b8820ba04976514f24f27d1ed475e3d9d64ef410</guid>
+      <description>Vegetarisch (A, G) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">df921a3edce23267de3f3ad0016a6f9b2fd79db1305de1159ad3bca0ecfec97b</guid>
     </item>
     <item>
-      <title>Falafel mit Hummus und Rotkraut</title>
+      <title>Hühnerschnitzel mit Petersilienkartoffeln (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (A) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">f376f99f70bb3272a44212167cf370fdaa4ddf914e3dadcbd83be5ebfd24dc7c</guid>
+      <description>Nicht Vegetarisch (A, C) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">54743330aa56c0c6010112fa4fec84bb9e80155cf9d9c5d348032cfd4cd7e26f</guid>
     </item>
   </channel>
 </rss>
