@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Fri, 02 Oct 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Mon, 05 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 01 Oct 2026 19:14:57 +0000</pubDate>
+    <pubDate>Sun, 04 Oct 2026 17:57:46 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,22 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Frittatensuppe</title>
+      <title>Karfiolcremesuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegetarisch (A, C, G, L) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">4001979423e46e61cd1a260889ce90d6c8113a132eee0a0ba0d8200cef89e3fa</guid>
+      <description>Vegan (F) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">c3be1d4d3cb360bd3c789247e387b34d1d64bbaf5320dd0c74fb23e101254f9b</guid>
     </item>
     <item>
-      <title>Melanzani überbacken mit Bulgur</title>
+      <title>Pasta Verdure</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegetarisch (A, G) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">df921a3edce23267de3f3ad0016a6f9b2fd79db1305de1159ad3bca0ecfec97b</guid>
+      <description>Vegan (A, L) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">edd85814d60c16b21a7128a88750e18cd9286bb5b0dc994daf75eba730a6cf29</guid>
     </item>
     <item>
-      <title>Hühnerschnitzel mit Petersilienkartoffeln (PL)</title>
+      <title>Hühnergeschnetzeltes mit Champignons und Reis (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (A, C) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">54743330aa56c0c6010112fa4fec84bb9e80155cf9d9c5d348032cfd4cd7e26f</guid>
+      <description>Nicht Vegetarisch (F, L) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">db51d8fdea6bcd6edb12823670c0b4b89ce4f0c84894a532cfd98cfbbbe66b52</guid>
     </item>
   </channel>
 </rss>

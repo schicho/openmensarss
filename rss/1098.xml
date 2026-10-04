@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 02 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 05 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 01 Oct 2026 19:14:57 +0000</pubDate>
+    <pubDate>Sun, 04 Oct 2026 17:57:46 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>(C6H10O5)n + (C6H10O5)n + (C6H10O5)n 2 + C10H18O + CurryMix + ?T 3 --------------------------------- 4 Karfiol-Erdäpfel-Curry 5 + Cous Cous</title>
+      <title>m*c^2 = LK + EP + RZ</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, O) Others: 5.20</description>
-      <guid isPermaLink="false">3d2e8cecfa977dec917c6f5963c3b7e0db3b5b807cf2d588377a6dad472a37c9</guid>
+      <description>Studyteller (A, L, O) Others: 5.20</description>
+      <guid isPermaLink="false">a47ae2f674629763e806279a1b000237b0f235106cd1ff8130cb02a2c52864bb</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">5f9643207d947f5b75d1ffcea83cbbc0e245fd75be0f3259629008c21e9b086e</guid>
+      <guid isPermaLink="false">58645203b44fc368e5b88b9c3aa9a58f67d845e5f97dde784f12e7e8b6b22f77</guid>
     </item>
     <item>
-      <title>Karfiol-Erdäpfelcurry vegan Cous Cous | Kräuter</title>
+      <title>Mediterran gefüllte Paprika Couscous | fruchtiges Tomatenragout</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, O) Others: 7.10</description>
-      <guid isPermaLink="false">cafc0afc9ae0ff94d7f84763721a5ff2b524fdb561e36a8b629f16cbfb44dad6</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">5e9ff853aa8886301601668053a20b460a0d9343b03b3e88061dd5f3dc33fcad</guid>
     </item>
     <item>
-      <title>Putengeschnetzeltes Sauerrahmsauce | Bulgur</title>
+      <title>Rindergeschnetzeltes Stroganoff Champignonrahmsauce | Gewürzgurkerl | Spätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, G, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">36614ef16681fce48b9c07523fb081ccbd99df497ceae8ba109a80b94c7454c0</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, L, M, O) Others: 8.20</description>
+      <guid isPermaLink="false">4da3da52b77be407069052f6c2f9f157e8bae8b4178400652b0686b23abf7c24</guid>
     </item>
     <item>
-      <title>Asiatische Eiernudeln Gemüse | BIO-Tofu | Koriander</title>
+      <title>Knusprig gebackenes Schweinsschnitzel Petersilerdäpfel | Zitrone | Ketchup</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, O) Others: 7.20</description>
-      <guid isPermaLink="false">b736f50e8e03bbff1f41c4e509ae9f02ae2b166ad688a3289c91356aaa718c56</guid>
+      <description>Tagesgerichte (A, C, G) Others: 9.70</description>
+      <guid isPermaLink="false">b43841f2aaeac07c2d142b79f98003ec47d6f5f9baefbb41fe01de832b7d6509</guid>
     </item>
     <item>
-      <title>Alaska-Seelachsfilet im Sesammantel Sauce Tartare | Erdäpfel-Gurkensalat | Zitrone</title>
+      <title>Knödel mit Ei goldbraun geröstet | Kräuter | Blattsalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, D, G, M, N, O) Others: 10.50</description>
-      <guid isPermaLink="false">81e00c6f46b3ea0a99741dfbcc3b1fa785a60accf00c013f8103db50a15b35ba</guid>
+      <description>Tagesgerichte (A, C, F, G, O) Others: 7.20</description>
+      <guid isPermaLink="false">7498352b73d04d22bbb8e11a64aab3e1f3170f4b295638425bb1e52d911d351b</guid>
     </item>
   </channel>
 </rss>
