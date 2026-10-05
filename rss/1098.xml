@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 05 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 06 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 04 Oct 2026 17:57:46 +0000</pubDate>
+    <pubDate>Mon, 05 Oct 2026 16:55:03 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>m*c^2 = LK + EP + RZ</title>
+      <title>m*c^2 = Chi + B + G + W</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, L, O) Others: 5.20</description>
-      <guid isPermaLink="false">a47ae2f674629763e806279a1b000237b0f235106cd1ff8130cb02a2c52864bb</guid>
+      <description>Studyteller (F) Others: 5.20</description>
+      <guid isPermaLink="false">f824eb430243876b57a3c9ac2edcefed901fdd2d336c599ebb695ba789ed2dc3</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">58645203b44fc368e5b88b9c3aa9a58f67d845e5f97dde784f12e7e8b6b22f77</guid>
+      <guid isPermaLink="false">282021f28655ddfa96faac15f1f64439d5cc08181b9733d9808ede2119f456dd</guid>
     </item>
     <item>
-      <title>Mediterran gefüllte Paprika Couscous | fruchtiges Tomatenragout</title>
+      <title>Chili sin Carne Bohnen | Gemüse | ausgewählte Gewürze</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">5e9ff853aa8886301601668053a20b460a0d9343b03b3e88061dd5f3dc33fcad</guid>
+      <description>Menü Veggie (inkl. Suppe oder Beilagensalat) (F) Others: 7.10</description>
+      <guid isPermaLink="false">9d65768d1272b9d6dfd110ed6fadc8b1f1c54eed80c0b3835b8c389574e3e076</guid>
     </item>
     <item>
-      <title>Rindergeschnetzeltes Stroganoff Champignonrahmsauce | Gewürzgurkerl | Spätzle</title>
+      <title>Bunte Zartweizenpfanne mit Hühnerfiletstreifen Paprika | Zucchini | Karotten | Jungzwiebel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, L, M, O) Others: 8.20</description>
-      <guid isPermaLink="false">4da3da52b77be407069052f6c2f9f157e8bae8b4178400652b0686b23abf7c24</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">0de402bd7b8694e1ee9cd31355e70a2a91bf634391fdfdff53e74a2037ace4e0</guid>
     </item>
     <item>
-      <title>Knusprig gebackenes Schweinsschnitzel Petersilerdäpfel | Zitrone | Ketchup</title>
+      <title>Saltimbocca von der Pute Kroketten | Parmesanchip | Jus</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G) Others: 9.70</description>
-      <guid isPermaLink="false">b43841f2aaeac07c2d142b79f98003ec47d6f5f9baefbb41fe01de832b7d6509</guid>
+      <description>Tagesgerichte (A, C, G, L, O) Others: 12.90</description>
+      <guid isPermaLink="false">114952959e14fa4a7de50a391c7d7065803c0e57b5dae860a110843ee98dba9f</guid>
     </item>
     <item>
-      <title>Knödel mit Ei goldbraun geröstet | Kräuter | Blattsalat</title>
+      <title>Portobello vom Grill Lauch-Erdäpfelgratin | Café-de-Paris-Sauce | grüne Bohnen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, O) Others: 7.20</description>
-      <guid isPermaLink="false">7498352b73d04d22bbb8e11a64aab3e1f3170f4b295638425bb1e52d911d351b</guid>
+      <description>Tagesgerichte (A, C, F, G, M, O) Others: 9.90</description>
+      <guid isPermaLink="false">2830f05145151af03f9da3405b4e43147090fc414f8fca56650bf9b1f8194687</guid>
     </item>
   </channel>
 </rss>
