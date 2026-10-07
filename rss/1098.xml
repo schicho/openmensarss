@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 07 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 08 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 06 Oct 2026 19:17:37 +0000</pubDate>
+    <pubDate>Wed, 07 Oct 2026 19:42:13 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>E = B + Bg·M²</title>
+      <title>E = mc² = Q + P + Z + K</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, O) Others: 5.20</description>
-      <guid isPermaLink="false">70620e071746d2afdf043134da7d6370e6d5d39d100f38478c3318c11d8ee38f</guid>
+      <description>Studyteller (O) Others: 5.20</description>
+      <guid isPermaLink="false">7ce677fee34a2ef1d1f39bb72f868fb69492c1cf964ef5e4b4ea9acb12f2c5d4</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">579f4955a12a3547edb788184ce4061db78376ea3be4dcc9cf94ccc8c6a7f2f9</guid>
+      <guid isPermaLink="false">1b930e4ea177e4473b8c95510bbb23fe911b83641e2bc2268a6c9fcdede3bc36</guid>
     </item>
     <item>
-      <title>Texanischer Bohneneintopf Bulgur | Paprika | Mais</title>
+      <title>Gemüsepfanne Quinoa | Paprika | Zucchini | Karotten</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, O) Others: 7.10</description>
-      <guid isPermaLink="false">6b7b714e6688f6da52d0983f80394ba09e82244e72e3c1391eb16acc52456de4</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (O) Others: 7.10</description>
+      <guid isPermaLink="false">8bf0affcb97f965895b4f31571960fcac762afbc0b661e3961550e34f20c8014</guid>
     </item>
     <item>
-      <title>Carbonara von der Pute cremige Eiersauce | Parmesan | Spaghetti</title>
+      <title>Ofenfrischer Leberkäse Erdäpfelpüree | Röstzwiebeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 8.20</description>
-      <guid isPermaLink="false">696337c8f3b2e7d51a05ed321d59e2019a120ac1c08cc4e7116061974cb14563</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">d2ee854082a97bbe6f0d27b9c7e4f5f237873a1d99171ed80840f0eee25e4418</guid>
     </item>
     <item>
-      <title>Burger vom Bio-Rind medium gebraten | Apfel | Blue-Cheese-Dip | Pommes frites</title>
+      <title>Böhmisch-österreichische Mehlspeise Scheiterhaufen mit Äpfel | Hausgemachter Beerenröster</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, M, N) Others: 12.90</description>
-      <guid isPermaLink="false">3ea4967c243654e9c5ea744c95ad4bec252eb1cac2fb517414c64709647b57d7</guid>
+      <description>Tagesgerichte (A, C, F, G) Others: 6.90</description>
+      <guid isPermaLink="false">ee35c4d7bcfb7fe2e27929b525bb733897d1642a6f2100eb58e1d99de9d4ed9f</guid>
     </item>
     <item>
-      <title>Veganer Burger im Sesam Bun veganes Patty | Blattsalat | Tomate | vegane Burgersauce | Pommes frites</title>
+      <title>Wok-Geschnetzeltes vom Schwein asiatisches Gemüse | Basmatireis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, F, L, N, O) Others: 10.70</description>
-      <guid isPermaLink="false">d06d823f81d3669f1feefd725f549683f36aa4145f0e77e32f7c20aef0882e4a</guid>
+      <description>Tagesgerichte (A, F, G, O) Others: 9.90</description>
+      <guid isPermaLink="false">4d3d1118814147429d7f1d4b597dffa984c5003da8d7e5426cc3f86da3f20f8b</guid>
     </item>
   </channel>
 </rss>
