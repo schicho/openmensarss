@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Fri, 09 Oct 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Wed, 14 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 08 Oct 2026 19:38:43 +0000</pubDate>
+    <pubDate>Tue, 13 Oct 2026 20:02:52 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,22 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Frittatensuppe</title>
+      <title>Maiscremesuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegetarisch (A, C, G, L) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">6e9fa5ea6caee874dd0a8f3b8cbcb54dcf77b5d5b558d6c42a9ebfd2a9d44c99</guid>
+      <description>Vegan (F) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">566eecca0890d821e6d70597041f2e3c6930e6a9f77055aaf84bbb10903932af</guid>
     </item>
     <item>
-      <title>Melanzani überbacken mit Bulgur</title>
+      <title>Zucchini al Greco</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegetarisch (A, G) Students: 4.00, Others: 6.00</description>
-      <guid isPermaLink="false">13bc91a912d5cb2c46fd788e9cc380cd25125220156d9f568d36b5fc1fba6272</guid>
+      <description>Vegetarisch (G) Students: 4.00, Others: 6.00</description>
+      <guid isPermaLink="false">746fa6131640266ceab9fe9ee23ab9e707fd2c611d104b8cf53d1acdc06a6cd5</guid>
     </item>
     <item>
-      <title>Hühnerschnitzel mit Petersilienkartoffeln (PL)</title>
+      <title>Hühner Gemüse Wok mit Reis (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (A, C) Students: 5.00, Others: 7.00</description>
-      <guid isPermaLink="false">16f31e2374dd1924a76f8decd9f6977885728a6e30c98360543fff39d797a53b</guid>
+      <description>Nicht Vegetarisch (L) Students: 5.00, Others: 7.00</description>
+      <guid isPermaLink="false">d3d0eb232fd4e5edcc5b37a68f94a75200a8703956a50c8e1ccb7b42e4b9cad0</guid>
     </item>
   </channel>
 </rss>
