@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 14 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 15 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 13 Oct 2026 20:02:52 +0000</pubDate>
+    <pubDate>Wed, 14 Oct 2026 18:17:03 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>J² = G + B + C</title>
+      <title>O = (SK + KB) · E</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, L, O) Others: 5.20</description>
-      <guid isPermaLink="false">858653738fe58fa01c12d1036600b79bc28fddb1d56d6231e6173c1579a0d51a</guid>
+      <description>Studyteller (E, O) Others: 5.20</description>
+      <guid isPermaLink="false">ffa10d0bb979faa0f734293d9bed09250044ad0a3bc9b3f1344c29da4525c042</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">8a96df08ae65406bdc7098e8f37ded538acbd1b600227fa012b89cc4c11cfd7b</guid>
+      <guid isPermaLink="false">30b2e695458b6df9ea282d8d8b161575b686126246f09912e857635834ec61f8</guid>
     </item>
     <item>
-      <title>Louisiana Style Jambalaya Buntes Gemüse | Bulgur</title>
+      <title>Afrikanischer Eintopf Süßkartoffel | Kichererbsen | Erdnuss</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">b63c741a97b64f9eff1ac1d1983f93c569db14658ba28a48898a2a523129ca53</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (E, O) Others: 7.10</description>
+      <guid isPermaLink="false">7028ce70850ab60de1fc13e26a14d580b62935462cd69236786f9220daf7d75f</guid>
     </item>
     <item>
-      <title>Wiener Paprikahendl Hörnchen | Rahmsauce</title>
+      <title>Faschierter Braten Natursaftl | Erdäpfelpüree</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, O) Others: 8.20</description>
-      <guid isPermaLink="false">1e895a276a7404480f327163a5003b04154d66e1f0f2ef4dd194ff309011954e</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, L, M, O) Others: 8.20</description>
+      <guid isPermaLink="false">54928e9d80431fa1072d50f5834b38f370f03c63286ffb894984fb2ab81805d4</guid>
     </item>
     <item>
-      <title>Little Italy Burger vom BIO-Rind italienischer Hartkäse| Steakhouse Pommes</title>
+      <title>Pasta al Limone Broccoli | Hartkäse | Geröstete Mandeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, O) Others: 12.90</description>
-      <guid isPermaLink="false">54af39e9a44038379faf99cb5e4ab73e717b89df2809ff5dd2f2d2f458672af1</guid>
+      <description>Tagesgerichte (A, C, F, G, H) Others: 6.90</description>
+      <guid isPermaLink="false">7f8557757efb4b4f570f2255a744a068f14b8abf60830a1e05331a0e8db57c21</guid>
     </item>
     <item>
-      <title>Herbstliche Topfen-Kürbislaibchen Apfelkren | Junge Blattsalate</title>
+      <title>Gegrillter Hühnerwrap Gemüsefüllung | Steirischer Kernöldip | Blattsalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, O) Others: 7.60</description>
-      <guid isPermaLink="false">39fa97bdfc71768bd611b8efe7670d22aa59e1d4b51dce14449ab2aa0d933295</guid>
+      <description>Tagesgerichte (A, G, L, O) Others: 10.50</description>
+      <guid isPermaLink="false">bc476b067a50d394f33e7cb86d34b06351abbfc0bf09814829fd224b5ef8efa6</guid>
     </item>
   </channel>
 </rss>
