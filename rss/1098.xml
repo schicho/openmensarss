@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 15 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 16 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 14 Oct 2026 18:17:03 +0000</pubDate>
+    <pubDate>Thu, 15 Oct 2026 17:59:16 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,34 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>O = (SK + KB) · E</title>
+      <title>F = LD + (K ? O) + P</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (E, O) Others: 5.20</description>
-      <guid isPermaLink="false">ffa10d0bb979faa0f734293d9bed09250044ad0a3bc9b3f1344c29da4525c042</guid>
+      <description>Studyteller (A, F, O) Others: 5.20</description>
+      <guid isPermaLink="false">0802e25573abc6d6529114a9585457e185a77ebe88203b42d64a892dc43ae7d1</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">30b2e695458b6df9ea282d8d8b161575b686126246f09912e857635834ec61f8</guid>
+      <guid isPermaLink="false">00c7c62f78408c3edcec77fe40c244fb4f585a293b740814ff6f84a066441e8e</guid>
     </item>
     <item>
-      <title>Afrikanischer Eintopf Süßkartoffel | Kichererbsen | Erdnuss</title>
+      <title>Indisches Linsen-Dal Karotten-Orangen-Salat | Pita-Brot</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (E, O) Others: 7.10</description>
-      <guid isPermaLink="false">7028ce70850ab60de1fc13e26a14d580b62935462cd69236786f9220daf7d75f</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 7.10</description>
+      <guid isPermaLink="false">e37e5164f24462644bb51f9ed16c2868dfcd477befc7d79a79f6bd2321a7e891</guid>
     </item>
     <item>
-      <title>Faschierter Braten Natursaftl | Erdäpfelpüree</title>
+      <title>Curry Pute | Süßkartoffel | Zartweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, L, M, O) Others: 8.20</description>
-      <guid isPermaLink="false">54928e9d80431fa1072d50f5834b38f370f03c63286ffb894984fb2ab81805d4</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, O) Others: 8.20</description>
+      <guid isPermaLink="false">a0e49de5fb6882f274d0a0b7ed78b6fa64d2707b4f12bbdc8fa11d980742c75c</guid>
     </item>
     <item>
-      <title>Pasta al Limone Broccoli | Hartkäse | Geröstete Mandeln</title>
+      <title>Alaska-Seelachsfilet aus nachhaltiger Fischerei Knusprige Erdäpfelpanade | Dillerdäpfel | Sauce Tartare</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, H) Others: 6.90</description>
-      <guid isPermaLink="false">7f8557757efb4b4f570f2255a744a068f14b8abf60830a1e05331a0e8db57c21</guid>
-    </item>
-    <item>
-      <title>Gegrillter Hühnerwrap Gemüsefüllung | Steirischer Kernöldip | Blattsalat</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, G, L, O) Others: 10.50</description>
-      <guid isPermaLink="false">bc476b067a50d394f33e7cb86d34b06351abbfc0bf09814829fd224b5ef8efa6</guid>
+      <description>Tagesgerichte (A, C, D, G, M) Others: 10.90</description>
+      <guid isPermaLink="false">1bc91e6a4008a789f825e51142673372d2eb17f2c57379e5fde15d8e34391604</guid>
     </item>
   </channel>
 </rss>
