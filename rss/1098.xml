@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 16 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 19 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 15 Oct 2026 17:59:16 +0000</pubDate>
+    <pubDate>Sun, 18 Oct 2026 17:03:21 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,34 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>F = LD + (K ? O) + P</title>
+      <title>d/dTier(47°29’55.6&#34; 19°03’43.2&#34;)=0 by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, F, O) Others: 5.20</description>
-      <guid isPermaLink="false">0802e25573abc6d6529114a9585457e185a77ebe88203b42d64a892dc43ae7d1</guid>
+      <description>Studyteller (A, L, O) Others: 5.20</description>
+      <guid isPermaLink="false">c31b10ebbf0493e579dc611f7bef17d7b60c561e1f5dd712f80809be8fd48b77</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">00c7c62f78408c3edcec77fe40c244fb4f585a293b740814ff6f84a066441e8e</guid>
+      <guid isPermaLink="false">eaab98873cad49c79b56f37ef0688641afde63d63ff9d5332766bf8b4fdc553a</guid>
     </item>
     <item>
-      <title>Indisches Linsen-Dal Karotten-Orangen-Salat | Pita-Brot</title>
+      <title>Veganes Gulasch Boanschal | Paprika | Cous Cous</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 7.10</description>
-      <guid isPermaLink="false">e37e5164f24462644bb51f9ed16c2868dfcd477befc7d79a79f6bd2321a7e891</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">15032bc49051c7f2b10882556c9f01a44429ce2e1c9f2dbc09c6d9e7af18bffa</guid>
     </item>
     <item>
-      <title>Curry Pute | Süßkartoffel | Zartweizen</title>
+      <title>Jägerpfandl von der Pute Putenstreifen | Pilzsauce | Spätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, O) Others: 8.20</description>
-      <guid isPermaLink="false">a0e49de5fb6882f274d0a0b7ed78b6fa64d2707b4f12bbdc8fa11d980742c75c</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">91a4c0a544bb26cf9e551988969ab28b78415e9e2f547decd1cb58ad891e3342</guid>
     </item>
     <item>
-      <title>Alaska-Seelachsfilet aus nachhaltiger Fischerei Knusprige Erdäpfelpanade | Dillerdäpfel | Sauce Tartare</title>
+      <title>Gebackenes Schweinsschnitzel Petersilerdäpfel | Zitronenspalte</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, D, G, M) Others: 10.90</description>
-      <guid isPermaLink="false">1bc91e6a4008a789f825e51142673372d2eb17f2c57379e5fde15d8e34391604</guid>
+      <description>Tagesgerichte (A, C, G) Others: 9.70</description>
+      <guid isPermaLink="false">56c120e2a7fe6d3145d67b41261dee961738122ec0e02fbee8e000d57674137a</guid>
+    </item>
+    <item>
+      <title>Ofenkürbis &amp; Polenta Hokkaido | Zitronenpolenta | Mangold</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Tagesgerichte (A, C, F, G, O) Others: 9.30</description>
+      <guid isPermaLink="false">c31c4f7d8ec149e91e8a9b6cd87955f7f18f27439e642bd4554ff447eeefafa0</guid>
     </item>
   </channel>
 </rss>
