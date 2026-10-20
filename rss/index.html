@@ -5,7 +5,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>OpenMensa RSS</title>
-
   <link rel="icon" href="omrss.gif" />
 
   <link rel="preload" href="https://schicho.github.io/shared/FreeSans.woff2" as="font" type="font/woff2" crossorigin>
@@ -23,6 +22,41 @@
   <meta property="og:image:height" content="31">
   <meta property="og:image:alt" content="OpenMensa RSS">
   <meta name="twitter:card" content="summary_large_image">
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://schicho.github.io/openmensarss/#website",
+          "url": "https://schicho.github.io/openmensarss/",
+          "name": "OpenMensa RSS",
+          "description": "RSS feeds generated from OpenMensa canteen data.",
+          "publisher": {
+            "@id": "https://schicho.github.io/#person"
+          },
+          "about": {
+            "@id": "https://github.com/schicho/openmensarss"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://schicho.github.io/#person",
+          "name": "Johann Sebastian Schicho",
+          "url": "https://schicho.github.io"
+        },
+        {
+          "@type": "SoftwareSourceCode",
+          "@id": "https://github.com/schicho/openmensarss",
+          "name": "OpenMensa RSS",
+          "codeRepository": "https://github.com/schicho/openmensarss",
+          "programmingLanguage": "Go",
+          "license": "https://github.com/schicho/openmensarss/blob/main/LICENSE"
+        }
+      ]
+    }
+  </script>
 </head>
 
 <body>
