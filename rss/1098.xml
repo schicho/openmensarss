@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 20 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 21 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 19 Oct 2026 19:37:28 +0000</pubDate>
+    <pubDate>Tue, 20 Oct 2026 18:18:22 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Isotope der Woche 1 77 34 - 90/h 8 9 92 - 15 9 95/m 7 10 by anonymen Physiker</title>
+      <title>P={r,z e R?2| 4.1&lt;r&lt;5.1, -x-25&lt;z&lt;-x+25} by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (F, O) Others: 5.20</description>
-      <guid isPermaLink="false">21a718d84b1256d42d26f2ad967a78d0d9052ba6c20a3b838adf7470d1bafd84</guid>
+      <description>Studyteller (A, H, L, O) Others: 5.20</description>
+      <guid isPermaLink="false">7428af6a3bbc87f1088214a7cef5e9327132c454022992506f70b49e6027900e</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">ae9fb761339b2198990d5fe09a4f5c5cf07130fcda50836e1d39112a47b8103a</guid>
+      <guid isPermaLink="false">8461db557131efa1cdc9e434f9718e0f8d241190b23d6035c1345d7eaecc5c70</guid>
     </item>
     <item>
-      <title>Hirse-Tofu-Pfanne BIO-Tofu | Hirse | Blattspinat</title>
+      <title>Penne Rigate Gemüsebolognese | Erbsen-Rucola-Pesto</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (F, O) Others: 7.10</description>
-      <guid isPermaLink="false">da061b49a7894ba4292a0c305f2bf06c5cb0607c301ef03afa6ff18c8f53b4de</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, H, L, O) Others: 7.10</description>
+      <guid isPermaLink="false">2596d43e81cd79844430643978b46d9c074ef6a8034c12bd79ed74a361e51676</guid>
     </item>
     <item>
-      <title>Rindergeschnetzeltes Paprikarahmsauce | Schupfnudeln</title>
+      <title>Tikka Masala Hühnerfleisch | Masalasauce | Basmatireis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, O) Others: 8.20</description>
-      <guid isPermaLink="false">5191d6c4daed3cef382873b407ec57ec55126fbb63b81b5dd0ecfeea88ed2527</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (F, G, H, O) Others: 8.20</description>
+      <guid isPermaLink="false">ffe7568d40b361625b41711146e7856da5c762bdf7c4fe54c0f4d906f68f65bb</guid>
     </item>
     <item>
-      <title>Tempura-Hühnerstreifen Eiernudeln | indonesisches Wokgemüse</title>
+      <title>Country Burger Bio-Rindfleisch | Potato Wedges | Rotkraut-Coleslaw</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, M, N, O) Others: 10.90</description>
-      <guid isPermaLink="false">ea53bb7b113d5dc634f2ad27ee376d02e5d04defd984e0ade03c537ac017c715</guid>
+      <description>Tagesgerichte (A, C, G, M, N) Others: 12.90</description>
+      <guid isPermaLink="false">dd4deae91ae9e42c903d51b7a12ffeb106486e8dbc879adf94091ec6124cb2fe</guid>
     </item>
     <item>
-      <title>Kartoffel-Feta-Auflauf Kartoffeln | buntes Gemüse | würziger Feta | geröstete Nüsse | Salat</title>
+      <title>Gegrillter Halloumi Grillgemüsesalat | Balsamico Dressing</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (C, G, H, O) Others: 9.90</description>
-      <guid isPermaLink="false">9818cf4ca30f6ae7a6b19320c89648d33006f71bbf522da3af13d76e20364ab7</guid>
+      <description>Tagesgerichte (C, G, M, O) Others: 9.90</description>
+      <guid isPermaLink="false">b7dce48ccff58c5486530164449276624e555b4ae4d1d5cafd4700c76c4c6914</guid>
     </item>
   </channel>
 </rss>
