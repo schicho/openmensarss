@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 21 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 22 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 20 Oct 2026 18:18:22 +0000</pubDate>
+    <pubDate>Wed, 21 Oct 2026 18:20:32 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>P={r,z e R?2| 4.1&lt;r&lt;5.1, -x-25&lt;z&lt;-x+25} by anonymen Physiker</title>
+      <title>580 nm + 15°0’0.00&#34;N 100°0’0.00&#34;E - int(2Curie)dr by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, H, L, O) Others: 5.20</description>
-      <guid isPermaLink="false">7428af6a3bbc87f1088214a7cef5e9327132c454022992506f70b49e6027900e</guid>
+      <description>Studyteller (A, F, O) Others: 5.20</description>
+      <guid isPermaLink="false">8fd538e4d0f920de18814694cbaecf8719a918c0a061c14a4ad50a2b3f3155e0</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">8461db557131efa1cdc9e434f9718e0f8d241190b23d6035c1345d7eaecc5c70</guid>
+      <guid isPermaLink="false">634fe2a937017f2559a73b4b4f0226405e919bff5f1dde79a22132a013ea7ed9</guid>
     </item>
     <item>
-      <title>Penne Rigate Gemüsebolognese | Erbsen-Rucola-Pesto</title>
+      <title>Gelbes Thai-Curry Thai-Gemüsecurry | Bulgur | vegan</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, H, L, O) Others: 7.10</description>
-      <guid isPermaLink="false">2596d43e81cd79844430643978b46d9c074ef6a8034c12bd79ed74a361e51676</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 7.10</description>
+      <guid isPermaLink="false">d20fadbd71b62e42251353c9834d59356a4f8caeadd4155ef42bf3929921973d</guid>
     </item>
     <item>
-      <title>Tikka Masala Hühnerfleisch | Masalasauce | Basmatireis</title>
+      <title>Wiener Hascheehörnchen Rinderhaschee | Knoblauch-Paprika-Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (F, G, H, O) Others: 8.20</description>
-      <guid isPermaLink="false">ffe7568d40b361625b41711146e7856da5c762bdf7c4fe54c0f4d906f68f65bb</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">1e236422a11c587d23d706a67096702b2df26a1fc7ae29f97206e2575f7522b6</guid>
     </item>
     <item>
-      <title>Country Burger Bio-Rindfleisch | Potato Wedges | Rotkraut-Coleslaw</title>
+      <title>Topfenschmarren | Marillenröster</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, M, N) Others: 12.90</description>
-      <guid isPermaLink="false">dd4deae91ae9e42c903d51b7a12ffeb106486e8dbc879adf94091ec6124cb2fe</guid>
+      <description>Tagesgerichte (A, C, G, O) Others: 6.90</description>
+      <guid isPermaLink="false">ba311d70ae129b443d2a9e20fadbcc3944d472b59783ec37a90323e7a2333cb9</guid>
     </item>
     <item>
-      <title>Gegrillter Halloumi Grillgemüsesalat | Balsamico Dressing</title>
+      <title>Erdäpfel-Gnocchi Putenschinkenrahmsauce | italienischer Hartkäse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (C, G, M, O) Others: 9.90</description>
-      <guid isPermaLink="false">b7dce48ccff58c5486530164449276624e555b4ae4d1d5cafd4700c76c4c6914</guid>
+      <description>Tagesgerichte (A, C, F, G, O) Others: 9.30</description>
+      <guid isPermaLink="false">f66031c80237e35ab18915519e1e393f5ea23ce5dcfd1b13b2b47930bb724675</guid>
     </item>
   </channel>
 </rss>
