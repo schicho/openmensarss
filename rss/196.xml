@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mensa UNI Passau (Thu, 22 Oct 2026)</title>
+    <title>Mensa UNI Passau (Fri, 23 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 21 Oct 2026 18:20:32 +0000</pubDate>
+    <pubDate>Thu, 22 Oct 2026 18:15:01 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,76 +14,70 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Nudelsuppe</title>
+      <title>Kartoffel-Lauch-Suppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Suppe (Weizen, Eier, Sellerie, vegetarisch) Students: 0.80, Employees: 1.00, Others: 1.50</description>
-      <guid isPermaLink="false">72b22135a3b65905a3afefac56a6c92506218f1b90a54da7d0be14106d8d92a4</guid>
+      <description>Suppe (Sellerie, vegan) Students: 0.80, Employees: 1.00, Others: 1.50</description>
+      <guid isPermaLink="false">440228f81ff9302eb2594b73a890d1e6366dc8e992b6b1d41211c9c4e5d26374</guid>
     </item>
     <item>
-      <title>Bio-Spaghetti italienisch</title>
+      <title>Gemüsenudeln mit Petersilien-Pesto</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Hauptgerichte (Weizen, Roggen, Dinkel, vegan, DE-ÖKO-006 mit ausschließlich biologisch erzeugten Rohstoffen) Students: 2.30, Employees: 3.30, Others: 6.10</description>
-      <guid isPermaLink="false">bb9e13f5c3b46afe3feaa6adab3db6dd80a574069a030a11bf7ad02876a93553</guid>
+      <description>Hauptgerichte (Weizen, Mandel, Sellerie, vegan) Students: 2.30, Employees: 3.30, Others: 6.10</description>
+      <guid isPermaLink="false">ea2b42af86ea56b912b373a91d99a0b501bee4d6e445c34a6bbc158c8eb89326</guid>
     </item>
     <item>
-      <title>Couscous Bratlinge auf Kokos-Linsenragout</title>
+      <title>Apfel-Heidelbeer-Topfenschmarrn mit Vanillesoße</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Hauptgerichte (Weizen, Hafer, Sellerie, vegan) Students: 3.30, Employees: 4.10, Others: 6.70</description>
-      <guid isPermaLink="false">3e406a1fa48e4bc27372047a8746116ad680c7206792963dd7ac03b6600d5c8e</guid>
+      <description>Hauptgerichte (mit Antioxidationsmittel, Weizen, Eier, Milch und Milchprodukte, vegetarisch, Alkohol) Students: 3.30, Employees: 4.10, Others: 6.70</description>
+      <guid isPermaLink="false">da90047a2d2c7645df8d7667127f5beaa52665adbbdaef75a4a2b813b9cdbaa2</guid>
     </item>
     <item>
-      <title>Chili con Carne mit Baguette</title>
+      <title>Kartoffeltaschen auf Leipziger Allerlei</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Hauptgerichte (mit Antioxidationsmittel, Weizen, Sellerie, Rindfleisch) Students: 3.80, Employees: 4.70, Others: 7.10</description>
-      <guid isPermaLink="false">d2877c84935c9a2a490dd4369483d8d50643ed2651291df637eec45b9788807f</guid>
+      <description>Hauptgerichte (Weizen, Milch und Milchprodukte, Sellerie, vegetarisch) Students: 3.80, Employees: 4.70, Others: 7.10</description>
+      <guid isPermaLink="false">583b8c7b05b4a2da7e1f465d27ee5e2d94b142250fea9247076fed9fe78aa8e1</guid>
     </item>
     <item>
-      <title>Kartoffel-Schinken-Käsegratin</title>
+      <title>Fisch und Chips</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Hauptgerichte (mit Konservierungsstoff, mit Antioxidationsmittel, mit Phosphat, Milch und Milchprodukte, Sellerie, Schweinefleisch) Students: 3.80, Employees: 4.70, Others: 7.10</description>
-      <guid isPermaLink="false">f3d7a8b4c19dbfd41ef976e1d17b97bac6c1d905ac53cdc89d130d0f2a576aee</guid>
+      <description>Hauptgerichte (Weizen, Eier, Fisch, Milch und Milchprodukte, Senf) Students: 4.40, Employees: 5.70, Others: 7.40</description>
+      <guid isPermaLink="false">d29109b3ae64fab4bd8611e8bb08cdec3aee5d14cf35fd4acfa4d517976036f0</guid>
+    </item>
+    <item>
+      <title>Gerstoni</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Beilagen (Gerste, Sellerie, vegan) Students: 1.20, Employees: 1.40, Others: 1.90</description>
+      <guid isPermaLink="false">cbf90619324c3c30029775306b9092a78857f610ba818a3a96769eae37124c05</guid>
     </item>
     <item>
       <title>Gemischter Salat</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Beilagen (mit Farbstoff, mit Antioxidationsmittel, geschwefelt, geschwärzt, enthält Sulfite, Eier, Milch und Milchprodukte, Sellerie, Senf, Schwefeldioxid und Sulfite, vegetarisch) Students: 1.30, Employees: 1.50, Others: 2.00</description>
-      <guid isPermaLink="false">18a9879c5192eb735a87541317c0da4a52d60cec4aecb79f0769bb8b700d89cf</guid>
+      <guid isPermaLink="false">2e20245903be50a28a2231c033fc3ba870f8d2607fde8b6a2165af486be506a4</guid>
     </item>
     <item>
-      <title>veganer Kartoffelstampf</title>
+      <title>Broccoli-Blumenkohlgemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Beilagen (Sellerie, vegan) Students: 1.40, Employees: 1.50, Others: 2.00</description>
-      <guid isPermaLink="false">58da6661583f2017b088991f7418ad6836c7dd8374c135b8b4c297761fb1cfc4</guid>
+      <guid isPermaLink="false">394f32b28b7b96adf96b81f6ed5d0afdd10bc5a88603075251955b55550b2e43</guid>
     </item>
     <item>
-      <title>Rosmarinkartoffeln</title>
+      <title>Bunter Kartoffelsalat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Beilagen (Sellerie, vegan) Students: 1.40, Employees: 1.50, Others: 2.00</description>
-      <guid isPermaLink="false">136def1d722c4d79b0b3fe89c6ef5fefefc147d63285041a1289ea03faab075d</guid>
+      <description>Beilagen (mit Konservierungsstoff, mit Süssungsmittel Saccharin, Sellerie, Senf, vegan) Students: 1.40, Employees: 1.50, Others: 2.00</description>
+      <guid isPermaLink="false">a96c8d1cfd673953f8407aac9958593d77ad70c5bdd871b38863db2e52eda324</guid>
     </item>
     <item>
-      <title>Leipziger Allerlei Gemüse</title>
+      <title>Eierlikör Pudding</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Beilagen (Sellerie, vegan) Students: 1.40, Employees: 1.50, Others: 2.00</description>
-      <guid isPermaLink="false">0b38c6d00bd6e09e4f0dcd4d706c471db496753b8022fab97ceec024211942bb</guid>
+      <description>Nachspeisen (Eier, Milch und Milchprodukte, vegetarisch, Alkohol) Students: 1.00, Employees: 1.20, Others: 1.60</description>
+      <guid isPermaLink="false">29d7ed5d14a8145064c85e3b153b75707dedc3fce0c2d051c415acbbaac04cf6</guid>
     </item>
     <item>
-      <title>Apfel-Zimt-Joghurt</title>
+      <title>Amaretto Creme</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nachspeisen (mit Antioxidationsmittel, Milch und Milchprodukte, vegetarisch) Students: 0.90, Employees: 1.10, Others: 1.60</description>
-      <guid isPermaLink="false">87a4edce0e2a3b40983f8aa5a3c51d20b28d4130c73062401e60f3b348a98ac1</guid>
-    </item>
-    <item>
-      <title>Bio-Vanillepudding</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nachspeisen (Milch und Milchprodukte, DE-ÖKO-006 mit ausschließlich biologisch erzeugten Rohstoffen, vegetarisch) Students: 1.00, Employees: 1.20, Others: 1.60</description>
-      <guid isPermaLink="false">9afb0cf66323dd0ffe25c11fcf814cea2752c16a93a8a12358ca0c06fe38cd71</guid>
-    </item>
-    <item>
-      <title>Tiramisu</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nachspeisen (Milch und Milchprodukte, Alkohol, vegetarisch) Students: 1.20, Employees: 1.50, Others: 1.70</description>
-      <guid isPermaLink="false">c855ef3323c1fce697e0e8541deff2f7bf3f9831987fc4ea48a4a0bfe8f32dd5</guid>
+      <description>Nachspeisen (Milch und Milchprodukte, Mandel, vegetarisch) Students: 1.20, Employees: 1.50, Others: 1.70</description>
+      <guid isPermaLink="false">a5c29ff29438dab0ce8b1a6ac0b60745a7206e1a20ba3a76b2a80506852b3d68</guid>
     </item>
   </channel>
 </rss>
