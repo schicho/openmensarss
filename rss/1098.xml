@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 23 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 27 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 22 Oct 2026 18:15:01 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 14:56:06 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>[(U+1fad8+(U+1f33d)+(U+1f956)]*(U+1f336 U+fe0f) by anonymen Physiker</title>
+      <title>1/f=1/g + 1/b, 1 * (2rPi*h+r?2*Pi), by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, F, O) Others: 5.20</description>
-      <guid isPermaLink="false">d92c87bb15b2f78070dc6ab43b5cf1520dde967a7fe20d6b3a4923172c496b0e</guid>
+      <description>Studyteller (A, F, L, M, O, STUDY TELLER) Others: 5.20</description>
+      <guid isPermaLink="false">1a00f46bc80767631e2af0ae1eabe049f4dbbc5204732bb46a63c39877e62414</guid>
     </item>
     <item>
-      <title>Power-Vitamin Bowl FRISCH, BUNT &amp; VEGAN Unsere veganen Bowls werden täglich neu kombiniert &amp; sind die Mahlzeit für Sonne, Park und Pause</title>
+      <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Power Vitamin Bowl (A, F, M, O) Others: 6.50</description>
-      <guid isPermaLink="false">454643c836609a633caad264a94284bdef24ffbd092d4f3b57c85ea16ec4bc70</guid>
+      <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
+      <guid isPermaLink="false">dabf5d40ca2bc8089d15c570084b43a0823fb5e661e095a52d98576d6db01098</guid>
     </item>
     <item>
-      <title>Mensa-Stil Gemüsechili Bohnen | Mais | Kornspitz</title>
+      <title>Linseneintopf, Salzerdäpfel | Wurzelgemüse | Kräuter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, F, O) Others: 7.10</description>
-      <guid isPermaLink="false">86bf8c00013bf8ad55d1ab9191a53aa49cd2256988d8a70fefca54d80666e81d</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, F, L, M, O, VEGAN) Others: 7.10</description>
+      <guid isPermaLink="false">03478f4988b2cfa0b76ff4c609e26c19856e65e40b027b90d3ae748d9c12126c</guid>
     </item>
     <item>
-      <title>Zitronen-Koriander-Huhn BIO-Dinkelreis | frischer Koriander</title>
+      <title>Esterházy vom Rind, Wurzelgemüse | gebratene Schupfnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, O) Others: 8.20</description>
-      <guid isPermaLink="false">be6fb45207a06f763f5124fbe8c57b746257544dc0f550cf4e5f18da9f2d67aa</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">4e5ac2b881c048b5ee05ffb49c7e9561ae1f439f91f94ace7cf6461822017fde</guid>
     </item>
     <item>
-      <title>Gebratenes Lachsfilet warmer Linsensalat | rote, Beluga- und grüne Linsen</title>
+      <title>Faschierte Laibchen, Pute | Kräuterjus | Erdäpfel-Erbsen-Püree</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (C, D, L, M, O) Others: 13.90</description>
-      <guid isPermaLink="false">a3a0b3eddbc44b3e0b9888a6dcdc0c3580e956319b037291743b8953663838bb</guid>
+      <description>Tagesgerichte (A, C, F, G, L, M, O) Others: 8.60</description>
+      <guid isPermaLink="false">c6eceec385871ed9e8596d6b26c8a3bba48ad9c9067220581a63bf55faf86ff8</guid>
     </item>
     <item>
-      <title>Bio-Tofu Cashew-Kokoscreme | Buchweizen | Koriander</title>
+      <title>Herbstliche Kürbis-Quiche, Österkron | Zwiebel-Birnenmarmelade |, Blattsalate</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (F, H, N, O) Others: 8.60</description>
-      <guid isPermaLink="false">333b1e95485d25e28760998ba33aad9a33c93db9ee7a7f27f9a94f5a3a4f56a8</guid>
+      <description>Tagesgerichte (A, C, G) Others: 9.90</description>
+      <guid isPermaLink="false">edea53d131ff5aff10d1879410c6873ec890b6b39e68e8a8653ad1d7c8461248</guid>
     </item>
   </channel>
 </rss>
