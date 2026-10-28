@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 28 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 29 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 27 Oct 2026 19:12:01 +0000</pubDate>
+    <pubDate>Wed, 28 Oct 2026 19:18:28 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>p*(stx)&#39;&#39;+r*sqrt(-1)k*s(t)&#39;&#39;) + 02-15-01 (EN-60617) + [N] = ?, by anonymen Physiker</title>
+      <title>N, -&gt;O + R([H-O-H]&lt;- sehr kalt)+(4*Pi*rv?2)/2 &lt;- sehr heiß, S, by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, F, G, L, O, STUDY TELLER) Others: 5.20</description>
-      <guid isPermaLink="false">a1c413dfa5f6f62860c8d76b7abf4b916b1faba5e13de454ac58b051419fae15</guid>
+      <description>Studyteller (F, O, STUDY TELLER) Others: 5.20</description>
+      <guid isPermaLink="false">6ea0b11a360cdf35cc4b85b40051e4afaa7438ce6f34193d5801d5b9c4f70a4d</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
-      <guid isPermaLink="false">712d82d43d81b8592d8e1dde1dfc7cbf866656ff282b35dcf3d88ff9e431a725</guid>
+      <guid isPermaLink="false">7dd5b2ce8b4343788de05cce5350f3039451f9753cbd7cb76d33b7dcca9e0863</guid>
     </item>
     <item>
-      <title>Paprika-Erdäpfelgulasch, Grüne Bohnen | Paprika | Semmel</title>
+      <title>Asia Reispfanne, Soja | Reis | buntes Gemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, F, L, O, VEGAN) Others: 7.10</description>
-      <guid isPermaLink="false">493e0b2c99346a5f7f21a9ac8db580065c192b070debbba87451d591f46743de</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (F, O, VEGAN) Others: 7.10</description>
+      <guid isPermaLink="false">f2af952e6d3078c25ded22978e40282c814cff5b1ae94bb0909fca2d14981d3b</guid>
     </item>
     <item>
-      <title>Ofen-Schinkenfleckerl, Knoblauchdip | Schnittlauch</title>
+      <title>Geschmortes Huhn, Cremige Polenta | Mediterrane Kräuter</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, O) Others: 8.20</description>
-      <guid isPermaLink="false">9987b39b00aff676be684c74e7fdb2866fee633df785e49c23a4b4b215e3eee0</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (C, F, G, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">aacca38f389ed971f8111207d4d536614501e22de869969d1c8a479a2b1c9a6e</guid>
     </item>
     <item>
-      <title>Halloween Burger, BIO-Rindfleisch | Gouda | Gurkerl |, Zwiebel | Tomate | Pommes frites</title>
+      <title>Hausgemachter Kaiserschmarren | Zwetschkenröster</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, BIO, C, G, M, O) Others: 12.90</description>
-      <guid isPermaLink="false">b2590f9e50918103ed11c1c30dd3f5aa78b1429096990fae7412042d2acbc6eb</guid>
+      <description>Tagesgerichte (A, C, G) Others: 8.30</description>
+      <guid isPermaLink="false">d575503a651ceaeb5d3254ae626161a5499345b1026e67fc0f879547dec367ba</guid>
     </item>
     <item>
-      <title>Veggie Burger Melanzani, Pommes frites | Avocado-Creme</title>
+      <title>Grillteller, Pommes | Kräuterbutter | BBQ-Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, L, M, N, O) Others: 10.70</description>
-      <guid isPermaLink="false">8cca1c0fd251912d7c8e5871cc03f44abdb9dab29ab8deec838d7e534acfb361</guid>
+      <description>Tagesgerichte (G, L, M) Others: 8.60</description>
+      <guid isPermaLink="false">f266d1651d30c492cad6d213c9d99d0562c019d9c40d7c01480be104e6ee885e</guid>
     </item>
   </channel>
 </rss>
