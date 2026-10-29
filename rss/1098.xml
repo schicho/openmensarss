@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 29 Oct 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 30 Oct 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 28 Oct 2026 19:18:28 +0000</pubDate>
+    <pubDate>Thu, 29 Oct 2026 19:24:02 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>N, -&gt;O + R([H-O-H]&lt;- sehr kalt)+(4*Pi*rv?2)/2 &lt;- sehr heiß, S, by anonymen Physiker</title>
+      <title>int(2Curie)dr+1-sin?2 | ie=y |, by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (F, O, STUDY TELLER) Others: 5.20</description>
-      <guid isPermaLink="false">6ea0b11a360cdf35cc4b85b40051e4afaa7438ce6f34193d5801d5b9c4f70a4d</guid>
+      <description>Studyteller (A, O, STUDY TELLER) Others: 5.20</description>
+      <guid isPermaLink="false">61daf0eddd26596b90616c6dfc4b7822a225292f0415bdc74205ffb0a2f2e346</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
-      <guid isPermaLink="false">7dd5b2ce8b4343788de05cce5350f3039451f9753cbd7cb76d33b7dcca9e0863</guid>
+      <guid isPermaLink="false">c5d97f930c83ad713ec5c4b7970cda8329c0021a4d03fa6a74be154ccf2e9bc0</guid>
     </item>
     <item>
-      <title>Asia Reispfanne, Soja | Reis | buntes Gemüse</title>
+      <title>Curry &amp; Cous Cous, Karfiol | Erdäpfel | orientalische Gewürze</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (F, O, VEGAN) Others: 7.10</description>
-      <guid isPermaLink="false">f2af952e6d3078c25ded22978e40282c814cff5b1ae94bb0909fca2d14981d3b</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, O, VEGAN) Others: 7.10</description>
+      <guid isPermaLink="false">7ad78a1c9d097c1e1d863aa9be2b8aaba8f7c08112a54d1643d69edc6de069d6</guid>
     </item>
     <item>
-      <title>Geschmortes Huhn, Cremige Polenta | Mediterrane Kräuter</title>
+      <title>Putengeschnetzeltes, Sauerrahmsauce | Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (C, F, G, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">aacca38f389ed971f8111207d4d536614501e22de869969d1c8a479a2b1c9a6e</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, G, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">0a76e855338fcaba822c9a7507ae451ea38b52d0deef151c8161b55057c7e793</guid>
     </item>
     <item>
-      <title>Hausgemachter Kaiserschmarren | Zwetschkenröster</title>
+      <title>Curry Madras, Melanzani | Kichererbsen | Hirse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G) Others: 8.30</description>
-      <guid isPermaLink="false">d575503a651ceaeb5d3254ae626161a5499345b1026e67fc0f879547dec367ba</guid>
+      <description>Tagesgerichte (G, L, O) Others: 7.20</description>
+      <guid isPermaLink="false">4404b5a9ca149162746d3f72b52f2906db7a0eaceb83ac101a28723fcd07ad0f</guid>
     </item>
     <item>
-      <title>Grillteller, Pommes | Kräuterbutter | BBQ-Dip</title>
+      <title>Gebackenes Seelachsfilet aus nachhaltiger Fischerei, Sesampanade | Broccoligemüse | Kürbispüree</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (G, L, M) Others: 8.60</description>
-      <guid isPermaLink="false">f266d1651d30c492cad6d213c9d99d0562c019d9c40d7c01480be104e6ee885e</guid>
+      <description>Tagesgerichte (A, D, F, G, MSC, N, O) Others: 9.90</description>
+      <guid isPermaLink="false">3c833aa10917d40014767c98978137f64b2cba095323952196b3626cd37a857e</guid>
     </item>
   </channel>
 </rss>
