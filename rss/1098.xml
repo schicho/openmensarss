@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 02 Nov 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 03 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 01 Nov 2026 18:44:00 +0000</pubDate>
+    <pubDate>Mon, 02 Nov 2026 17:58:07 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Gefüllte Paprika, Couscous | Kräuter-Tomatenragout</title>
+      <title>500 scoville, sin(d/dval(Carneval)), by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, L, O) Others: 5.20</description>
-      <guid isPermaLink="false">d76ddc67e8071e5d059a29de8c47df8cd3617037d7c3f99833dc52d1348782c0</guid>
+      <description>Studyteller (F) Others: 5.20</description>
+      <guid isPermaLink="false">3188068b91aebe904a305d0f5db4422865849cf8288153bf9bf55a5d7c95fce9</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
-      <guid isPermaLink="false">79b3123ad47e91ab0b362ddb7a9493d12ce22316d356463f1b5a6066d59f4288</guid>
+      <guid isPermaLink="false">0331b1014aa16665726955c7bfd39db6eb2d0eb2bad65ff2604571dd89c6526e</guid>
     </item>
     <item>
-      <title>Gefüllte Paprika, Couscous | Kräuter-Tomatenragout</title>
+      <title>Chili sin Carne, Bohnen | buntes Gemüse | Gewürze</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, L, O, VEGAN) Others: 7.10</description>
-      <guid isPermaLink="false">d76ddc67e8071e5d059a29de8c47df8cd3617037d7c3f99833dc52d1348782c0</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (F, VEGAN) Others: 7.10</description>
+      <guid isPermaLink="false">ca31ae36ebc0a3cb481db753802020e497a253c5877ad4a27449a64a3741087c</guid>
     </item>
     <item>
-      <title>Rindergeschnetzeltes, Stroganoff-Sauce | Spätzle</title>
+      <title>Hühnerfilet, buntes Gemüse | Zartweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, L, M, O) Others: 8.20</description>
-      <guid isPermaLink="false">4a3f4516ccbbe41456c353f77960cf1d287f0d6f36df704b46c5c3fe3b1e4c73</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">558be1d7dde2fcf95e80f832a5ad033f8e6a22d6eb4aa3c221586a099bab4987</guid>
     </item>
     <item>
-      <title>Pute vom Grill, Waldpilzsauce | Bratkartoffeln |, Thymian-Röstzwiebeln</title>
+      <title>Asia-Nudeln, knackiges Gemüse | BIO-Tofu</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, G, O) Others: 10.30</description>
-      <guid isPermaLink="false">3ac6d88deaf25ec5f3f8cd2eeb84d2586b1a968e3ba366215a08a46e57476f6e</guid>
+      <description>Tagesgerichte (A, C, F, G, N, O) Others: 7.20</description>
+      <guid isPermaLink="false">685940fe153be399ffebade6342176c21a7699c0cdec0b88bbf3f6e22822d033</guid>
     </item>
     <item>
-      <title>Halloumi-Linsen-Makhani, Buchweizen | Rucola-Pesto</title>
+      <title>Wok vom Schwein, knackiges Gemüse | Jasminreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (C, F, G, H, O) Others: 7.90</description>
-      <guid isPermaLink="false">30ed10cd5f4442ea2c62025be912637905a0f90649df636aef6bddc1bc4a8bda</guid>
+      <description>Tagesgerichte (A, F, G, O) Others: 8.60</description>
+      <guid isPermaLink="false">d413a760c2a325d87d55c4d2be31a0d7fb960d3ad662b6b6a6cb16536e615a01</guid>
     </item>
   </channel>
 </rss>
