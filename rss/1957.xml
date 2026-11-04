@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Wed, 04 Nov 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Thu, 05 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 03 Nov 2026 20:23:47 +0000</pubDate>
+    <pubDate>Wed, 04 Nov 2026 20:39:05 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,22 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Maiscremesuppe</title>
+      <title>Kürbiscremesuppe</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Vegan (F, L) Students: 4.50, Others: 6.50</description>
+      <guid isPermaLink="false">40f3b8feacfef3cf6faf3428862a76236169eac072fad52f78816c19927e7a93</guid>
+    </item>
+    <item>
+      <title>Dillfisolen mit Rösti</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Vegan (F) Students: 4.50, Others: 6.50</description>
-      <guid isPermaLink="false">e7ce1dd7b7d6abf079666d798dc6a7ca592f47465b8c55e4917143dde84ae9e0</guid>
+      <guid isPermaLink="false">fe02ce6e5a0ec90cd73b156be5aa7cef5e33ff2289c09c3de7f7aafd1883130e</guid>
     </item>
     <item>
-      <title>Pasta Spinaci mit Feta</title>
+      <title>Hühnercurry mit Reis (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (A, F, G) Students: 4.50, Others: 6.50</description>
-      <guid isPermaLink="false">b0757ec617a3021ce2a989b0ef014468cdc2fe11b0dd1e76faf6aedc6ab3f4f7</guid>
-    </item>
-    <item>
-      <title>Naturschnitzel vom Schwein in Champignonsauce mit Reis (AT)</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (L) Students: 5.50, Others: 7.50</description>
-      <guid isPermaLink="false">d2d09f365f4d42dac401793989a6dc2cfd1b356dab7372c56f05c71dba181c43</guid>
+      <description>Nicht Vegetarisch (F, L) Students: 5.50, Others: 7.50</description>
+      <guid isPermaLink="false">324eecba928c8f76cf9d8dff796d08c23ab4f4b2299d82162bf557243c0541d2</guid>
     </item>
   </channel>
 </rss>
