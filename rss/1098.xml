@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 05 Nov 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 06 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 04 Nov 2026 20:39:05 +0000</pubDate>
+    <pubDate>Thu, 05 Nov 2026 20:55:06 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>int(Qualle/alle *(PSE:(13, 5))dx |x=oa| -(4*pi*r?2)/2 &lt;- sehr heiß, by anonymen Physiker</title>
+      <title>7°57’N 1°12’W (M+s+l)*a |G=C|, by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Studyteller (O, STUDY TELLER) Others: 5.20</description>
-      <guid isPermaLink="false">732c05796888f3cf9fe4b6aa36b0529e3ea0823c9e2b669c79ab311ccd9f1bf5</guid>
+      <guid isPermaLink="false">edde128f6660375cdb8b7da7d0a3e376bdc6995c3214401e52c27e0fd9101b1a</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
-      <guid isPermaLink="false">3a505acfb3d8f1150b1d32fe2f28032b911bc5f147e6770a52743212b4a44c32</guid>
+      <guid isPermaLink="false">0fbd7e274de6efcafbacdbb2a8b06ad489bba66c04b6b4f056a2491683b405e1</guid>
     </item>
     <item>
-      <title>Quinoa-Pfanne, Gemüse | Kräuter</title>
+      <title>Chana Masala, Kichererbsen | Tomaten |, orientalische Gewürze</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (O, VEGAN) Others: 7.10</description>
-      <guid isPermaLink="false">b99ef5a20c047c555c2619a8752cc4f1e45f00b46dd2b971182203fe586e8739</guid>
+      <guid isPermaLink="false">ac532e77e18055285071115ed9fd765790a8a95c6d9a65d6bc85c0617f86311f</guid>
     </item>
     <item>
-      <title>Ragout vom Schwein, Käferbohnen | gebratene Schupfnudeln</title>
+      <title>Erdäpfelgnocchi, Hühnerstreifen | Pesto Rosso | Rucola</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">19cf12002ec291fd9017963ea773f88a7c80cceb6ca85aa4a8332df3a270a7f9</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, O) Others: 8.20</description>
+      <guid isPermaLink="false">7ace838c4669bdbbea02a666e041f00281982b566e5f2d7dcfc1a070674f2b7c</guid>
     </item>
     <item>
-      <title>Geröstete Knödel, Ei | Blattsalat</title>
+      <title>Zanderfilet, Rote-Rüben-Risotto | Kürbisstroh</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, O) Others: 7.60</description>
-      <guid isPermaLink="false">2c8f2272974e35d697e8d7cc40b962c591caf150cff14b415a8be27eb192dea6</guid>
+      <description>Tagesgerichte (L, O) Others: 13.90</description>
+      <guid isPermaLink="false">6a7c12f4d7fd26416844852846c31c6ddcde423a4b3b655bd5feab3c7f6b02cb</guid>
     </item>
     <item>
-      <title>Pute Szegediner Art, Paprikakraut | Salzerdäpfel</title>
+      <title>Polenta-Gemüseschnitte, Zucchini &amp; Paprika | Zitronen-Gremolata</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (G, O) Others: 9.90</description>
-      <guid isPermaLink="false">7ee9c351c6584ffbd4cff5f2a797790a76f0724d6554b00c044fa8ef76f0417b</guid>
+      <description>Tagesgerichte (C, G, H, L, O) Others: 7.60</description>
+      <guid isPermaLink="false">3abfae45e7ca6fd7437e57be4e93493c45889863fbd05cdb99a62e801890fefa</guid>
     </item>
   </channel>
 </rss>
