@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 09 Nov 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 10 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 08 Nov 2026 18:37:56 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 18:28:12 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>PSE[16, 91, 7, 53, 21, 2], R * H2O &lt; - (370K)*(2rpih+r^2pi, h=r/4), by anonymen Physiker</title>
+      <title>Location(kürbiskernöl) VW(1938-2003) (x^2+y^2)^2=x^3+y^3, by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (O, STUDY TELLER) Others: 5.20</description>
-      <guid isPermaLink="false">c63400541ac9d5e8fad84dfb29ad69f01ae90ed2c155d9b4df6347217e43b4f0</guid>
+      <description>Studyteller (A, O, STUDY TELLER) Others: 5.20</description>
+      <guid isPermaLink="false">fc50b24d6f0ee5705b36b62b2704c01f4b472088b25011d011e844084a324ca6</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
-      <guid isPermaLink="false">baac10b0d03370dea7bea0c7d8e3ac0884a0f2d1303aa80abe9e6e5d1084f837</guid>
+      <guid isPermaLink="false">4b52064a706bf06988ab21ddcd4e6823f9daa8e5a68d920cb4c68f8b832f1fd3</guid>
     </item>
     <item>
-      <title>Spanische Reispfanne, Gemüse | Safran | Rucola</title>
+      <title>Steirische Käferbohnen, Chili | Dinkelreis</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (O, VEGAN) Others: 7.10</description>
-      <guid isPermaLink="false">2cf88888392d24f0b4bb7afc9259ea6ce6b1dc3569ba0377396e99b6db541a70</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, O, VEGAN) Others: 7.10</description>
+      <guid isPermaLink="false">aca5a8816e29c98cc65a3b7094b2a49bf89c1d26e2a5979a0096fb39202834a6</guid>
     </item>
     <item>
-      <title>Rind aus Österreich, Majoransauce | Spätzle</title>
+      <title>Putengyros, Reis | Tzatziki</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">94f2a8ee7fb4b2ecc5abd0012e45206088bf3f1c8e8f28065ed18e1a3d02c9b5</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, F, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">00d04dd7b20a5373ac7ef05d5d3d6c194399d988adce17cd273fdc228a5e153a</guid>
     </item>
     <item>
-      <title>Makkaroni, Huhn | Österkron | Spinat | Tomate</title>
+      <title>Chicken Wings, Knoblauchdip | knackige Blattsalate</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, O) Others: 10.30</description>
-      <guid isPermaLink="false">d2daf400cc5caa108df74d213d5995f1c1f92e2b7b556b32a78010fab7b2047e</guid>
+      <description>Tagesgerichte (A, F, G, M, N, O) Others: 12.90</description>
+      <guid isPermaLink="false">9bdb58b3fdc54fff1f5e4123b90562887f7441d494ec2235d9635c9fe2c7a9be</guid>
     </item>
     <item>
-      <title>Indisches Pilz-Bhaji, Couscous | Minz-Koriander-Joghurt | Pita</title>
+      <title>Mediterranes Kürbisragout, Tagliatelle | Basilikum-Frischkäse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, F, G, L, O) Others: 8.60</description>
-      <guid isPermaLink="false">1a4d27ef8f1093fffc022e56a43bd2d4357ad34de2263b955a501d08d851586a</guid>
+      <description>Tagesgerichte (A, C, G, H, L, O) Others: 7.20</description>
+      <guid isPermaLink="false">a21c2cb4e7e963aea9a8cd20241763056a60ed3a0701a7238b833bb4ef89505f</guid>
     </item>
   </channel>
 </rss>
