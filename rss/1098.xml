@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 12 Nov 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 13 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 11 Nov 2026 21:01:42 +0000</pubDate>
+    <pubDate>Thu, 12 Nov 2026 21:16:56 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>[Saccharose r = 6 378km 4/3 * pi * r^3 [N]] + [e^in * Integral(Top df)], by anonymen Physiker</title>
+      <title>r = 6 378km, 4/3 * pi * r^3 (Z_(n+1)=z_n^2 + c)/Männchen, G(o) = d/do(Pinocchio/(arccos(-1))), by anonymen Physikern</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (E, O, STUDY TELLER) Others: 5.20</description>
-      <guid isPermaLink="false">a3b6031c3d567bf68c8c57b9cc681c18523fd2ae8d3a51d41d23f897de0385b5</guid>
+      <description>Studyteller (A, L, O, STUDY TELLER) Others: 5.20</description>
+      <guid isPermaLink="false">2259844cdcec1213087a200df9baae56cfdaa4828d0dca23a2ed455af5d6c304</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
-      <guid isPermaLink="false">c34ea8091ef7c83a3cb2c2a2d95ed0b87a047015185ecb486b1efea95780ecd8</guid>
+      <guid isPermaLink="false">a87d04307374bff8d0b1e95ee6e186d2292c409172690e80009afaeb5abf15cb</guid>
     </item>
     <item>
-      <title>Süßkartoffel Eintopf, Erdnüsse | Kichererbsen</title>
+      <title>Erdäpfel-Gnocchi, Grünkern-Bolognese | Rucola Toping</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (E, O, VEGAN) Others: 7.10</description>
-      <guid isPermaLink="false">47c5533aeaf49f0d315f7a3c65b281aea0662227b6f2eff970424df3607bf68c</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, L, O, VEGAN) Others: 7.10</description>
+      <guid isPermaLink="false">349c8c190a508480fd08e7b4dbee52bcba4d1b58f3232ae59994171c71b49389</guid>
     </item>
     <item>
-      <title>Faschierter Braten, Natursauce | Erdäpfelpüree</title>
+      <title>Süßkartoffel-Curry, Pute | Zartweizen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, L, M, O) Others: 8.20</description>
-      <guid isPermaLink="false">25f94a8d66533e9745e353417f8d8e15a68062a87a92e8bd566d9c92c32f5e97</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, O) Others: 8.20</description>
+      <guid isPermaLink="false">9a7dedffcdbf865c8f758853f0bf1aa6999545aa093f845946d69f53e7dc62a0</guid>
     </item>
     <item>
-      <title>Gegrilltes Schweinsschopfsteak, Gemüse-Eiernudeln | Speckbohnen</title>
+      <title>Gebratenes Rotbarschfilet aus nachhaltiger Fischerei, Gemüse-Gröstl | Kresse-Sauerrahm-Dip</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, N, O) Others: 10.90</description>
-      <guid isPermaLink="false">bbee57830cb3703862f3bc95412ac0da2247f1f59979b3289ff03473a650397a</guid>
+      <description>Tagesgerichte (A, G, MSC, O) Others: 12.90</description>
+      <guid isPermaLink="false">423a155dc3f2eba559e49f0a47fdedb01ec2caa89524f8e7791c03b1c606c6d1</guid>
     </item>
     <item>
-      <title>Maroniknödel, Butterbrösel | Preiselbeerschaum | Zwetschkenröster</title>
+      <title>Linsen-Dal, gerösteter Karfiol | Tahin | Quinoa</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G) Others: 7.60</description>
-      <guid isPermaLink="false">c6b39fd292fda469a6d9d1038623fd113db4416420ee5e24659fb2a50a4d052b</guid>
+      <description>Tagesgerichte (A, C, O) Others: 7.20</description>
+      <guid isPermaLink="false">22d2b4b182225fba839d185941a5941c1506b2b275b0e8991f77324dcfa195e8</guid>
     </item>
   </channel>
 </rss>
