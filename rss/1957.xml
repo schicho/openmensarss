@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Fri, 13 Nov 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Mon, 16 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Thu, 12 Nov 2026 21:16:56 +0000</pubDate>
+    <pubDate>Sun, 15 Nov 2026 19:31:38 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,22 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Backerbsensuppe</title>
+      <title>Gemüsecremesuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegetarisch (A, C, L) Students: 4.50, Others: 6.50</description>
-      <guid isPermaLink="false">a47cea927eaf21e5eaf0e43fd413642d3144705740d3e729c04c54d52795d9b4</guid>
+      <description>Vegan (F, L) Students: 4.50, Others: 6.50</description>
+      <guid isPermaLink="false">b5c56255492053539d75d63bc9ace963d0c425fca5f289db0ae8d32a4aacbcfa</guid>
     </item>
     <item>
-      <title>Melanzani überbacken mit Bulgur</title>
+      <title>Kürbispasta</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegetarisch (A, G) Students: 4.50, Others: 6.50</description>
-      <guid isPermaLink="false">82867b1ccb83171b584f18c2a05e48b7fcd5c9809bae7c79d06f51ebc3f1d3f7</guid>
+      <description>Vegan (A) Students: 4.50, Others: 6.50</description>
+      <guid isPermaLink="false">6f6e251e8b55a8cfb49428731f110b02c2457424db344ba5428bb0aa5cc16de4</guid>
     </item>
     <item>
-      <title>Gebackener Zander mit Petersilienkartoffeln (PL)</title>
+      <title>Orientalischer Hühnereintopf mit Polenta (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (A, C) Students: 5.50, Others: 7.50</description>
-      <guid isPermaLink="false">9abd6c2a8aa6468328d1033e485277e16208cb953edeafa30fcb7f50fedfd2dc</guid>
+      <description>Nicht Vegetarisch (L) Students: 5.50, Others: 7.50</description>
+      <guid isPermaLink="false">a24ed8d2cea521bbc08d87282d7876e6eabe048875532edc7b4e4f23eceb699f</guid>
     </item>
   </channel>
 </rss>
