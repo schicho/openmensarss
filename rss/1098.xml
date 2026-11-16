@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 16 Nov 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 17 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 15 Nov 2026 19:31:38 +0000</pubDate>
+    <pubDate>Mon, 16 Nov 2026 18:04:57 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Ö(6.) + Würgeschlange/Constrictor * n (syn(Halstuch), l=r) * 1 dm^3 *, Kfz({y e X|d(Graz, y) &lt; epsilon}) * EN(üppig), by anonymen Physiker</title>
+      <title>Psalm 23 t=s * (m*v, m*a, v/t, n^2, m*c^2), by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, L, O, STUDY TELLER) Others: 5.20</description>
-      <guid isPermaLink="false">d8324d36ea1ea439cace4f28b71d9133a753d9cd4ede5286018a80619b21c079</guid>
+      <description>Studyteller (F, O, STUDY TELLER) Others: 5.20</description>
+      <guid isPermaLink="false">f885eef20aa0fdc172a14e5a0cb37220962f29ee7d9e94fee8b434299fbec012</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
-      <guid isPermaLink="false">1182e6fe846aab698e4bed0ffcb3f8f8e8c8edf39c00d3b3ed139a752f20f01f</guid>
+      <guid isPermaLink="false">244b1518e229972719738c8171303f8d7e67af99568650820ee561fa14dd9c60</guid>
     </item>
     <item>
-      <title>Steirisches Boanscharlgulasch, Paprika | Couscous | Kräuter</title>
+      <title>Hirsepfanne, Spinat | Gemüse | Tofu</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, L, O, VEGAN) Others: 7.10</description>
-      <guid isPermaLink="false">2f48873c1f9d641f4c30dd509d0f99018dfeb9040e0d27884059b25f65eece98</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (F, O, VEGAN) Others: 7.10</description>
+      <guid isPermaLink="false">5a9b3d5bdced84c7ddceada921a574e4a5ecb48c83e174cf1acd31abfe9228fe</guid>
     </item>
     <item>
-      <title>Putenragout Jägerart, Champignons | Rahmsauce | Spätzle</title>
+      <title>Rind aus Österreich, Rinderstreifen | Paprikarahmsauce |, Gebratene Schupfnudeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">962e907d9a3cdd4c701f8220da3331dbd7d507562d18b12b38486f08d71a500a</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">03225ffdd6ad2397e7290d7dcb67eb723b8ec38becd4edf3f4b68b55742dd6b5</guid>
     </item>
     <item>
-      <title>Wiener Schnitzel vom Schwein, Petersilerdäpfel | Zitrone</title>
+      <title>Gulasch vom Hokkaido Kürbis, Käferbohnen | Paprika |, Buchweizen | karamelisierte Kürbiskerne</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C) Others: 9.70</description>
-      <guid isPermaLink="false">9d57638446dfbe231078a16208de62d70c13465e2e8a5d7987379e3d278d135a</guid>
+      <description>Tagesgerichte (A, C, G, L, M, O) Others: 7.20</description>
+      <guid isPermaLink="false">07d0dd4b7f025f682e01bdb407e0ef40a8541b5ba5b4cbd8ac02d07339176f80</guid>
     </item>
     <item>
-      <title>Erdäpfel- &amp; Süßerdäpfelgnocchi, Rahm-Schwarzwurzeln | Basilikumpesto |, Bergkäse</title>
+      <title>Putenbratwürstel vom Grill, Wirsing | cremige Polenta | Röstzwiebel</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, H, O) Others: 7.90</description>
-      <guid isPermaLink="false">61cbe11bf328c488ee0a34927618e2c4bf8e52c631620e3bcf0dc124c37b8439</guid>
+      <description>Tagesgerichte (A, C, F, G, L) Others: 10.50</description>
+      <guid isPermaLink="false">15b22c01150e8b2d6513b6f8d25f4a1f172488c22d329caf486a0fd69c933cbd</guid>
     </item>
   </channel>
 </rss>
