@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Tue, 17 Nov 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Wed, 18 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 16 Nov 2026 23:10:38 +0000</pubDate>
+    <pubDate>Tue, 17 Nov 2026 21:59:54 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,22 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Kürbiscremesuppe</title>
+      <title>Karotten-Kokossuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Vegan (F) Students: 4.50, Others: 6.50</description>
-      <guid isPermaLink="false">57ecc60c2f2939348615a1875db6dbbf1190eb636e9742c5819ca50012cbb798</guid>
+      <guid isPermaLink="false">c8abcf44641a59ff4adefb935b3ffe02b01b8044dc75096ce36337624544d412</guid>
     </item>
     <item>
-      <title>Ratatouille mit Bulgur</title>
+      <title>Gemüselasagne</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (A) Students: 4.50, Others: 6.50</description>
-      <guid isPermaLink="false">c5c7676fd7aced48bb57f75faf86998f456a2ce79e6cf327a329218b315f0b9f</guid>
+      <description>Vegetarisch (A, C, G) Students: 4.50, Others: 6.50</description>
+      <guid isPermaLink="false">7b33d2c87a9f8e260f84f2cd5549fe3c96389ab3c992ba359ba9265e6fe2c9df</guid>
     </item>
     <item>
-      <title>Wildschweinragout mit Bratkartoffeln (AT)</title>
+      <title>Hühner-Reisfleisch (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Nicht Vegetarisch (L) Students: 5.50, Others: 7.50</description>
-      <guid isPermaLink="false">c92502ff659ef97c8f85d54bed61e6743cd0855776143d5e5c54bd7ab6b992bb</guid>
+      <guid isPermaLink="false">4222e352a6b73ac99d19be7c0cd0f61dd31c088c93c9c19c216a12e877d05d26</guid>
     </item>
   </channel>
 </rss>
