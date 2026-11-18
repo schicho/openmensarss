@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 18 Nov 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 19 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 17 Nov 2026 21:59:54 +0000</pubDate>
+    <pubDate>Wed, 18 Nov 2026 21:41:19 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>P={x, y, z e R|4.1 &lt; x^2 + y^2 &lt; 5.1, -x - 25 &lt; z &lt; -x + 25}, by anonymen Physiker</title>
+      <title>TU Gebäude DB + Teilchen(1777 MeV/c^2, u=i) - int(int(2Cuy)dr)dr, by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (A, H, L, O, STUDY TELLER) Others: 5.20</description>
-      <guid isPermaLink="false">d5a4cc72d78e0e4b285ad971f6fcf57caab0a52e9a9eb9c8b2d76394f5137724</guid>
+      <description>Studyteller (A, F, O, STUDY TELLER) Others: 5.20</description>
+      <guid isPermaLink="false">d31781ee148096ab221d8a8e415e1d6e6b971e88f4fbc9bcaf7e77a8388ae469</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
-      <guid isPermaLink="false">100d4fbdacec006930b9cccbc25de1f7d7441f96367119a1cd9e7c800978c865</guid>
+      <guid isPermaLink="false">6427b4445308ca6c52b4f5e4d9ec2fb4368ac168103d3fe8a90de44c3b3a8bc9</guid>
     </item>
     <item>
-      <title>Penne Rigate, Gemüsebolognese | Erbsen-Rucola-Pesto</title>
+      <title>Gelbes Thai-Curry, Gemüse | Kokosmilch | Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, H, L, O, VEGAN) Others: 7.10</description>
-      <guid isPermaLink="false">5b1f0ecde4b3aa49575d0c004447db639c8b55190ec20640d1a4a7eaeb60361e</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, F, O, VEGAN) Others: 7.10</description>
+      <guid isPermaLink="false">e6c1c68cb614c64be03288dc2b40f3e1c0d6fe0faa223c4db42f5d16301f7c13</guid>
     </item>
     <item>
-      <title>Tikka Masala, Basmatireis | Hendl | Gewürze</title>
+      <title>Rindfleisch-Hasche, Knoblauch-Paprika-Dip | Hörnchen</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (F, G, H, O) Others: 8.20</description>
-      <guid isPermaLink="false">57ab0395b31fb065a4b56cae14b3a73cf786c2b1c2967759e246268d54313900</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, G, O) Others: 8.20</description>
+      <guid isPermaLink="false">0c2d5342e69921e6a7105e6c570a70a26b5c53db27d5a595f2a816404de03bd5</guid>
     </item>
     <item>
-      <title>BBQ Beef Burger, Bio-Rindfleisch | Potato Wedges | Coleslaw</title>
+      <title>Reisauflauf, Apfelkompott | Karamellsauce</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, BIO, C, F, G, M, N, O) Others: 12.90</description>
-      <guid isPermaLink="false">67306c552d845ffab22a991b724b88de4c99907796ed727e096e492fe2a8f203</guid>
+      <description>Tagesgerichte (C, G, O) Others: 7.20</description>
+      <guid isPermaLink="false">f850107586db83f27e39c4ec8d495b3948b5ac6908f16623b573f24b62840912</guid>
     </item>
     <item>
-      <title>Burger mit gebackenem Gouda, Hausgemachter Bun | Potato Wedges |, Sauce Tartare</title>
+      <title>Tacos, Pulled Pork | Chili-Mayo | Salat</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, F, G, M, O) Others: 10.70</description>
-      <guid isPermaLink="false">fb011ecab17c61e76a815b2ecda8049505122d3712c2e9f0014fd9c864cb55d7</guid>
+      <description>Tagesgerichte (A, C, M, O) Others: 10.50</description>
+      <guid isPermaLink="false">9c2d731a2bf6f3438273870140e72ea39038aa6bfd6644eb201a40455cc63968</guid>
     </item>
   </channel>
 </rss>
