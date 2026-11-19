@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Akademie der bildenden Künste Wien (Thu, 19 Nov 2026)</title>
+    <title>Akademie der bildenden Künste Wien (Fri, 20 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 18 Nov 2026 21:41:19 +0000</pubDate>
+    <pubDate>Thu, 19 Nov 2026 21:57:06 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,22 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Alt-Wiener Suppe</title>
+      <title>Backerbsensuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegan (L) Students: 4.50, Others: 6.50</description>
-      <guid isPermaLink="false">40c97c41ae2fec68c23a12c8cd29d8f16517d304da87d1a9f62538870615156a</guid>
+      <description>Vegetarisch (A, C, L) Students: 4.50, Others: 6.50</description>
+      <guid isPermaLink="false">883e4fe6e2efe781af7588bcb307d0bc5a8641bed0534f17b39cca7e096b4c31</guid>
     </item>
     <item>
-      <title>Spinatknödel mit Käsesauce</title>
+      <title>Melanzani überbacken mit Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Vegetarisch (A, C, G) Students: 4.50, Others: 6.50</description>
-      <guid isPermaLink="false">5353a40185de8311fe8888bda880ba7cbed31b59bdc7789211e05d03ec691e52</guid>
+      <description>Vegetarisch (A, G) Students: 4.50, Others: 6.50</description>
+      <guid isPermaLink="false">c4f27f4b43fa457f2bef42fc058664ab2120f8a600f38d8da2e957b60bd95445</guid>
     </item>
     <item>
-      <title>Pasta Bolognese (AT)</title>
+      <title>Gebackener Zander mit Petersilienkartoffeln (PL)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nicht Vegetarisch (A, L) Students: 5.50, Others: 7.50</description>
-      <guid isPermaLink="false">e96605973cbbf98ccda755b01681814e25e5f8bad9986cb9b6f547901accadea</guid>
+      <description>Nicht Vegetarisch (A, C) Students: 5.50, Others: 7.50</description>
+      <guid isPermaLink="false">95affbead2c30b181ae12c0093cfdc8b7e38263825c44a02125002b341c61403</guid>
     </item>
   </channel>
 </rss>
