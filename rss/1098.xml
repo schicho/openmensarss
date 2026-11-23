@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Mon, 23 Nov 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Tue, 24 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Sun, 22 Nov 2026 20:33:46 +0000</pubDate>
+    <pubDate>Mon, 23 Nov 2026 19:56:31 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Matrosenküche, Komb=EN(Edelstein) - Kupfer * int(2 * r dr) * Yttrium +, (d/dt (p) * d/dr (d*r^2/2)*a+s, by anonymen Physiker</title>
+      <title>1/f=1/b + 1/g, + e^(in) int(d/dK(Kopf)dT), by anonymen Physiker</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (L) Others: 5.20</description>
-      <guid isPermaLink="false">37c025d07160b40b2d2e21332779053186cc4ef93ad3a9ef2dff8cb17a472ef3</guid>
+      <description>Studyteller (A, F, L, M, O) Others: 5.20</description>
+      <guid isPermaLink="false">3cafc0e7dda5e99b50a627330dff5262dbb5b24f242db3d9ff77e1b5f1829dca</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
-      <guid isPermaLink="false">716b1199263f581570d15af18b8b58ec755e89f354e9f1ef56e6ba9d8967f503</guid>
+      <guid isPermaLink="false">51d22ef4abc3bc5bad75c57897d87e70adf5b58a9fa83dd5c8507504d6fb3725</guid>
     </item>
     <item>
-      <title>Gemüse-Curry Madras, Kurkuma | Ingwer | Kreuzkümmel |, Jasminreis</title>
+      <title>Linseneintopf, Salzkartoffeln | Gelbe Rüben</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (L, VEGAN) Others: 7.10</description>
-      <guid isPermaLink="false">b16c5cd4983e0b5398f2606133b0c167e54995fc6229b30850bea24b81bf4e46</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, F, L, M, O, VEGAN) Others: 7.10</description>
+      <guid isPermaLink="false">89d25e5eab6161740987f7cb1035abac8790135368ceecb468dafb5e7a5e5c72</guid>
     </item>
     <item>
-      <title>Hühnergeschnetzeltes, Süß-Sauer-Sauce | Eiernudeln</title>
+      <title>Esterházy-Rahmgeschnetzeltes, Heimisches Rind | Spätzle</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, G, N, O) Others: 8.20</description>
-      <guid isPermaLink="false">55a9591180bff86fe5b245da6a07845e008879108c3bcbaf26dac4587a0da358</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, C, F, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">ce064d56ad703ac9c9269af31b094424b743e0a36980c7b791ba96a63d23e2b5</guid>
     </item>
     <item>
-      <title>Überbackenes Putenschnitzel, Spaghetti | Rotes Pesto | Basilikum</title>
+      <title>Waldviertler Hirschgulasch, Böhmische Knödel | Preiselbeeren</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, H, O) Others: 11.30</description>
-      <guid isPermaLink="false">3c5854f5492c8c0151d58425ed90cacc744eea7f806d107b4ddb36d370b0af64</guid>
+      <description>Tagesgerichte (A, C, G, L, M, O) Others: 12.90</description>
+      <guid isPermaLink="false">dbc010b597f2f1e221800dc1e8c5a19052128f626e514c5265f2fe543a18b020</guid>
     </item>
     <item>
-      <title>Sesam-Tofu, Mediterranes Grillgemüse | Glasnudeln |, Teriyaki-Sauce</title>
+      <title>Gebackener Karfiol, Petersilerdäpfel | Sauce Tatar</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, F, L, N, O, VEGAN) Others: 7.90</description>
-      <guid isPermaLink="false">a8136ef14007a51d6733868eeae624ed33bf5038e90fdf00c3f6b2e5d0a9e73a</guid>
+      <description>Tagesgerichte (A, C, G, M) Others: 7.20</description>
+      <guid isPermaLink="false">2440eaca39a858bd03e1f55f536ee48b583b0074f47ffc373d273e306c8297c6</guid>
     </item>
   </channel>
 </rss>
