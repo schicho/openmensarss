@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mensa UNI Passau (Tue, 24 Nov 2026)</title>
+    <title>Mensa UNI Passau (Wed, 25 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Mon, 23 Nov 2026 19:56:31 +0000</pubDate>
+    <pubDate>Tue, 24 Nov 2026 01:27:40 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,76 +14,22 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Speckklösschensuppe</title>
+      <title>Vollkornröstling mit Gemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Suppe (Weizen, Eier, Milch und Milchprodukte, Sellerie, Schweinefleisch) Students: 0.80, Employees: 1.00, Others: 1.50</description>
-      <guid isPermaLink="false">f9b2b7a176ecca208c7f1a23289f672a7fb2d21ceae8850a21eb4f86dd125337</guid>
+      <description>Hauptgerichte (Weizen, Eier, Sellerie, vegetarisch) Students: 2.30, Employees: 3.30, Others: 6.10</description>
+      <guid isPermaLink="false">e8a9130cd53e56803d1eb97514af8f2c10575280436deecb2fde4aedbfe00692</guid>
     </item>
     <item>
-      <title>Persischer Linseneintopf und</title>
+      <title>Tofugulasch &#34;Szegediner Art&#34; mit Kräuterkartoffeln</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Hauptgerichte (Ash-E-Anar, mit Süssungsmittel Saccharin, Sellerie, vegan, ZTGF) Students: 2.30, Employees: 3.30, Others: 6.10</description>
-      <guid isPermaLink="false">bb49408f36e0a30d3b1bbed48e7a64780dadd4226861c7c2f4560e0188917092</guid>
+      <description>Hauptgerichte (mit Antioxidationsmittel, Soja, Sellerie, vegan, ZTGF) Students: 3.80, Employees: 4.70, Others: 7.10</description>
+      <guid isPermaLink="false">ce3edff4c4b33887554f88fbd320c95b982bcb46bb7416a52d894cee2d0eb94f</guid>
     </item>
     <item>
-      <title>Vegane Spätzle-Pilzpfanne</title>
+      <title>Ziggy Fries</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Hauptgerichte (Weizen, Sellerie, vegan) Students: 3.30, Employees: 4.10, Others: 6.70</description>
-      <guid isPermaLink="false">9d086afb2ab4b9061f616cb40d15128732d23a8618a70da07cd2823e292798c9</guid>
-    </item>
-    <item>
-      <title>Tintenfisch Tapas auf Paprikareis</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Hauptgerichte (Weizen, Milch und Milchprodukte, Sellerie, Weichtiere, Fisch) Students: 5.50, Employees: 6.70, Others: 8.20</description>
-      <guid isPermaLink="false">e4a02e986ca0670ef9166370e7b87916e2faa36442c0f809c77187cbe3b8d714</guid>
-    </item>
-    <item>
-      <title>Krustenbraten vom Schwein mit Reiberknödel</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Hauptgerichte (Weizen, Sellerie, Schwefeldioxid und Sulfite, Schweinefleisch, Alkohol) Students: 5.50, Employees: 6.70, Others: 8.20</description>
-      <guid isPermaLink="false">19540e0ce87c3e459c08a86dfcc33665cd5c164b5b972a81bd6d745c10f5d517</guid>
-    </item>
-    <item>
-      <title>Bio-Paprikareis</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Beilagen (vegan, DE-ÖKO-006 mit ausschließlich biologisch erzeugten Rohstoffen, ZTGF) Students: 1.20, Employees: 1.40, Others: 1.90</description>
-      <guid isPermaLink="false">7da15524ad2a6f611988a0e77e0adf5b94c1e47e8b0c8cfa3ac18128ebd464d4</guid>
-    </item>
-    <item>
-      <title>Gemischter Salat</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Beilagen (mit Farbstoff, mit Antioxidationsmittel, geschwefelt, geschwärzt, Eier, Milch und Milchprodukte, Sellerie, Senf, Schwefeldioxid und Sulfite, vegetarisch) Students: 1.30, Employees: 1.50, Others: 2.00</description>
-      <guid isPermaLink="false">487f46606b991a53dfd2a352f30ecabc4beb94ebf2bc35c25aa4a30a946b47e2</guid>
-    </item>
-    <item>
-      <title>Reiberknödel</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Beilagen (Weizen, Schwefeldioxid und Sulfite, vegan) Students: 1.40, Employees: 1.50, Others: 2.00</description>
-      <guid isPermaLink="false">ed2e864dbebd8eec03250d55050afd6a233cc5dfaa933cc1efa153af0b389c89</guid>
-    </item>
-    <item>
-      <title>Gemüsecocktail Cordial</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Beilagen (Sellerie, vegan, ZTGF) Students: 1.40, Employees: 1.50, Others: 2.00</description>
-      <guid isPermaLink="false">9783ca4f7dcb5614f06c2db399d817cf5469f5067501c1ec58c3a72f16f5c438</guid>
-    </item>
-    <item>
-      <title>Bio-Vanillepudding</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nachspeisen (Milch und Milchprodukte, DE-ÖKO-006 mit ausschließlich biologisch erzeugten Rohstoffen, vegetarisch) Students: 1.00, Employees: 1.20, Others: 1.60</description>
-      <guid isPermaLink="false">9e3ed2005b14a0771abde1fad3f755628a186107d25cfff87e7bf0ded6038695</guid>
-    </item>
-    <item>
-      <title>Heidelbeerjoghurt - vegan</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nachspeisen (mit Farbstoff, Mandel, vegan) Students: 1.00, Employees: 1.20, Others: 1.60</description>
-      <guid isPermaLink="false">2f13c0bd30c2ea82fa430cf7edc6fb32518eed094d76bae77dab6463e71af1e2</guid>
-    </item>
-    <item>
-      <title>Kirsch-Tiramisu</title>
-      <link>https://schicho.github.io/openmensarss/</link>
-      <description>Nachspeisen (enthält Sulfite, Weizen, Eier, Milch und Milchprodukte, vegetarisch, Alkohol) Students: 1.20, Employees: 1.50, Others: 1.70</description>
-      <guid isPermaLink="false">19e8e721e32176c315e905c11b6ec4faccd4b6dbdb0b64b839f1df6a11bf3def</guid>
+      <description>Beilagen (vegan, ZTGF) Students: 1.40, Employees: 1.50, Others: 2.00</description>
+      <guid isPermaLink="false">52cf91099c26e9a2870a9a109a93cee54cff5a3bc050cf11544dbdea68b256da</guid>
     </item>
   </channel>
 </rss>
