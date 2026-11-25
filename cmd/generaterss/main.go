@@ -26,7 +26,7 @@ func writeRSSWithStylesheet(feed feeds.XmlFeed, w io.Writer) error {
 		return err
 	}
 
-	if _, err := w.Write([]byte(`<?xml-stylesheet type="text/xsl" href="feed.xsl"?>` + "\n")); err != nil {
+	if _, err := w.Write([]byte(`<?xml-stylesheet type="text/css" href="feed-xml.css"?>` + "\n")); err != nil {
 		return err
 	}
 

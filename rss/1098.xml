@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="feed.xsl"?>
+<?xml-stylesheet type="text/css" href="feed-xml.css"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Wed, 25 Nov 2026)</title>
