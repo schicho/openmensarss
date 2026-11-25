@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/css" href="feed-xml.css"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mensa UNI Passau (Wed, 25 Nov 2026)</title>
+    <title>Mensa UNI Passau (Thu, 26 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Tue, 24 Nov 2026 23:21:28 +0000</pubDate>
+    <pubDate>Wed, 25 Nov 2026 22:55:33 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,22 +14,76 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>Vollkornröstling mit Gemüse</title>
+      <title>Leberspätzlesuppe</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Hauptgerichte (Weizen, Eier, Sellerie, vegetarisch) Students: 2.30, Employees: 3.30, Others: 6.10</description>
-      <guid isPermaLink="false">e8a9130cd53e56803d1eb97514af8f2c10575280436deecb2fde4aedbfe00692</guid>
+      <description>Suppe (Weizen, Eier, Sellerie, Schweinefleisch) Students: 0.80, Employees: 1.00, Others: 1.50</description>
+      <guid isPermaLink="false">f5d9bf341633988d5fe25204d192dd0f72fae556c55cfac444dd04cf241085ec</guid>
     </item>
     <item>
-      <title>Tofugulasch &#34;Szegediner Art&#34; mit Kräuterkartoffeln</title>
+      <title>Spaghetti Agli olio</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Hauptgerichte (mit Antioxidationsmittel, Soja, Sellerie, vegan, ZTGF) Students: 3.80, Employees: 4.70, Others: 7.10</description>
-      <guid isPermaLink="false">ce3edff4c4b33887554f88fbd320c95b982bcb46bb7416a52d894cee2d0eb94f</guid>
+      <description>Hauptgerichte (Weizen, Mandel, Sellerie, vegan) Students: 2.30, Employees: 3.30, Others: 6.10</description>
+      <guid isPermaLink="false">06af245f20c95ed4584677b942ef4b20aca13267080b974739f8c40386b7a8f3</guid>
     </item>
     <item>
-      <title>Ziggy Fries</title>
+      <title>Tofu-Frikasse mit Bio-Reis</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Hauptgerichte (Soja, Sellerie, vegan, ZTGF) Students: 3.80, Employees: 4.70, Others: 7.10</description>
+      <guid isPermaLink="false">8ac44dd0f167de6e9ecea07469f7acbb8ecde9840b01c2a66279aee0c6275bed</guid>
+    </item>
+    <item>
+      <title>Bunte Falafel mit veganer Sour Creme</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Hauptgerichte (mit Farbstoff, mit Antioxidationsmittel, mit Phosphat, Sellerie, Schwefeldioxid und Sulfite, vegan, ZTGF) Students: 3.80, Employees: 4.70, Others: 7.10</description>
+      <guid isPermaLink="false">20dc53da5ee48138c1ff7b558450c90fd752fd7525291677a06a7b4fe501c3e8</guid>
+    </item>
+    <item>
+      <title>Juradistl-Currywurst mit Pommes Frites</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Hauptgerichte (mit Farbstoff, mit Konservierungsstoff, mit Antioxidationsmittel, mit Geschmacksverstärker, Sellerie, Senf, Schweinefleisch, Rindfleisch, Juradistl, ZTGF) Students: 5.50, Employees: 6.70, Others: 8.20</description>
+      <guid isPermaLink="false">911012867fc27e8cadef1e8eeb722816a88836c9ad215c73472501f959962434</guid>
+    </item>
+    <item>
+      <title>Bio-Curryreis</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Beilagen (DE-ÖKO-006 mit ausschließlich biologisch erzeugten Rohstoffen, vegan, ZTGF) Students: 1.20, Employees: 1.40, Others: 1.90</description>
+      <guid isPermaLink="false">1d44d2befa8665333d28c64dab2888b4c35ec8173f0481b5a8a4b3b00efc98d3</guid>
+    </item>
+    <item>
+      <title>Gemischter Salat</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Beilagen (mit Farbstoff, mit Antioxidationsmittel, geschwefelt, geschwärzt, Eier, Milch und Milchprodukte, Sellerie, Senf, Schwefeldioxid und Sulfite, vegetarisch) Students: 1.30, Employees: 1.50, Others: 2.00</description>
+      <guid isPermaLink="false">0951f898d8bb60afc857c65aad5295e169e0cb5609a13da29660f1a8b551a484</guid>
+    </item>
+    <item>
+      <title>Pommes frites</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Beilagen (vegan, ZTGF) Students: 1.40, Employees: 1.50, Others: 2.00</description>
-      <guid isPermaLink="false">52cf91099c26e9a2870a9a109a93cee54cff5a3bc050cf11544dbdea68b256da</guid>
+      <guid isPermaLink="false">0f7ad76cab3b116d0509043e63dd0f7bb0906742a14d29f75479afe8a586c178</guid>
+    </item>
+    <item>
+      <title>Frühlingsgemüse</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Beilagen (Sellerie, vegan, ZTGF) Students: 1.40, Employees: 1.50, Others: 2.00</description>
+      <guid isPermaLink="false">f2b7a9b12934d1fad6c1e01614b158df3cb982ecfaefea0f298238366ee69b35</guid>
+    </item>
+    <item>
+      <title>Bananenjoghurt - vegan</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Nachspeisen (mit Farbstoff, Mandel, vegan) Students: 1.00, Employees: 1.20, Others: 1.60</description>
+      <guid isPermaLink="false">8342f900def76aec804150aaf98f43a7f55454edee2779220d91a06a7d60ad06</guid>
+    </item>
+    <item>
+      <title>Milchreis mit Erdbeeren</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Nachspeisen (Milch und Milchprodukte, vegetarisch) Students: 1.20, Employees: 1.50, Others: 1.70</description>
+      <guid isPermaLink="false">9bc93bc8c640bb0b28f02eff38014de0388614705d085a5b6cf2c930ed636aca</guid>
+    </item>
+    <item>
+      <title>Gelbe Grütze mit veganem Mousse Chocolate</title>
+      <link>https://schicho.github.io/openmensarss/</link>
+      <description>Nachspeisen (Soja, vegan) Students: 1.20, Employees: 1.50, Others: 1.70</description>
+      <guid isPermaLink="false">7654cac81716ffadb59a8b01fd5f69d40c11bd35dc7b7acbb2642692808db8b3</guid>
     </item>
   </channel>
 </rss>
