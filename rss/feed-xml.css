@@ -59,7 +59,7 @@ channel > item > description {
 
 channel > pubDate {
     margin-top: 4rem;
-    margin-bottom: 1.15rem;
+    margin-bottom: 4rem;
 }
 
 channel > pubDate::before {
