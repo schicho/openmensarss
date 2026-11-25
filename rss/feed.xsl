@@ -7,6 +7,8 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="omrss.gif" type="image/x-icon" />
+        <link rel="preload" href="https://schicho.github.io/shared/FreeSans.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
+        <link rel="preload" href="https://schicho.github.io/shared/FreeSansBold.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
         <link rel="stylesheet" href="https://schicho.github.io/shared/style.css"></link>
         <link rel="stylesheet" type="text/css" href="feed.css" />
         <title>
