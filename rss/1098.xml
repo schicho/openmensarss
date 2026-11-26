@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/css" href="feed-xml.css"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Thu, 26 Nov 2026)</title>
+    <title>Wien, TU Mensa Markt &amp; M-Cafe Freihaus (Fri, 27 Nov 2026)</title>
     <link>https://schicho.github.io/openmensarss/</link>
     <description>Automated RSS feed using OpenMensa</description>
     <managingEditor>johann.schicho@tuwien.ac.at (OpenMensa RSS Generator)</managingEditor>
-    <pubDate>Wed, 25 Nov 2026 22:55:33 +0000</pubDate>
+    <pubDate>Thu, 26 Nov 2026 22:46:19 +0000</pubDate>
     <generator>OpenMensa RSS Generator</generator>
     <image>
       <url>https://schicho.github.io/openmensarss/omrss.gif</url>
@@ -14,40 +14,40 @@
       <link>https://schicho.github.io/openmensarss/</link>
     </image>
     <item>
-      <title>1000*((2/3*Pi*r^3 + Pi*h*r^2 + 2/3*Pi*r^3) h, r 10, h&lt;5), by anonymen Physiker</title>
+      <title>K m/s^2 PSE[104, 53, 8, d/di(3)], Pferd + Heu= Pfui/Pfe, sqrt(E/m)*(R*I)*r^2*f(x)</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Studyteller (F, O) Others: 5.20</description>
-      <guid isPermaLink="false">1410b6a559008b889cc987ae2c3ae62e10d30d00552e5b834c37882d7500dd8d</guid>
+      <description>Studyteller (A, O) Others: 5.20</description>
+      <guid isPermaLink="false">e091cfcbe44f41a29e974960615823b69a61ddb00dc344c98b759a29aeee6e62</guid>
     </item>
     <item>
       <title>Power-Vitamin Bowl, FRISCH, BUNT &amp; VEGAN, Unsere veganen Bowls werden täglich, neu kombiniert &amp; sind die Mahlzeit für, Sonne, Park und Pause</title>
       <link>https://schicho.github.io/openmensarss/</link>
       <description>Power Vitamin Bowl (A, F, M, O, VEGAN) Others: 6.50</description>
-      <guid isPermaLink="false">24f192f74cca2d11076c0f5d8c561f383dd4b228bff9ed7667dff1ef7b491d61</guid>
+      <guid isPermaLink="false">a8df11ed7bbb39d9c87a0b6929e72aae003660d5500d90486dfc5eb97cc1906e</guid>
     </item>
     <item>
-      <title>Reispfanne, Soja | Paprika | Tomate</title>
+      <title>Karfiol-Erdäpfelcurry, Cous Cous | Kurkuma | Kardamom</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (F, O, VEGAN) Others: 7.10</description>
-      <guid isPermaLink="false">1cca2eff3ff24dcf1d0e4be604bf9d1ea3ad1c26219d4b6182305d6b895c6552</guid>
+      <description>Menü Vegan (inkl. Suppe oder Beilagensalat) (A, O, VEGAN) Others: 7.10</description>
+      <guid isPermaLink="false">b972ec9280e435dc6664703492a0f22cede9022e4f5336ebd987c6df7ad27ded</guid>
     </item>
     <item>
-      <title>Hühnereintopf, mediterranes Gemüse | cremige Polenta</title>
+      <title>Putengeschnetzeltes, Sauerrahmsauce | Bulgur</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (C, F, G, L, O) Others: 8.20</description>
-      <guid isPermaLink="false">dc031dc7b5800a7257f9ee6a60b85c2029aaaabe1258b5a71b14f7ffbd361169</guid>
+      <description>Menü Herzhaft (inkl. Suppe oder Beilagensalat) (A, G, L, O) Others: 8.20</description>
+      <guid isPermaLink="false">a1752c7f5a833febb4b49d0f825f01c24a76d0f6c0cf45867e26db340dabd40e</guid>
     </item>
     <item>
-      <title>Hausgemachte Buchteln, Vanillesauce | Staubzucker</title>
+      <title>Pochiertes Zanderfilet, Weißweinsauce | Dillkartoffeln |, Julienne vom Wurzelgemüse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G) Others: 7.20</description>
-      <guid isPermaLink="false">70fcebca51fe7fc99c276788f971849e115a675fd59ae60ae1619466df4e7136</guid>
+      <description>Tagesgerichte (D, F, L, O) Others: 12.90</description>
+      <guid isPermaLink="false">d419e84fc696c0e05943c524f8fd74ea9c77c2aa0a9a4aa29f61bb5acf0edf19</guid>
     </item>
     <item>
-      <title>Puten-Chili con Carne, Erdäpfelrösti | Thymian-Mayonnaise | Blattsalate</title>
+      <title>Indisches Curry, Melanzani | Kichererbsen | Hirse</title>
       <link>https://schicho.github.io/openmensarss/</link>
-      <description>Tagesgerichte (A, C, G, M, O) Others: 9.90</description>
-      <guid isPermaLink="false">d89cdb934362a0fef580033784621e1ff614d1bb542472ac53cc34165eba0de0</guid>
+      <description>Tagesgerichte (L, O, VEGAN) Others: 7.20</description>
+      <guid isPermaLink="false">765a7916f4c4adf93ccbc72638ec8cb36f5a4f37321d174afc9a194b8cb53409</guid>
     </item>
   </channel>
 </rss>
